@@ -1,0 +1,85 @@
+[
+  {
+    "id": "cmt1avkwb0000m76woi5uu5wn",
+    "title": "Quiz Multi-Tipe Test",
+    "subject": "IPA",
+    "classLevel": "8",
+    "difficulty": "sedang",
+    "minScore": 60,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 3,
+        "optionCount": 4
+      },
+      {
+        "type": "isian_singkat",
+        "count": 2
+      }
+    ],
+    "language": "id",
+    "questionCount": 5,
+    "promptText": "Sistem tubuh manusia",
+    "questions": [
+      {
+        "no": 1,
+        "question": "Sistem peredaran darah pada manusia memiliki dua sirkulasi utama. Sirkulasi paru-paru berfungsi untuk...",
+        "options": {
+          "A": "Membawa darah ke jantung untuk dioksigenkan",
+          "B": "Membawa darah yang sudah dioksigenkan ke seluruh tubuh",
+          "C": "Membawa darah yang sudah kehilangan oksigen ke paru-paru",
+          "D": "Membawa darah yang kaya nutrisi dari usus ke hati"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Pada sistem ekskresi, ginjal memainkan peran penting dalam mempertahankan keseimbangan cairan dan elektrolit dalam tubuh. Apa yang terjadi ketika kadar air dalam tubuh terlalu rendah?",
+        "options": {
+          "A": "Ginjal akan membuang lebih banyak air melalui urin",
+          "B": "Ginjal akan menyimpan lebih banyak air dengan menghasilkan urin yang pekat",
+          "C": "Ginjal akan membuang lebih banyak garam melalui urin",
+          "D": "Ginjal akan berhenti memproduksi urin sementara waktu"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Sistem saraf manusia terdiri dari sistem saraf pusat dan sistem saraf tepi. Bagian mana yang berfungsi sebagai pusat pengendali seluruh aktivitas tubuh?",
+        "options": {
+          "A": "Saraf tunjang dan saraf kranial",
+          "B": "Otak dan saraf tunjang",
+          "C": "Saraf otonom dan saraf somatik",
+          "D": "Syaraf aferen dan saraf eferen"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Apa fungsi utama sistem peredaran darah?",
+        "answer": "Mentranspor darah",
+        "_type": "isian_singkat",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 5,
+        "question": "Organ apa yang menghasilkan insulin?",
+        "answer": "Pankreas",
+        "_type": "isian_singkat",
+        "_sectionIndex": 1
+      }
+    ],
+    "tableConfig": null,
+    "pin": "63N574",
+    "link": "63N574",
+    "paceMode": "student_pace",
+    "createdAt": "2026-08-20T09:10:33.611Z"
+  }
+]
