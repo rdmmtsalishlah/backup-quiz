@@ -81,5 +81,272 @@
     "link": "63N574",
     "paceMode": "student_pace",
     "createdAt": "2026-08-20T09:10:33.611Z"
+  },
+  {
+    "id": "cmteyb75s0000rj0a86jfgd1l",
+    "title": "Present Simple",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "mudah,sedang",
+    "minScore": 75,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 5,
+        "optionCount": 4
+      },
+      {
+        "type": "benar_salah",
+        "count": 5,
+        "point": 5
+      },
+      {
+        "type": "acak_kata",
+        "count": 5,
+        "point": 5
+      }
+    ],
+    "language": "en",
+    "questionCount": 20,
+    "promptText": "focus on subject-verb agreement by completing the sentence with correct form of the verb using present simple, choosing the right sentence of present simple with correct verb used, and make good sentences based on the given words.",
+    "questions": [
+      {
+        "no": 1,
+        "question": "Choose the correct sentence with proper subject-verb agreement:",
+        "options": {
+          "A": "She play the piano every day.",
+          "B": "She plays the piano every day.",
+          "C": "She playing the piano every day.",
+          "D": "She played the piano every day."
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Complete the sentence with the correct present simple form of the verb: 'My father _____ (work) in a hospital.'",
+        "options": {
+          "A": "work",
+          "B": "works",
+          "C": "working",
+          "D": "worked"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Which sentence has correct subject-verb agreement?",
+        "options": {
+          "A": "The dogs barks loudly.",
+          "B": "The dogs bark loudly.",
+          "C": "The dogs barked loudly.",
+          "D": "The dogs is barking loudly."
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Choose the correct present simple sentence:",
+        "options": {
+          "A": "They goes to school together.",
+          "B": "They go to school together.",
+          "C": "They going to school together.",
+          "D": "They goes to school together."
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Complete the sentence with the correct form: 'The sun _____ (rise) in the east.'",
+        "options": {
+          "A": "rise",
+          "B": "rises",
+          "C": "rising",
+          "D": "rose"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Choose the correct form of the verb to complete the sentence: 'The team of scientists _____ researching new solutions to climate change.'",
+        "options": {
+          "A": "research",
+          "B": "researches",
+          "C": "researching",
+          "D": "researched"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Which sentence uses the correct subject-verb agreement?",
+        "options": {
+          "A": "Neither of the students understand the assignment.",
+          "B": "Each of the books have interesting stories.",
+          "C": "The number of students in the class is increasing.",
+          "D": "A pair of shoes are in the closet."
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Complete the sentence with the correct present simple form: 'My sister _____ to music every evening.'",
+        "options": {
+          "A": "listen",
+          "B": "listens",
+          "C": "listening",
+          "D": "listened"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Which sentence correctly uses the present simple tense?",
+        "options": {
+          "A": "He don't like vegetables.",
+          "B": "They goes to school together.",
+          "C": "We plays football on weekends.",
+          "D": "She studies hard for exams."
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Choose the correct sentence with proper subject-verb agreement:",
+        "options": {
+          "A": "The committee are divided on this issue.",
+          "B": "Politics is a complicated subject.",
+          "C": "The news are broadcasted at 6 PM.",
+          "D": "Mathematics are my favorite subject."
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "In the sentence 'The dog barks loudly every morning', the verb 'barks' agrees with the singular subject 'dog'.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 12,
+        "question": "Does the sentence 'They go to school together every day' have correct subject-verb agreement?",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 13,
+        "question": "Does the verb 'go' need to be in its base form when the subject is 'he' in present simple tense?",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "sedang",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 14,
+        "question": "In present simple tense, plural subjects like 'they' require verbs to end in '-s' or '-es'.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "sedang",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 15,
+        "question": "The sentence 'She doesn't play tennis every weekend' has correct subject-verb agreement in present simple tense.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "sedang",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 16,
+        "question": "Unscramble the letters to form the correct verb that agrees with the subject 'She' in present simple tense.",
+        "scrambledWord": "wlaaks",
+        "answer": "walks",
+        "hint": "This verb shows what she does regularly.",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 17,
+        "question": "Unscramble the letters to form the correct verb that agrees with the subject 'They' in present simple tense.",
+        "scrambledWord": "paly",
+        "answer": "play",
+        "hint": "This verb shows what they do regularly.",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 18,
+        "question": "Unscramble the letters to form the correct verb that should complete this sentence: 'The dogs _____ loudly every night.'",
+        "scrambledWord": "rbak",
+        "answer": "bark",
+        "hint": "This verb describes what dogs do regularly in the present simple tense.",
+        "_type": "acak_kata",
+        "_difficulty": "sedang",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 19,
+        "question": "Unscramble the letters to form the correct subject that should complete this sentence: '_____ study English every day.'",
+        "scrambledWord": "tdeusn",
+        "answer": "students",
+        "hint": "This is a plural noun that takes a verb without 's' in present simple tense.",
+        "_type": "acak_kata",
+        "_difficulty": "sedang",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 20,
+        "question": "Unscramble the letters to form the correct adverb that should complete this sentence: 'She _____ plays the piano.'",
+        "scrambledWord": "wloel",
+        "answer": "well",
+        "hint": "This adverb describes how someone performs an action and is often used with verbs like 'play' or 'sing'.",
+        "_type": "acak_kata",
+        "_difficulty": "sedang",
+        "_sectionIndex": 2
+      }
+    ],
+    "tableConfig": null,
+    "pin": "EN6UTN",
+    "link": "EN6UTN",
+    "paceMode": "student_pace",
+    "createdAt": "2026-08-29T22:27:33.760Z"
   }
 ]
