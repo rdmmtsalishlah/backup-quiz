@@ -348,5 +348,577 @@
     "link": "EN6UTN",
     "paceMode": "student_pace",
     "createdAt": "2026-08-29T22:27:33.760Z"
+  },
+  {
+    "id": "cmth57n6b0000s10am0tx7l4o",
+    "title": "Present Simple : Verbal Sentence (Subject-Verb Agreement)",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 65,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 2,
+        "optionCount": 4
+      },
+      {
+        "type": "isian_singkat",
+        "count": 10,
+        "point": 2
+      },
+      {
+        "type": "benar_salah",
+        "count": 10,
+        "point": 2
+      },
+      {
+        "type": "acak_kata",
+        "count": 10,
+        "point": 2
+      }
+    ],
+    "language": "en",
+    "questionCount": 50,
+    "promptText": "Pilihan Ganda : Answer question by choosing the right form of the verb (present simple) \nsample question : Andi ______ his parents everyday. (answer: helps)\nrandomize possitive, negative and interrogative with \"Do/Does\"\n\nIsian singkat : Fill in the blank with correct form of the verb (present simple) \nsample question : Andi ______ (not like) potatoes. (answer: does not like)\nrandomize possitive, negative and interrogative with \"Do/Does\"\n\nBenar/Salah : State if the sentences below use correct present simple\nsample question : Does they usually play video games ? (answer : Salah/False)\nrandomize possitive, negative and interrogative with \"Do/Does\"\n\nSusun Kalimat : Arrange the word into good sentences of present simple\nsample question : classroom - they - every morning - clean - their (answer : They clean their classroom every morning)\nrandomize possitive, negative and interrogative with \"Do/Does\"",
+    "questions": [
+      {
+        "no": 1,
+        "question": "She ______ to school every day.",
+        "options": {
+          "A": "go",
+          "B": "goes",
+          "C": "going",
+          "D": "are going"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "______ your father work in an office?",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "We ______ football on weekends.",
+        "options": {
+          "A": "play",
+          "B": "plays",
+          "C": "playing",
+          "D": "are playing"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "The cat ______ milk every morning.",
+        "options": {
+          "A": "drink",
+          "B": "drinks",
+          "C": "drinking",
+          "D": "drank"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "______ they live in a big house?",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "He ______ not like chocolate.",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "My mother ______ dinner at 7 PM.",
+        "options": {
+          "A": "make",
+          "B": "makes",
+          "C": "making",
+          "D": "is making"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "______ your sister speak English?",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "The sun ______ in the east.",
+        "options": {
+          "A": "rise",
+          "B": "rises",
+          "C": "rising",
+          "D": "are rising"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "They ______ not play computer games.",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "I ______ breakfast at 8 AM.",
+        "options": {
+          "A": "have",
+          "B": "has",
+          "C": "having",
+          "D": "am having"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "______ your teacher wear glasses?",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "The birds ______ in the tree.",
+        "options": {
+          "A": "sing",
+          "B": "sings",
+          "C": "singing",
+          "D": "are singing"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "He ______ not eat vegetables.",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "______ you read books every night?",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "The dog ______ in the garden.",
+        "options": {
+          "A": "sleep",
+          "B": "sleeps",
+          "C": "sleeping",
+          "D": "are sleeping"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "They ______ not like cold weather.",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "______ your brother play the piano?",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "The baby ______ at night.",
+        "options": {
+          "A": "cry",
+          "B": "cries",
+          "C": "crying",
+          "D": "are crying"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "I ______ not understand the question.",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "She ______ to school every day.",
+        "answer": "goes",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 22,
+        "question": "They ______ not play football on Sundays.",
+        "answer": "do",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 23,
+        "question": "______ your father work in an office?",
+        "answer": "Does",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 24,
+        "question": "I ______ my homework in the evening.",
+        "answer": "do",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 25,
+        "question": "______ the cat like milk?",
+        "answer": "Does",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 26,
+        "question": "We ______ not eat meat.",
+        "answer": "do",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 27,
+        "question": "He ______ up at 6 AM.",
+        "answer": "gets",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 28,
+        "question": "______ your sister sing well?",
+        "answer": "Does",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 29,
+        "question": "They ______ not watch TV on weekdays.",
+        "answer": "do",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 30,
+        "question": "I ______ breakfast at 7 AM.",
+        "answer": "have",
+        "_type": "isian_singkat",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 31,
+        "question": "The sentence 'She do not like coffee' uses the correct present simple form.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 32,
+        "question": "In present simple questions with 'he', 'she', or 'it', we use 'does' as the auxiliary verb.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 33,
+        "question": "The sentence 'Does they play tennis on Sundays?' is grammatically correct.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 34,
+        "question": "For negative sentences in present simple with 'I', 'you', 'we', or 'they', we use 'do not'.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 35,
+        "question": "The sentence 'He go to school by bus every day' is correctly formed.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 36,
+        "question": "In present simple questions with plural subjects, we use 'do' as the auxiliary verb.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 37,
+        "question": "The sentence 'Do you likes chocolate?' has the correct present simple form.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 38,
+        "question": "For negative sentences in present simple with 'he', 'she', or 'it', we use 'does not'.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 39,
+        "question": "The sentence 'We reads books in the library' is grammatically correct.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 40,
+        "question": "In present simple questions with 'I', we use 'do' as the auxiliary verb.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 2
+      },
+      {
+        "no": 41,
+        "question": "Rearrange the words to form a correct present simple sentence",
+        "scrambledWords": "I - to school - every day - walk",
+        "answer": "I walk to school every day",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 42,
+        "question": "Rearrange the words to form a correct present simple negative sentence",
+        "scrambledWords": "She - does - like - not - coffee",
+        "answer": "She does not like coffee",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 43,
+        "question": "Rearrange the words to form a correct present simple interrogative sentence",
+        "scrambledWords": "Do - you - football - play",
+        "answer": "Do you play football",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 44,
+        "question": "Rearrange the words to form a correct present simple sentence",
+        "scrambledWords": "They - homework - every evening - do",
+        "answer": "They do homework every evening",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 45,
+        "question": "Rearrange the words to form a correct present simple negative sentence",
+        "scrambledWords": "He - does - not - eat - vegetables",
+        "answer": "He does not eat vegetables",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 46,
+        "question": "Rearrange the words to form a correct present simple interrogative sentence",
+        "scrambledWords": "Does - your sister - read - books",
+        "answer": "Does your sister read books",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 47,
+        "question": "Rearrange the words to form a correct present simple sentence",
+        "scrambledWords": "We - English - speak - at home",
+        "answer": "We speak English at home",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 48,
+        "question": "Rearrange the words to form a correct present simple negative sentence",
+        "scrambledWords": "I - do - not - like - spiders",
+        "answer": "I do not like spiders",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 49,
+        "question": "Rearrange the words to form a correct present simple interrogative sentence",
+        "scrambledWords": "Do - they - live - in London",
+        "answer": "Do they live in London",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      },
+      {
+        "no": 50,
+        "question": "Rearrange the words to form a correct present simple sentence",
+        "scrambledWords": "Cats - milk - drink",
+        "answer": "Cats drink milk",
+        "_type": "acak_kata",
+        "_difficulty": "mudah",
+        "_sectionIndex": 3
+      }
+    ],
+    "tableConfig": null,
+    "pin": "NHE8A9",
+    "link": "NHE8A9",
+    "paceMode": "student_pace",
+    "createdAt": "2026-08-31T11:16:17.556Z"
   }
 ]
