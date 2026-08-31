@@ -1,20 +1,33 @@
 {
-  "quizLevel": 2,
-  "lastSyncAt": "2026-08-29T22:41:00.869Z",
+  "quizLevel": 3,
+  "lastSyncAt": "2026-08-31T12:13:32.177Z",
   "lastPullAt": "2026-08-31T10:53:21.173Z",
-  "totalQuizzes": 2,
-  "totalSessions": 0,
+  "totalQuizzes": 3,
+  "totalSessions": 1,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 1,
-      "count": 2,
+      "to": 2,
+      "count": 3,
       "sha": null
     }
   ],
-  "sessionFiles": [],
+  "sessionFiles": [
+    {
+      "file": "sessions/sessions_cmt1avkwb0000m76woi5uu5wn.json",
+      "quizId": "cmt1avkwb0000m76woi5uu5wn",
+      "quizTitle": "Quiz Multi-Tipe Test",
+      "sessionCount": 1,
+      "sha": null
+    }
+  ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-08-31T12:13:32.177Z",
+      "details": "Sync 3 quiz, 1 sesi"
+    },
     {
       "type": "full",
       "timestamp": "2026-08-29T22:41:00.869Z",
