@@ -1,0 +1,21 @@
+[
+  {
+    "id": "cmtfxi21c0001nrve0n6w4gwp",
+    "quizId": "cmt1avkwb0000m76woi5uu5wn",
+    "studentName": "Test Student",
+    "studentClass": "8A",
+    "answers": {
+      "1": "A",
+      "2": "B",
+      "3": "A",
+      "4": "test answer",
+      "5": "test answer 2"
+    },
+    "score": 20,
+    "totalCorrect": 1,
+    "totalQuestions": 5,
+    "startedAt": "2026-08-30T14:52:40.272Z",
+    "completedAt": "2026-08-30T14:53:53.734Z",
+    "isActive": false
+  }
+]
