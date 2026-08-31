@@ -1,9 +1,9 @@
 {
   "quizLevel": 3,
-  "lastSyncAt": "2026-08-31T12:13:32.177Z",
+  "lastSyncAt": "2026-08-31T16:21:28.724Z",
   "lastPullAt": "2026-08-31T15:32:23.306Z",
   "totalQuizzes": 3,
-  "totalSessions": 1,
+  "totalSessions": 2,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
@@ -20,9 +20,21 @@
       "quizTitle": "Quiz Multi-Tipe Test",
       "sessionCount": 1,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmth57n6b0000s10am0tx7l4o.json",
+      "quizId": "cmth57n6b0000s10am0tx7l4o",
+      "quizTitle": "Present Simple : Verbal Sentence (Subject-Verb Agreement)",
+      "sessionCount": 1,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-08-31T16:21:28.724Z",
+      "details": "Sync 3 quiz, 2 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-08-31T12:13:32.177Z",
