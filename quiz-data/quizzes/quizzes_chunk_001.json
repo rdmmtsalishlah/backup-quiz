@@ -1332,11 +1332,406 @@
     "language": "en",
     "questionCount": 25,
     "promptText": "Reading comprehension about greeting and Introduction. Provide a text followed by corresponding 5 questions.\nThere will be 5 text. The text can be dialog or monologue",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "What is the main purpose of greeting someone?",
+        "options": {
+          "A": "To show dominance",
+          "B": "To show respect and acknowledge their presence",
+          "C": "To ask for personal information",
+          "D": "To test their language skills"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "In the conversation between Tom and Jerry, why does Jerry ask about Tom's family?",
+        "options": {
+          "A": "To be nosy",
+          "B": "To show interest and build rapport",
+          "C": "To find out if Tom is rich",
+          "D": "To change the subject"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Tom: Hi Jerry, how are you today?\nJerry: I'm good, thanks. How about your family? Are they doing well?\n\nIn many cultures, asking about family is a common way to show interest and build rapport during conversations."
+      },
+      {
+        "no": 3,
+        "question": "What is the appropriate response to 'How do you do?'",
+        "options": {
+          "A": "I'm fine, thank you",
+          "B": "How do you do?",
+          "C": "What's up?",
+          "D": "Nice to meet you"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "In formal introductions, when someone says 'How do you do?', it is customary to respond with the same phrase."
+      },
+      {
+        "no": 4,
+        "question": "According to the text, which of the following is NOT a common greeting in English?",
+        "options": {
+          "A": "Hello",
+          "B": "Goodbye",
+          "C": "Good morning",
+          "D": "Please"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Common greetings in English include 'Hello', 'Hi', 'Good morning', 'Good afternoon', 'Good evening', and 'How are you?'. 'Goodbye' is used for farewell, not greeting. 'Please' is a polite word used to make requests, not a greeting."
+      },
+      {
+        "no": 5,
+        "question": "Why is it important to introduce yourself properly?",
+        "options": {
+          "A": "To impress others with your vocabulary",
+          "B": "To establish your identity and start communication",
+          "C": "To make others feel uncomfortable",
+          "D": "To show off your achievements"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "In the dialogue between Sarah and Mike, what does Mike mean when he says 'I'm between jobs right now'?",
+        "options": {
+          "A": "He has two jobs",
+          "B": "He is unemployed",
+          "C": "He is looking for a better job",
+          "D": "He is working part-time"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Sarah: So Mike, what are you up to these days?\nMike: I'm between jobs right now. Just taking some time to find the right opportunity."
+      },
+      {
+        "no": 7,
+        "question": "What is the most appropriate way to introduce someone else?",
+        "options": {
+          "A": "This is John, he's my friend",
+          "B": "Meet John, he's my friend",
+          "C": "I'd like you to meet John, he's my friend",
+          "D": "All of the above"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "When introducing someone, you can use various phrases depending on the formality of the situation. All the options provided are acceptable ways to introduce someone."
+      },
+      {
+        "no": 8,
+        "question": "According to the text, which greeting is most appropriate for formal occasions?",
+        "options": {
+          "A": "Hey there!",
+          "B": "Howdy!",
+          "C": "Good morning, Mr. Smith",
+          "D": "Yo!"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Formal occasions require greetings that show respect and maintain professional boundaries. Using titles like Mr., Mrs., Ms., or Dr. along with a proper greeting is appropriate for formal settings."
+      },
+      {
+        "no": 9,
+        "question": "In the conversation between Emma and Olivia, why does Emma apologize?",
+        "options": {
+          "A": "She is late",
+          "B": "She forgot Olivia's name",
+          "C": "She has to leave early",
+          "D": "She made a mistake"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Olivia: I'm glad you could make it to the meeting.\nEmma: I apologize for being late. The traffic was terrible."
+      },
+      {
+        "no": 10,
+        "question": "What should you do when someone introduces themselves?",
+        "options": {
+          "A": "Ignore them and look at your phone",
+          "B": "Listen carefully and respond appropriately",
+          "C": "Interrupt with your own introduction",
+          "D": "Change the subject immediately"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "In the monologue about meeting new people, what does the speaker suggest about handshakes?",
+        "options": {
+          "A": "Always use a firm handshake",
+          "B": "Avoid handshakes",
+          "C": "Handshakes are only for formal occasions",
+          "D": "Handshakes should be very gentle"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "When meeting new people, a firm handshake conveys confidence and respect. It should be firm but not bone-crushing, and should last about 2-3 seconds."
+      },
+      {
+        "no": 12,
+        "question": "What is the difference between 'How are you?' and 'How have you been?'?",
+        "options": {
+          "A": "There is no difference",
+          "B": "How have you been? refers to a longer period",
+          "C": "How are you? is more formal",
+          "D": "How have you been? is only used with family"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "'How are you?' typically asks about the person's current state, while 'How have you been?' asks about their recent experiences over a longer period, such as since you last met."
+      },
+      {
+        "no": 13,
+        "question": "In the dialogue between David and Lisa, what does Lisa mean when she says 'I'm tied up at the moment'?",
+        "options": {
+          "A": "She is physically tied up",
+          "B": "She is busy",
+          "C": "She doesn't want to talk",
+          "D": "She is in a meeting"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "David: Hey Lisa, do you have time to talk about the project?\nLisa: I'd love to, but I'm tied up at the moment. Can we chat later this afternoon?"
+      },
+      {
+        "no": 14,
+        "question": "According to the text, which of the following is a good way to end a conversation politely?",
+        "options": {
+          "A": "I have to go now",
+          "B": "It was nice talking to you",
+          "C": "I'm bored",
+          "D": "Both A and B"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "When ending a conversation, it's polite to give a reason for leaving and express appreciation for the interaction. This shows respect for the other person's time and the conversation you've had."
+      },
+      {
+        "no": 15,
+        "question": "What should you do when you forget someone's name after an introduction?",
+        "options": {
+          "A": "Pretend you know it",
+          "B": "Ask them to remind you",
+          "C": "Avoid them in the future",
+          "D": "Introduce yourself again"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "In the conversation between James and Maria, what does Maria mean when she says 'I'm new around here'?",
+        "options": {
+          "A": "She is new to the neighborhood",
+          "B": "She is new to the country",
+          "C": "She is new to the school",
+          "D": "All of the above"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "James: Welcome to our school! I hope you're settling in well.\nMaria: Thanks! I'm new around here, so everything is still a bit overwhelming."
+      },
+      {
+        "no": 17,
+        "question": "What is the purpose of making eye contact during an introduction?",
+        "options": {
+          "A": "To intimidate the other person",
+          "B": "To show confidence and interest",
+          "C": "To check their eye color",
+          "D": "To avoid looking nervous"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "According to the text, which of the following is NOT a way to greet someone in the morning?",
+        "options": {
+          "A": "Good morning",
+          "B": "Morning",
+          "C": "Hello",
+          "D": "Good night"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Morning greetings include 'Good morning', 'Morning', and 'Hello'. 'Good night' is used in the evening or before bedtime, not as a morning greeting."
+      },
+      {
+        "no": 19,
+        "question": "In the dialogue between Kevin and Rachel, why does Kevin say 'It's a pleasure to meet you'?",
+        "options": {
+          "A": "He is being sarcastic",
+          "B": "He is genuinely happy to meet Rachel",
+          "C": "He is being polite",
+          "D": "Both B and C"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Rachel: It's nice to meet you, Kevin.\nKevin: The pleasure is all mine. It's a pleasure to meet you too."
+      },
+      {
+        "no": 20,
+        "question": "What should you avoid when introducing yourself?",
+        "options": {
+          "A": "Speaking clearly",
+          "B": "Making eye contact",
+          "C": "Mumbling",
+          "D": "Smiling"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "In the monologue about cultural greetings, what does the speaker say about bowing?",
+        "options": {
+          "A": "It is the most common greeting worldwide",
+          "B": "It is appropriate in some cultures",
+          "C": "It is only done by women",
+          "D": "It is outdated"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Different cultures have different greeting customs. While handshakes are common in Western cultures, bowing is a traditional greeting in many Asian countries like Japan and Korea. The depth and duration of the bow can convey different levels of respect."
+      },
+      {
+        "no": 22,
+        "question": "What is the difference between a formal and informal introduction?",
+        "options": {
+          "A": "Formal introductions use titles",
+          "B": "Informal introductions use first names",
+          "C": "Formal introductions are longer",
+          "D": "All of the above"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Formal introductions typically include titles (Mr., Mrs., Dr.) and last names, while informal introductions use first names. Formal introductions often follow a more structured format and may include more details about the person's position or background."
+      },
+      {
+        "no": 23,
+        "question": "In the conversation between Anna and Ben, what does Ben mean when he says 'I'm in the same boat'?",
+        "options": {
+          "A": "He is in a boat",
+          "B": "He is in a similar situation",
+          "C": "He is feeling seasick",
+          "D": "He likes boats"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Anna: I'm so stressed about the exam tomorrow.\nBen: I know what you mean. I'm in the same boat. I haven't had enough time to study either."
+      },
+      {
+        "no": 24,
+        "question": "According to the text, what should you do when someone greets you in a language you don't understand?",
+        "options": {
+          "A": "Ignore them",
+          "B": "Smile and say hello",
+          "C": "Ask what they said",
+          "D": "Both B and C"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "When someone greets you in a language you don't understand, it's polite to acknowledge them with a smile and a friendly greeting. If appropriate, you can ask them to repeat or explain what they said, showing interest in their language and culture."
+      },
+      {
+        "no": 25,
+        "question": "In the dialogue between Claire and Tom, why does Claire say 'I've heard so much about you'?",
+        "options": {
+          "A": "She has actually heard about Tom",
+          "B": "She is being polite",
+          "C": "She wants to compliment Tom",
+          "D": "All of the above"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "text": "Tom: Nice to meet you, Claire.\nClaire: The pleasure is mine. I've heard so much about you from our mutual friends. They speak very highly of your work."
+      }
+    ],
     "tableConfig": null,
     "pin": "NDAPPD",
     "link": "NDAPPD",
     "paceMode": "student_pace",
     "createdAt": "2026-09-01T12:07:53.149Z"
+  },
+  {
+    "id": "cmtitrzqx0006ml0a1rwzav93",
+    "title": "Dialog : Introduction",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "mengurutkan",
+    "questionTypes": [
+      {
+        "type": "mengurutkan",
+        "count": 5,
+        "point": 20
+      }
+    ],
+    "language": "en",
+    "questionCount": 5,
+    "promptText": "Arrange the sentence into good dialog between Andi and Leo talking about intoduction between them.\neach question must be consist of six sentences in total.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "UD5Y7S",
+    "link": "UD5Y7S",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-01T15:31:43.930Z"
   }
 ]
