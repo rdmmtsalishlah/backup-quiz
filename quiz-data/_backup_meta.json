@@ -1,15 +1,15 @@
 {
-  "quizLevel": 5,
-  "lastSyncAt": "2026-09-01T12:08:00.206Z",
+  "quizLevel": 6,
+  "lastSyncAt": "2026-09-01T15:31:53.071Z",
   "lastPullAt": "2026-08-31T22:57:42.792Z",
-  "totalQuizzes": 5,
-  "totalSessions": 3,
+  "totalQuizzes": 6,
+  "totalSessions": 4,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 4,
-      "count": 5,
+      "to": 5,
+      "count": 6,
       "sha": null
     }
   ],
@@ -34,9 +34,21 @@
       "quizTitle": "Chapter 1 : About Me (Greeting, Introduction, pronoun)",
       "sessionCount": 1,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtimhuf00003ml0as57z0ahz.json",
+      "quizId": "cmtimhuf00003ml0as57z0ahz",
+      "quizTitle": "Introduction",
+      "sessionCount": 1,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-01T15:31:53.071Z",
+      "details": "Sync 6 quiz, 4 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-01T12:08:00.206Z",
