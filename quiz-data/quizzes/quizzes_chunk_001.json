@@ -948,13 +948,395 @@
       }
     ],
     "language": "en",
-    "questionCount": 20,
+    "questionCount": 15,
     "promptText": "Pilihan Ganda : Complete the dialog with correct response from greeting, leave-taking, introduction, Complete the sentence with correct pronoun (subject and possessive adjective)\nmenjodohkan : Match the greeting with correct response\nmengurutkan : Arrange the sentence into correct order to form meaningful dialog about greeting and introduction",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "What is the correct response to 'Good morning!'?",
+        "options": {
+          "A": "Good night!",
+          "B": "Good morning!",
+          "C": "Good afternoon!",
+          "D": "Good evening!"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Complete the dialog: Teacher: 'Hello, I'm Ms. Johnson.' Student: '_______'",
+        "options": {
+          "A": "Goodbye, Ms. Johnson.",
+          "B": "Nice to meet you, Ms. Johnson.",
+          "C": "How are you?",
+          "D": "What's your name?"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "What is the correct possessive adjective for 'Sarah'?",
+        "options": {
+          "A": "She",
+          "B": "Her",
+          "C": "His",
+          "D": "Their"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Which sentence uses the correct subject pronoun?",
+        "options": {
+          "A": "Him is my friend.",
+          "B": "She is my teacher.",
+          "C": "Me am a student.",
+          "D": "Them are in the classroom."
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Match the greeting: 'How are you?'",
+        "options": {
+          "A": "Good morning!",
+          "B": "Thank you!",
+          "C": "I'm fine, thank you.",
+          "D": "Goodbye!"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Complete the dialog: Student: 'See you tomorrow!' Teacher: '_______'",
+        "options": {
+          "A": "Hello!",
+          "B": "Goodbye!",
+          "C": "Nice to meet you!",
+          "D": "Have a great day!"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Arrange the sentences to form a correct greeting dialog: 1. 'Hello, Tom!' 2. 'Hi, Sarah!' 3. 'How are you?' 4. 'I'm good, thanks!'",
+        "options": {
+          "A": "1-2-3-4",
+          "B": "2-1-4-3",
+          "C": "1-2-4-3",
+          "D": "3-4-1-2"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Complete the sentence with the correct possessive adjective: 'This is _______ book.' (The book belongs to John)",
+        "options": {
+          "A": "my",
+          "B": "your",
+          "C": "his",
+          "D": "her"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Match the greeting: 'Nice to meet you!'",
+        "options": {
+          "A": "Good afternoon!",
+          "B": "Nice to meet you too!",
+          "C": "How are you?",
+          "D": "Goodbye!"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Arrange the sentences to form a correct introduction dialog: 1. 'What's your name?' 2. 'My name is Lisa.' 3. 'Hello, I'm Alex.' 4. 'Nice to meet you, Lisa.'",
+        "options": {
+          "A": "3-1-2-4",
+          "B": "1-2-3-4",
+          "C": "3-4-1-2",
+          "D": "4-3-2-1"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Match the greeting with the correct response",
+        "pairs": [
+          {
+            "left": "Good morning",
+            "right": "Good morning, how are you?"
+          },
+          {
+            "left": "Hello, my name is John",
+            "right": "Nice to meet you, I'm Sarah"
+          },
+          {
+            "left": "How are you today?",
+            "right": "I'm fine, thank you"
+          },
+          {
+            "left": "Goodbye",
+            "right": "See you later"
+          },
+          {
+            "left": "What's your name?",
+            "right": "My name is Emma"
+          }
+        ],
+        "shuffledRight": [
+          "See you later",
+          "Nice to meet you, I'm Sarah",
+          "Good morning, how are you?",
+          "I'm fine, thank you",
+          "My name is Emma"
+        ],
+        "answer": {
+          "A": "3",
+          "B": "2",
+          "C": "4",
+          "D": "1",
+          "E": "5"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 12,
+        "question": "Match the introduction with the correct response",
+        "pairs": [
+          {
+            "left": "I'd like you to meet my friend",
+            "right": "It's nice to meet you"
+          },
+          {
+            "left": "This is my brother",
+            "right": "Hello, nice to meet you"
+          },
+          {
+            "left": "Allow me to introduce myself",
+            "right": "Please, tell me your name"
+          },
+          {
+            "left": "We haven't met before",
+            "right": "No, we haven't. I'm Alex"
+          },
+          {
+            "left": "How do you do?",
+            "right": "How do you do?"
+          }
+        ],
+        "shuffledRight": [
+          "No, we haven't. I'm Alex",
+          "Hello, nice to meet you",
+          "How do you do?",
+          "It's nice to meet you",
+          "Please, tell me your name"
+        ],
+        "answer": {
+          "A": "4",
+          "B": "2",
+          "C": "5",
+          "D": "1",
+          "E": "3"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 13,
+        "question": "Match the leave-taking with the correct response",
+        "pairs": [
+          {
+            "left": "I have to go now",
+            "right": "Goodbye, see you tomorrow"
+          },
+          {
+            "left": "It was nice talking to you",
+            "right": "You too, let's keep in touch"
+          },
+          {
+            "left": "I'm leaving now",
+            "right": "Take care"
+          },
+          {
+            "left": "Have a good day",
+            "right": "Thanks, you too"
+          },
+          {
+            "left": "I'm heading out",
+            "right": "Bye, have a great evening"
+          }
+        ],
+        "shuffledRight": [
+          "Bye, have a great evening",
+          "Goodbye, see you tomorrow",
+          "You too, let's keep in touch",
+          "Take care",
+          "Thanks, you too"
+        ],
+        "answer": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5",
+          "E": "1"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 14,
+        "question": "Match the subject pronoun with the correct possessive adjective",
+        "pairs": [
+          {
+            "left": "I",
+            "right": "my"
+          },
+          {
+            "left": "you",
+            "right": "your"
+          },
+          {
+            "left": "he",
+            "right": "his"
+          },
+          {
+            "left": "she",
+            "right": "her"
+          },
+          {
+            "left": "it",
+            "right": "its"
+          }
+        ],
+        "shuffledRight": [
+          "your",
+          "its",
+          "my",
+          "her",
+          "his"
+        ],
+        "answer": {
+          "A": "3",
+          "B": "1",
+          "C": "5",
+          "D": "4",
+          "E": "2"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      },
+      {
+        "no": 15,
+        "question": "Match the sentence with the correct pronoun",
+        "pairs": [
+          {
+            "left": "__ name is Tom",
+            "right": "His"
+          },
+          {
+            "left": "__ are my friends",
+            "right": "They"
+          },
+          {
+            "left": "__ am a student",
+            "right": "I"
+          },
+          {
+            "left": "__ book is on the table",
+            "right": "Her"
+          },
+          {
+            "left": "__ is my teacher",
+            "right": "She"
+          }
+        ],
+        "shuffledRight": [
+          "They",
+          "Her",
+          "His",
+          "I",
+          "She"
+        ],
+        "answer": {
+          "A": "3",
+          "B": "1",
+          "C": "4",
+          "D": "2",
+          "E": "5"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 1
+      }
+    ],
     "tableConfig": null,
     "pin": "8QXEFU",
     "link": "8QXEFU",
     "paceMode": "student_pace",
     "createdAt": "2026-09-01T11:31:29.787Z"
+  },
+  {
+    "id": "cmtimhuf00003ml0as57z0ahz",
+    "title": "Introduction",
+    "subject": "English",
+    "classLevel": "7",
+    "difficulty": "sedang",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "en",
+    "questionCount": 25,
+    "promptText": "Reading comprehension about greeting and Introduction. Provide a text followed by corresponding 5 questions.\nThere will be 5 text. The text can be dialog or monologue",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "NDAPPD",
+    "link": "NDAPPD",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-01T12:07:53.149Z"
   }
 ]
