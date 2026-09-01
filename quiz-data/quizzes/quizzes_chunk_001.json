@@ -920,5 +920,41 @@
     "link": "NHE8A9",
     "paceMode": "student_pace",
     "createdAt": "2026-08-31T11:16:17.556Z"
+  },
+  {
+    "id": "cmtil71q30000ml0afczbbpeh",
+    "title": "Chapter 1 : About Me (Greeting, Introduction, pronoun)",
+    "subject": "English",
+    "classLevel": "7",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 4,
+        "optionCount": 4
+      },
+      {
+        "type": "menjodohkan",
+        "count": 5,
+        "point": 4
+      },
+      {
+        "type": "mengurutkan",
+        "count": 5,
+        "point": 4
+      }
+    ],
+    "language": "en",
+    "questionCount": 20,
+    "promptText": "Pilihan Ganda : Complete the dialog with correct response from greeting, leave-taking, introduction, Complete the sentence with correct pronoun (subject and possessive adjective)\nmenjodohkan : Match the greeting with correct response\nmengurutkan : Arrange the sentence into correct order to form meaningful dialog about greeting and introduction",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "8QXEFU",
+    "link": "8QXEFU",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-01T11:31:29.787Z"
   }
 ]
