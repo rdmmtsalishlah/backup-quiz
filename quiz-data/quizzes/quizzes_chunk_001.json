@@ -1733,5 +1733,36 @@
     "link": "UD5Y7S",
     "paceMode": "student_pace",
     "createdAt": "2026-09-01T15:31:43.930Z"
+  },
+  {
+    "id": "cmtk04mxt0000kw0a64jmfkuv",
+    "title": "Satuan Baku (SI)",
+    "subject": "IPA",
+    "classLevel": "7",
+    "difficulty": "sedang,sulit",
+    "minScore": 60,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 15,
+        "point": 5,
+        "optionCount": 4
+      },
+      {
+        "type": "menjodohkan",
+        "count": 5,
+        "point": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 20,
+    "promptText": "Penfertian besaran dan satuan\nBesaran dan Satuan baku dan tidak baku,\nbesaran pokok dan turunan (pengertian dan perbedaan serta contoh)\nbesaran dan satuan dalam SI (Satuan Internasional)\nmengkonversi satuan (2 km = .... m; 4,5 liter = .... cl; 450 ton = .... kg)\nmenjodohkan : Besaran pokok dan turunan dengan satuan (SI) yang tepat",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "SRYU5S",
+    "link": "SRYU5S",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-02T11:17:17.729Z"
   }
 ]
