@@ -1464,5 +1464,31 @@
     "link": "TAXQUH",
     "paceMode": "student_pace",
     "createdAt": "2026-09-03T12:10:20.746Z"
+  },
+  {
+    "id": "cmtlio7vw000hn50awutlvupv",
+    "title": "Logaritma",
+    "subject": "Matematika",
+    "classLevel": "10",
+    "difficulty": "mudah",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 4,
+        "point": 25,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 4,
+    "promptText": "soal logaritma sederhana",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "P8248Q",
+    "link": "P8248Q",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-03T12:44:10.604Z"
   }
 ]
