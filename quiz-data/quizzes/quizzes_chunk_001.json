@@ -965,11 +965,388 @@
     "language": "id",
     "questionCount": 25,
     "promptText": "Tari tradisional dan tari kreasi\ncontoh tari tradisional dan tari kreasi\ntari tradisional dan daerah asalnya",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Tari yang berasal dari daerah Jawa Barat dan sering dipentaskan dalam acara adat adalah tari...",
+        "options": {
+          "A": "Pendet",
+          "B": "Jaipong",
+          "C": "Saman",
+          "D": "Gandrung"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Tari yang berasal dari Aceh dan dikenal dengan gerakan tangan yang dinamis adalah tari...",
+        "options": {
+          "A": "Kecak",
+          "B": "Saman",
+          "C": "Gamelan",
+          "D": "Legong"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Tari Pendet termasuk jenis tari...",
+        "options": {
+          "A": "Tari Kreasi",
+          "B": "Tari Tradisional",
+          "C": "Tari Modern",
+          "D": "Tari Kontemporer"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Tari yang berasal dari Bali dan menggambarkan cerita Ramayana adalah tari...",
+        "options": {
+          "A": "Saman",
+          "B": "Kecak",
+          "C": "Jaipong",
+          "D": "Gandrung"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Tari yang diciptakan dengan menggabungkan beberapa unsur tari tradisional disebut tari...",
+        "options": {
+          "A": "Tari Tradisional",
+          "B": "Tari Kreasi",
+          "C": "Tari Daerah",
+          "D": "Tari Nasional"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Tari yang berasal dari Jawa Tengah dan sering dipentaskan untuk menyambut tamu kehormatan adalah tari...",
+        "options": {
+          "A": "Gandrung",
+          "B": "Jaipong",
+          "C": "Serimpi",
+          "D": "Pendet"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Tari yang berasal dari Nusa Tenggara Barat dan menggambarkan keindahan alam adalah tari...",
+        "options": {
+          "A": "Pendet",
+          "B": "Gandrung",
+          "C": "Saman",
+          "D": "Rampai"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Tari yang berasal dari Jawa Timur dan menggambarkan pergerakan burung merak adalah tari...",
+        "options": {
+          "A": "Kecak",
+          "B": "Merak",
+          "C": "Jaipong",
+          "D": "Gandrung"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Tari yang berasal dari Bali dan menggambarkan pertempuran antara Rama dan Rawana adalah tari...",
+        "options": {
+          "A": "Barong",
+          "B": "Kecak",
+          "C": "Saman",
+          "D": "Jaipong"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Tari yang berasal dari Maluku dan menggambarkan aktivitas nelayan adalah tari...",
+        "options": {
+          "A": "Cakalele",
+          "B": "Pendet",
+          "C": "Jaipong",
+          "D": "Serimpi"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Tari yang berasal dari Jawa Barat dan menggambarkan keceriaan masyarakat adalah tari...",
+        "options": {
+          "A": "Saman",
+          "B": "Jaipong",
+          "C": "Kecak",
+          "D": "Gandrung"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "Tari yang berasal dari Bali dan menggambarkan pertarungan antara baik dan jahat adalah tari...",
+        "options": {
+          "A": "Legong",
+          "B": "Barong",
+          "C": "Kecak",
+          "D": "Saman"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Tari yang berasal dari Jawa Tengah dan menggambarkan gerakan halus dan anggun adalah tari...",
+        "options": {
+          "A": "Jaipong",
+          "B": "Serimpi",
+          "C": "Kecak",
+          "D": "Gandrung"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "Tari yang berasal dari Jawa Timur dan menggambarkan keindahan bunga adalah tari...",
+        "options": {
+          "A": "Gandrung",
+          "B": "Saman",
+          "C": "Tari Bunga",
+          "D": "Jaipong"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Tari yang berasal dari Bali dan menggambarkan cerita cinta adalah tari...",
+        "options": {
+          "A": "Barong",
+          "B": "Legong",
+          "C": "Kecak",
+          "D": "Saman"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "Tari yang berasal dari Jawa Barat dan menggambarkan gerakan burung garuda adalah tari...",
+        "options": {
+          "A": "Jaipong",
+          "B": "Gandrung",
+          "C": "Saman",
+          "D": "Gedebog"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Tari yang berasal dari Sumatera Selatan dan menggambarkan keindahan padi adalah tari...",
+        "options": {
+          "A": "Pendet",
+          "B": "Gandrung",
+          "C": "Saman",
+          "D": "Seudati"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "Tari yang berasal dari Jawa Tengah dan menggambarkan pergerakan prajurit adalah tari...",
+        "options": {
+          "A": "Serimpi",
+          "B": "Jaipong",
+          "C": "Kecak",
+          "D": "Gandrung"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Tari yang berasal dari Bali dan menggambarkan gerakan monyet adalah tari...",
+        "options": {
+          "A": "Barong",
+          "B": "Kecak",
+          "C": "Legong",
+          "D": "Saman"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Tari yang berasal dari Jawa Timur dan menggambarkan keceriaan pemuda adalah tari...",
+        "options": {
+          "A": "Jaipong",
+          "B": "Saman",
+          "C": "Tari Topeng",
+          "D": "Gandrung"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "Tari yang berasal dari Jawa Barat dan menggambarkan gerakan penari dengan topeng adalah tari...",
+        "options": {
+          "A": "Jaipong",
+          "B": "Topeng Cirebon",
+          "C": "Kecak",
+          "D": "Gandrung"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Tari yang berasal dari Bali dan menggambarkan pertarungan antara Rama dan Rahwana adalah tari...",
+        "options": {
+          "A": "Barong",
+          "B": "Kecak",
+          "C": "Legong",
+          "D": "Saman"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "Tari yang berasal dari Jawa Tengah dan menggambarkan gerakan burung merak adalah tari...",
+        "options": {
+          "A": "Serimpi",
+          "B": "Jaipong",
+          "C": "Merak",
+          "D": "Gandrung"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 24,
+        "question": "Tari yang berasal dari Jawa Timur dan menggambarkan keindahan laut adalah tari...",
+        "options": {
+          "A": "Gandrung",
+          "B": "Saman",
+          "C": "Tari Laut",
+          "D": "Jaipong"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 25,
+        "question": "Tari yang berasal dari Bali dan menggambarkan cerita perang adalah tari...",
+        "options": {
+          "A": "Barong",
+          "B": "Kecak",
+          "C": "Legong",
+          "D": "Saman"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "AMGS5K",
     "link": "AMGS5K",
     "paceMode": "student_pace",
     "createdAt": "2026-09-03T11:45:08.953Z"
+  },
+  {
+    "id": "cmtlgm77k0003n50aivmt2qu0",
+    "title": "Tari Tradisonal/klasik dan Tari Kreasi",
+    "subject": "Seni Tari",
+    "classLevel": "7",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Tari tradisional dan tari kreasi\ncontoh tari tradisional dan tari kreasi\ntari tradisional dan daerah asalnya",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "GK3ST6",
+    "link": "GK3ST6",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-03T11:46:37.184Z"
   }
 ]
