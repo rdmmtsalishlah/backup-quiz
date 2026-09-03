@@ -1297,5 +1297,31 @@
     "link": "AMGS5K",
     "paceMode": "student_pace",
     "createdAt": "2026-09-03T11:45:08.953Z"
+  },
+  {
+    "id": "cmtlhgpmx000an50a1cbbyd5o",
+    "title": "Tekanan Zat Padat",
+    "subject": "IPA",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "Penerapan tekanan zat padat dalam bentuk soal cerita (p=F/A)",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "TAXQUH",
+    "link": "TAXQUH",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-03T12:10:20.746Z"
   }
 ]
