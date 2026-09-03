@@ -1322,31 +1322,5 @@
     "link": "AMGS5K",
     "paceMode": "student_pace",
     "createdAt": "2026-09-03T11:45:08.953Z"
-  },
-  {
-    "id": "cmtlgm77k0003n50aivmt2qu0",
-    "title": "Tari Tradisonal/klasik dan Tari Kreasi",
-    "subject": "Seni Tari",
-    "classLevel": "7",
-    "difficulty": "mudah",
-    "minScore": 60,
-    "questionType": "pilihan_ganda",
-    "questionTypes": [
-      {
-        "type": "pilihan_ganda",
-        "count": 25,
-        "point": 4,
-        "optionCount": 4
-      }
-    ],
-    "language": "id",
-    "questionCount": 25,
-    "promptText": "Tari tradisional dan tari kreasi\ncontoh tari tradisional dan tari kreasi\ntari tradisional dan daerah asalnya",
-    "questions": [],
-    "tableConfig": null,
-    "pin": "GK3ST6",
-    "link": "GK3ST6",
-    "paceMode": "student_pace",
-    "createdAt": "2026-09-03T11:46:37.184Z"
   }
 ]
