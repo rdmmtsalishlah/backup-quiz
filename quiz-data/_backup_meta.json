@@ -1,49 +1,40 @@
 {
-  "quizLevel": 4,
-  "lastSyncAt": "2026-09-03T11:32:11.033Z",
+  "quizLevel": 5,
+  "lastSyncAt": "2026-09-03T11:38:06.532Z",
   "lastPullAt": "2026-09-03T11:35:51.017Z",
-  "totalQuizzes": 4,
-  "totalSessions": 4,
+  "totalQuizzes": 5,
+  "totalSessions": 2,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 3,
-      "count": 4,
-      "sha": "43a0f87a099db1be847d752d46d8b2a11f07f67a"
+      "to": 4,
+      "count": 5,
+      "sha": null
     }
   ],
   "sessionFiles": [
     {
       "file": "sessions/sessions_cmt1avkwb0000m76woi5uu5wn.json",
       "quizId": "cmt1avkwb0000m76woi5uu5wn",
-      "quizTitle": "cmt1avkwb0000m76woi5uu5wn",
+      "quizTitle": "Quiz Multi-Tipe Test",
       "sessionCount": 1,
-      "sha": "0b0816a458ae13168d09eb6683aab535fdfc3418"
+      "sha": null
     },
     {
       "file": "sessions/sessions_cmth57n6b0000s10am0tx7l4o.json",
       "quizId": "cmth57n6b0000s10am0tx7l4o",
-      "quizTitle": "cmth57n6b0000s10am0tx7l4o",
+      "quizTitle": "Present Simple : Verbal Sentence (Subject-Verb Agreement)",
       "sessionCount": 1,
-      "sha": "5ecd01313214000448e4c2ea502310da7b584524"
-    },
-    {
-      "file": "sessions/sessions_cmtil71q30000ml0afczbbpeh.json",
-      "quizId": "cmtil71q30000ml0afczbbpeh",
-      "quizTitle": "cmtil71q30000ml0afczbbpeh",
-      "sessionCount": 1,
-      "sha": "84d690bf34039a9ed2a28c893f600540adbb7d99"
-    },
-    {
-      "file": "sessions/sessions_cmtimhuf00003ml0as57z0ahz.json",
-      "quizId": "cmtimhuf00003ml0as57z0ahz",
-      "quizTitle": "cmtimhuf00003ml0as57z0ahz",
-      "sessionCount": 1,
-      "sha": "405f37e82a5ef19eaa0c16b60427d69683732c27"
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-03T11:38:06.532Z",
+      "details": "Sync 5 quiz, 2 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-03T11:32:11.033Z",
