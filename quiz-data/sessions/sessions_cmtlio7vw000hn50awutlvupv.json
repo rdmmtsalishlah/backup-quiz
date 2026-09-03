@@ -8,14 +8,14 @@
       "1": "B",
       "2": "C",
       "3": "D",
-      "4": "A"
+      "4": "B"
     },
-    "score": null,
-    "totalCorrect": null,
+    "score": 100,
+    "totalCorrect": 4,
     "totalQuestions": 4,
     "startedAt": "2026-09-03T12:49:53.746Z",
-    "completedAt": null,
-    "isActive": true
+    "completedAt": "2026-09-03T12:55:23.369Z",
+    "isActive": false
   },
   {
     "id": "cmtlivkux000ln50a10hpwab5",
@@ -26,13 +26,13 @@
       "1": "B",
       "2": "C",
       "3": "D",
-      "4": "A"
+      "4": "B"
     },
-    "score": null,
-    "totalCorrect": null,
+    "score": 100,
+    "totalCorrect": 4,
     "totalQuestions": 4,
     "startedAt": "2026-09-03T12:49:54.009Z",
-    "completedAt": null,
-    "isActive": true
+    "completedAt": "2026-09-03T12:55:21.807Z",
+    "isActive": false
   }
 ]
