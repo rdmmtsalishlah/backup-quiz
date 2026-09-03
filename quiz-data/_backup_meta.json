@@ -1,9 +1,9 @@
 {
   "quizLevel": 5,
-  "lastSyncAt": "2026-09-03T12:10:30.333Z",
+  "lastSyncAt": "2026-09-03T12:17:05.837Z",
   "lastPullAt": "2026-09-03T11:56:51.994Z",
   "totalQuizzes": 5,
-  "totalSessions": 5,
+  "totalSessions": 6,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
@@ -25,7 +25,7 @@
       "file": "sessions/sessions_cmth57n6b0000s10am0tx7l4o.json",
       "quizId": "cmth57n6b0000s10am0tx7l4o",
       "quizTitle": "Present Simple : Verbal Sentence (Subject-Verb Agreement)",
-      "sessionCount": 3,
+      "sessionCount": 4,
       "sha": null
     },
     {
@@ -37,6 +37,11 @@
     }
   ],
   "syncHistory": [
+    {
+      "type": "full",
+      "timestamp": "2026-09-03T12:17:05.837Z",
+      "details": "Sync 5 quiz, 6 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-03T12:10:30.333Z",
