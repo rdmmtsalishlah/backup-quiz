@@ -1577,5 +1577,31 @@
     "link": "8GSEF9",
     "paceMode": "student_pace",
     "createdAt": "2026-09-03T12:54:54.204Z"
+  },
+  {
+    "id": "cmtljjk3u000nn50adamgy14s",
+    "title": "Logarithms",
+    "subject": "Matematika",
+    "classLevel": "10",
+    "difficulty": "sedang,mudah",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "Logaritma kelas 10",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "D7QXCP",
+    "link": "D7QXCP",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-03T13:08:32.779Z"
   }
 ]
