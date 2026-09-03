@@ -1,15 +1,15 @@
 {
-  "quizLevel": 7,
-  "lastSyncAt": "2026-09-02T11:17:27.379Z",
+  "quizLevel": 4,
+  "lastSyncAt": "2026-09-03T11:32:11.033Z",
   "lastPullAt": "2026-09-03T05:43:43.520Z",
-  "totalQuizzes": 7,
-  "totalSessions": 4,
+  "totalQuizzes": 4,
+  "totalSessions": 2,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 6,
-      "count": 7,
+      "to": 3,
+      "count": 4,
       "sha": null
     }
   ],
@@ -27,23 +27,14 @@
       "quizTitle": "Present Simple : Verbal Sentence (Subject-Verb Agreement)",
       "sessionCount": 1,
       "sha": null
-    },
-    {
-      "file": "sessions/sessions_cmtil71q30000ml0afczbbpeh.json",
-      "quizId": "cmtil71q30000ml0afczbbpeh",
-      "quizTitle": "Chapter 1 : About Me (Greeting, Introduction, pronoun)",
-      "sessionCount": 1,
-      "sha": null
-    },
-    {
-      "file": "sessions/sessions_cmtimhuf00003ml0as57z0ahz.json",
-      "quizId": "cmtimhuf00003ml0as57z0ahz",
-      "quizTitle": "Introduction",
-      "sessionCount": 1,
-      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-03T11:32:11.033Z",
+      "details": "Sync 4 quiz, 2 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-02T11:17:27.379Z",
