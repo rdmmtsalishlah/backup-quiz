@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cmtlhpn76000en50apqgddfde",
+    "quizId": "cmtlhgpmx000an50a1cbbyd5o",
+    "studentName": "sofiana azzahra",
+    "studentClass": "IX",
+    "answers": {
+      "1": "C"
+    },
+    "score": null,
+    "totalCorrect": null,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-03T12:17:17.491Z",
+    "completedAt": null,
+    "isActive": true
+  },
+  {
+    "id": "cmtlhsw4a000gn50as48vrose",
+    "quizId": "cmtlhgpmx000an50a1cbbyd5o",
+    "studentName": "sofiana azzahra",
+    "studentClass": "IX",
+    "answers": {
+      "1": "B",
+      "2": "A",
+      "3": "A",
+      "4": "C",
+      "5": "D",
+      "6": "C",
+      "7": "B",
+      "8": "C",
+      "9": "D",
+      "10": "C"
+    },
+    "score": null,
+    "totalCorrect": null,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-03T12:19:49.018Z",
+    "completedAt": null,
+    "isActive": true
+  }
+]
