@@ -1553,32 +1553,6 @@
     "createdAt": "2026-09-03T12:44:10.604Z"
   },
   {
-    "id": "cmtlj20hn000mn50ascece0hc",
-    "title": "FPB",
-    "subject": "KPK",
-    "classLevel": "7",
-    "difficulty": "mudah",
-    "minScore": 60,
-    "questionType": "pilihan_ganda",
-    "questionTypes": [
-      {
-        "type": "pilihan_ganda",
-        "count": 10,
-        "point": 10,
-        "optionCount": 5
-      }
-    ],
-    "language": "id",
-    "questionCount": 10,
-    "promptText": "contoh soal : Tentukan FPB dan KPK dari 36 dan 50",
-    "questions": [],
-    "tableConfig": null,
-    "pin": "8GSEF9",
-    "link": "8GSEF9",
-    "paceMode": "student_pace",
-    "createdAt": "2026-09-03T12:54:54.204Z"
-  },
-  {
     "id": "cmtljjk3u000nn50adamgy14s",
     "title": "Logarithms",
     "subject": "Matematika",
@@ -1597,7 +1571,158 @@
     "language": "id",
     "questionCount": 10,
     "promptText": "Logaritma kelas 10",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Jika log₂(x) = 3 dan log₃(y) = 2, maka nilai dari log₆(xy) adalah",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4",
+          "E": "5"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Nilai dari log₃ 27 + log₉ 81 - log₂ 16 adalah",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4",
+          "E": "5"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Jika log₅(x) = a dan log₂(x) = b, maka log₁₀(x) dapat dinyatakan sebagai",
+        "options": {
+          "A": "a/b",
+          "B": "b/a",
+          "C": "a/(a+b)",
+          "D": "b/(a+b)",
+          "E": "ab/(a+b)"
+        },
+        "answer": "E",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Persamaan logaritma yang ekuivalen dengan 2^(x+1) = 8 adalah",
+        "options": {
+          "A": "log₂(x+1) = 8",
+          "B": "log₂(x) + 1 = 8",
+          "C": "log₂(x) = 3",
+          "D": "log₂(x) = 4",
+          "E": "log₈(x) = 2"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Jika logₐ(b) = 2 dan logₐ(c) = 3, maka logₐ(b²c³) =",
+        "options": {
+          "A": "5",
+          "B": "6",
+          "C": "8",
+          "D": "10",
+          "E": "12"
+        },
+        "answer": "E",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Bentuk logaritma dari persamaan eksponen 2^5 = 32 adalah...",
+        "options": {
+          "A": "log₂ 32 = 5",
+          "B": "log₅ 32 = 2",
+          "C": "log₃₂ 5 = 2",
+          "D": "log₃₂ 2 = 5",
+          "E": "log₅ 2 = 32"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Nilai dari log₃ 27 adalah...",
+        "options": {
+          "A": "1/3",
+          "B": "3",
+          "C": "9",
+          "D": "27",
+          "E": "81"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Jika log₂ x = 3, maka nilai x adalah...",
+        "options": {
+          "A": "2",
+          "B": "4",
+          "C": "6",
+          "D": "8",
+          "E": "16"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Sifat logaritma yang benar adalah...",
+        "options": {
+          "A": "log a + log b = log(a + b)",
+          "B": "log a - log b = log(a - b)",
+          "C": "log a × log b = log(a × b)",
+          "D": "n log a = log(a^n)",
+          "E": "log(a/b) = log a / log b"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Nilai dari log₁₀ 1000 + log₁₀ 0,01 adalah...",
+        "options": {
+          "A": "0",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "E": "4"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "D7QXCP",
     "link": "D7QXCP",
