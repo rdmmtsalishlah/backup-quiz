@@ -1484,11 +1484,98 @@
     "language": "id",
     "questionCount": 4,
     "promptText": "soal logaritma sederhana",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Nilai dari log₂ 8 adalah...",
+        "options": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "6",
+          "E": "8"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Hasil dari log₁₀ 100 + log₁₀ 10 adalah...",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "10",
+          "E": "100"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Jika log₃ x = 2, maka nilai x adalah...",
+        "options": {
+          "A": "1",
+          "B": "3",
+          "C": "6",
+          "D": "9",
+          "E": "27"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "log₅ 25 = ...",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "5",
+          "E": "25"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "P8248Q",
     "link": "P8248Q",
     "paceMode": "student_pace",
     "createdAt": "2026-09-03T12:44:10.604Z"
+  },
+  {
+    "id": "cmtlj20hn000mn50ascece0hc",
+    "title": "FPB",
+    "subject": "KPK",
+    "classLevel": "7",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "contoh soal : Tentukan FPB dan KPK dari 36 dan 50",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "8GSEF9",
+    "link": "8GSEF9",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-03T12:54:54.204Z"
   }
 ]
