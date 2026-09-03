@@ -1317,7 +1317,148 @@
     "language": "id",
     "questionCount": 10,
     "promptText": "Penerapan tekanan zat padat dalam bentuk soal cerita (p=F/A)",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Sebuah buku beratnya 5 N diletakkan di atas meja. Jika luas permukaan buku yang menyentuh meja adalah 0,01 m², berapa tekanan yang dialami meja?",
+        "options": {
+          "A": "0,5 Pa",
+          "B": "500 Pa",
+          "C": "50 Pa",
+          "D": "5 Pa"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Dua orang anak, Ani dan Budi, berdiri di atas lantai kayu. Ani memiliki berat 400 N dan memakai sepatu dengan luas alas 0,02 m², sedangkan Budi memiliki berat 600 N dan memakai sepatu dengan luas alas 0,03 m². Siapa yang memberikan tekanan lebih besar pada lantai?",
+        "options": {
+          "A": "Ani",
+          "B": "Budi",
+          "C": "Keduanya sama",
+          "D": "Tidak bisa ditentukan"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Seorang penjual sayur menempatkan buah semangka berat 50 N di atas meja pasar. Jika luas permukaan semangka yang menyentuh meja adalah 0,05 m², berapa tekanan yang dialami meja?",
+        "options": {
+          "A": "1000 Pa",
+          "B": "10 Pa",
+          "C": "250 Pa",
+          "D": "100 Pa"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Seorang anak beratnya 300 N berdiri di atas lantai. Jika anak tersebut memakai sepatu dengan luas alas total 0,04 m², berapa tekanan yang dialami lantai?",
+        "options": {
+          "A": "750 Pa",
+          "B": "75 Pa",
+          "C": "7500 Pa",
+          "D": "7,5 Pa"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Sebuah batu beratnya 20 N diletakkan di atas tanah. Jika luas permukaan batu yang menyentuh tanah adalah 0,02 m², berapa tekanan yang dialami tanah?",
+        "options": {
+          "A": "40 Pa",
+          "B": "100 Pa",
+          "C": "10 Pa",
+          "D": "1000 Pa"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Seorang pekerja mengangkat beban beratnya 800 N menggunakan papan kayu yang luas alasnya 0,1 m². Berapa tekanan yang diberikan beban pada papan kayu?",
+        "options": {
+          "A": "80 Pa",
+          "B": "800 Pa",
+          "C": "8000 Pa",
+          "D": "8 Pa"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Sebuah balok besi beratnya 100 N diletakkan di atas lantai marmer. Jika luas permukaan balok yang menyentuh lantai adalah 0,04 m², berapa tekanan yang dialami lantai marmer?",
+        "options": {
+          "A": "250 Pa",
+          "B": "2500 Pa",
+          "C": "25 Pa",
+          "D": "2,5 Pa"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Sebuah batu bata beratnya 10 N diletakkan di atas pasir. Jika luas permukaan batu bata yang menyentuh pasir adalah 0,005 m², berapa tekanan yang dialami pasir?",
+        "options": {
+          "A": "2 Pa",
+          "B": "200 Pa",
+          "C": "2000 Pa",
+          "D": "20 Pa"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Seorang anak beratnya 250 N duduk di atas bangku. Jika luas permukaan bangku yang ditekan oleh anak adalah 0,05 m², berapa tekanan yang dialami bangku?",
+        "options": {
+          "A": "50 Pa",
+          "B": "500 Pa",
+          "C": "5 Pa",
+          "D": "5000 Pa"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Sebuah peti kayu beratnya 300 N diletakkan di atas lantai beton. Jika luas alas peti adalah 0,2 m², berapa tekanan yang dialami lantai beton?",
+        "options": {
+          "A": "15 Pa",
+          "B": "150 Pa",
+          "C": "1500 Pa",
+          "D": "1,5 Pa"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "TAXQUH",
     "link": "TAXQUH",
