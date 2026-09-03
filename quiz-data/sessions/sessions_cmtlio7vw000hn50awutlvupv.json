@@ -1,20 +1,17 @@
 [
   {
-    "id": "cmtlivknm000jn50a0d98byk3",
+    "id": "cmtljmq71000pn50abusy0tpd",
     "quizId": "cmtlio7vw000hn50awutlvupv",
     "studentName": "Jauhar",
     "studentClass": "X-3",
     "answers": {
-      "1": "B",
-      "2": "C",
-      "3": "D",
-      "4": "B"
+      "1": "B"
     },
-    "score": 100,
-    "totalCorrect": 4,
+    "score": 25,
+    "totalCorrect": 1,
     "totalQuestions": 4,
-    "startedAt": "2026-09-03T12:49:53.746Z",
-    "completedAt": "2026-09-03T12:55:23.369Z",
+    "startedAt": "2026-09-03T13:11:00.638Z",
+    "completedAt": "2026-09-03T13:11:44.751Z",
     "isActive": false
   },
   {
@@ -33,6 +30,24 @@
     "totalQuestions": 4,
     "startedAt": "2026-09-03T12:49:54.009Z",
     "completedAt": "2026-09-03T12:55:21.807Z",
+    "isActive": false
+  },
+  {
+    "id": "cmtlivknm000jn50a0d98byk3",
+    "quizId": "cmtlio7vw000hn50awutlvupv",
+    "studentName": "Jauhar",
+    "studentClass": "X-3",
+    "answers": {
+      "1": "B",
+      "2": "C",
+      "3": "D",
+      "4": "B"
+    },
+    "score": 100,
+    "totalCorrect": 4,
+    "totalQuestions": 4,
+    "startedAt": "2026-09-03T12:49:53.746Z",
+    "completedAt": "2026-09-03T12:55:23.369Z",
     "isActive": false
   }
 ]
