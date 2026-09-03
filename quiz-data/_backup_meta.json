@@ -1,15 +1,15 @@
 {
-  "quizLevel": 5,
-  "lastSyncAt": "2026-09-03T12:22:31.031Z",
+  "quizLevel": 6,
+  "lastSyncAt": "2026-09-03T12:44:19.691Z",
   "lastPullAt": "2026-09-03T11:56:51.994Z",
-  "totalQuizzes": 5,
-  "totalSessions": 6,
+  "totalQuizzes": 6,
+  "totalSessions": 8,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 4,
-      "count": 5,
+      "to": 5,
+      "count": 6,
       "sha": null
     }
   ],
@@ -34,9 +34,21 @@
       "quizTitle": "Tari Tradisonal/klasik dan Tari Kreasi",
       "sessionCount": 1,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtlhgpmx000an50a1cbbyd5o.json",
+      "quizId": "cmtlhgpmx000an50a1cbbyd5o",
+      "quizTitle": "Tekanan Zat Padat",
+      "sessionCount": 2,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-03T12:44:19.691Z",
+      "details": "Sync 6 quiz, 8 sesi"
+    },
     {
       "type": "session",
       "timestamp": "2026-09-03T12:22:31.031Z",
