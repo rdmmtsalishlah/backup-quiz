@@ -1,9 +1,9 @@
 {
   "quizLevel": 5,
-  "lastSyncAt": "2026-09-03T11:51:20.582Z",
+  "lastSyncAt": "2026-09-03T12:10:30.333Z",
   "lastPullAt": "2026-09-03T11:56:51.994Z",
   "totalQuizzes": 5,
-  "totalSessions": 2,
+  "totalSessions": 5,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
@@ -25,11 +25,23 @@
       "file": "sessions/sessions_cmth57n6b0000s10am0tx7l4o.json",
       "quizId": "cmth57n6b0000s10am0tx7l4o",
       "quizTitle": "Present Simple : Verbal Sentence (Subject-Verb Agreement)",
+      "sessionCount": 3,
+      "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtlgkb4p0002n50a10zx45qy.json",
+      "quizId": "cmtlgkb4p0002n50a10zx45qy",
+      "quizTitle": "Tari Tradisonal/klasik dan Tari Kreasi",
       "sessionCount": 1,
       "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-03T12:10:30.333Z",
+      "details": "Sync 5 quiz, 5 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-03T11:51:20.582Z",
