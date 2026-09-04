@@ -1,6 +1,6 @@
 {
   "quizLevel": 8,
-  "lastSyncAt": "2026-09-04T03:23:20.562Z",
+  "lastSyncAt": "2026-09-04T07:56:41.296Z",
   "lastPullAt": "2026-09-04T03:25:29.076Z",
   "totalQuizzes": 8,
   "totalSessions": 11,
@@ -46,11 +46,16 @@
       "file": "sessions/sessions_cmtlio7vw000hn50awutlvupv.json",
       "quizId": "cmtlio7vw000hn50awutlvupv",
       "quizTitle": "Logaritma",
-      "sessionCount": 3,
+      "sessionCount": 4,
       "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "session",
+      "timestamp": "2026-09-04T07:56:41.296Z",
+      "details": "Sync 4 sesi untuk Logaritma"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-04T03:23:20.562Z",
