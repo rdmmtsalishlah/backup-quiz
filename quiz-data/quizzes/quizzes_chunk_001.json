@@ -1885,7 +1885,7 @@
   },
   {
     "id": "cmtobaejk0000ne0aj5nrd3dd",
-    "title": "Logatithm (medium)",
+    "title": "Logarithm (medium)",
     "subject": "Mateamtika",
     "classLevel": "10",
     "difficulty": "sedang",
@@ -1902,7 +1902,158 @@
     "language": "id",
     "questionCount": 10,
     "promptText": "logaritma kelas 10",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Jika log₂(x) = 3 dan log₂(y) = 5, maka nilai dari log₂(x²/y) adalah...",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4",
+          "E": "5"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Penyelesaian dari persamaan log₃(2x + 1) = 2 adalah...",
+        "options": {
+          "A": "x = 1",
+          "B": "x = 2",
+          "C": "x = 3",
+          "D": "x = 4",
+          "E": "x = 5"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Nilai dari log₅ 25 + log₅ 5 - log₅ 125 adalah...",
+        "options": {
+          "A": "0",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "E": "4"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Diketahui log 2 = 0,3010 dan log 3 = 0,4771. Maka nilai log 12 adalah...",
+        "options": {
+          "A": "0,3010",
+          "B": "0,4771",
+          "C": "0,7781",
+          "D": "1,0791",
+          "E": "1,4771"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Jika 2^x = 8 dan 3^y = 27, maka nilai dari log₆(x + y) adalah...",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4",
+          "E": "5"
+        },
+        "answer": "E",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Persamaan logaritma yang setara dengan 2^x = 32 adalah...",
+        "options": {
+          "A": "log₂ x = 32",
+          "B": "log₃₂ x = 2",
+          "C": "log₂ 32 = x",
+          "D": "log₃₂ 2 = x",
+          "E": "log x = 32"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Jika logₐ b = 3 dan logₐ c = 4, maka logₐ (b²c) = ...",
+        "options": {
+          "A": "6",
+          "B": "7",
+          "C": "8",
+          "D": "10",
+          "E": "12"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Nilai dari log 100 + log 10 - log 1000 adalah...",
+        "options": {
+          "A": "0",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "E": "4"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Penyelesaian dari persamaan log(x² - 3) = 2 adalah...",
+        "options": {
+          "A": "x = 1",
+          "B": "x = -1",
+          "C": "x = 2",
+          "D": "x = -2",
+          "E": "x = 3"
+        },
+        "answer": "E",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Jika log₅(x) = 2 dan log₅(y) = 3, maka nilai dari log₅(x³/y) adalah...",
+        "options": {
+          "A": "3",
+          "B": "4",
+          "C": "5",
+          "D": "6",
+          "E": "7"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "RP8QAT",
     "link": "RP8QAT",
