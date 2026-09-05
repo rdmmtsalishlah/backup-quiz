@@ -1,6 +1,6 @@
 {
   "quizLevel": 8,
-  "lastSyncAt": "2026-09-05T11:40:54.929Z",
+  "lastSyncAt": "2026-09-05T11:43:05.449Z",
   "lastPullAt": "2026-09-04T03:25:29.076Z",
   "totalQuizzes": 8,
   "totalSessions": 8,
@@ -44,6 +44,11 @@
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-05T11:43:05.449Z",
+      "details": "Sync 8 quiz, 8 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-05T11:40:54.929Z",
