@@ -114,12 +114,12 @@
     "questions": [
       {
         "no": 1,
-        "question": "Choose the correct form of the verb to complete the sentence: 'My brother _____ football every weekend.'",
+        "question": "Choose the correct sentence with proper subject-verb agreement:",
         "options": {
-          "A": "play",
-          "B": "plays",
-          "C": "playing",
-          "D": "played"
+          "A": "She play the piano every day.",
+          "B": "She plays the piano every day.",
+          "C": "She playing the piano every day.",
+          "D": "She played the piano every day."
         },
         "answer": "B",
         "_type": "pilihan_ganda",
@@ -128,12 +128,12 @@
       },
       {
         "no": 2,
-        "question": "Which sentence uses the present simple tense correctly?",
+        "question": "Complete the sentence with the correct present simple form of the verb: 'My father _____ (work) in a hospital.'",
         "options": {
-          "A": "She go to school by bus.",
-          "B": "She goes to school by bus.",
-          "C": "She going to school by bus.",
-          "D": "She gone to school by bus."
+          "A": "work",
+          "B": "works",
+          "C": "working",
+          "D": "worked"
         },
         "answer": "B",
         "_type": "pilihan_ganda",
@@ -142,12 +142,12 @@
       },
       {
         "no": 3,
-        "question": "Complete the sentence with the correct form of the verb: 'The birds _____ in the tree.'",
+        "question": "Which sentence has correct subject-verb agreement?",
         "options": {
-          "A": "sings",
-          "B": "sing",
-          "C": "singing",
-          "D": "sang"
+          "A": "The dogs barks loudly.",
+          "B": "The dogs bark loudly.",
+          "C": "The dogs barked loudly.",
+          "D": "The dogs is barking loudly."
         },
         "answer": "B",
         "_type": "pilihan_ganda",
@@ -156,12 +156,12 @@
       },
       {
         "no": 4,
-        "question": "Which sentence is grammatically correct?",
+        "question": "Choose the correct present simple sentence:",
         "options": {
-          "A": "Cats likes milk.",
-          "B": "Cats like milk.",
-          "C": "Cats liking milk.",
-          "D": "Cats liked milk."
+          "A": "They goes to school together.",
+          "B": "They go to school together.",
+          "C": "They going to school together.",
+          "D": "They goes to school together."
         },
         "answer": "B",
         "_type": "pilihan_ganda",
@@ -170,7 +170,7 @@
       },
       {
         "no": 5,
-        "question": "Choose the correct sentence: 'The sun _____ in the east.'",
+        "question": "Complete the sentence with the correct form: 'The sun _____ (rise) in the east.'",
         "options": {
           "A": "rise",
           "B": "rises",
@@ -184,26 +184,12 @@
       },
       {
         "no": 6,
-        "question": "Choose the correct form of the verb in present simple to complete the sentence: 'The news _____ surprising.'",
+        "question": "Choose the correct form of the verb to complete the sentence: 'The team of scientists _____ researching new solutions to climate change.'",
         "options": {
-          "A": "is",
-          "B": "are",
-          "C": "be",
-          "D": "am"
-        },
-        "answer": "A",
-        "_type": "pilihan_ganda",
-        "_difficulty": "sedang",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 7,
-        "question": "Which sentence correctly uses the present simple tense with proper subject-verb agreement?",
-        "options": {
-          "A": "She don't like apples.",
-          "B": "He goes to school every day.",
-          "C": "They doesn't play football.",
-          "D": "I am understand the lesson."
+          "A": "research",
+          "B": "researches",
+          "C": "researching",
+          "D": "researched"
         },
         "answer": "B",
         "_type": "pilihan_ganda",
@@ -211,13 +197,27 @@
         "_sectionIndex": 0
       },
       {
-        "no": 8,
-        "question": "Complete the sentence with the correct present simple form: 'Neither of the students _____ the answer.'",
+        "no": 7,
+        "question": "Which sentence uses the correct subject-verb agreement?",
         "options": {
-          "A": "know",
-          "B": "knows",
-          "C": "knowing",
-          "D": "knew"
+          "A": "Neither of the students understand the assignment.",
+          "B": "Each of the books have interesting stories.",
+          "C": "The number of students in the class is increasing.",
+          "D": "A pair of shoes are in the closet."
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Complete the sentence with the correct present simple form: 'My sister _____ to music every evening.'",
+        "options": {
+          "A": "listen",
+          "B": "listens",
+          "C": "listening",
+          "D": "listened"
         },
         "answer": "B",
         "_type": "pilihan_ganda",
@@ -226,59 +226,59 @@
       },
       {
         "no": 9,
-        "question": "Which sentence demonstrates correct subject-verb agreement?",
+        "question": "Which sentence correctly uses the present simple tense?",
         "options": {
-          "A": "A number of students is absent today.",
-          "B": "The number of students are increasing.",
-          "C": "Five dollars is too much for this item.",
-          "D": "Politics are his favorite subject."
+          "A": "He don't like vegetables.",
+          "B": "They goes to school together.",
+          "C": "We plays football on weekends.",
+          "D": "She studies hard for exams."
         },
-        "answer": "C",
+        "answer": "D",
         "_type": "pilihan_ganda",
         "_difficulty": "sedang",
         "_sectionIndex": 0
       },
       {
         "no": 10,
-        "question": "Choose the correct sentence using the given words: 'neither/everyone/understand/the concept'",
+        "question": "Choose the correct sentence with proper subject-verb agreement:",
         "options": {
-          "A": "Neither everyone understand the concept.",
-          "B": "Everyone neither understand the concept.",
-          "C": "Neither everyone understands the concept.",
-          "D": "Everyone understands the concept neither."
+          "A": "The committee are divided on this issue.",
+          "B": "Politics is a complicated subject.",
+          "C": "The news are broadcasted at 6 PM.",
+          "D": "Mathematics are my favorite subject."
         },
-        "answer": "C",
+        "answer": "B",
         "_type": "pilihan_ganda",
         "_difficulty": "sedang",
         "_sectionIndex": 0
       },
       {
         "no": 11,
-        "question": "In the sentence 'The dogs barks loudly in the park', the subject-verb agreement is correct.",
-        "answer": false,
+        "question": "In the sentence 'The dog barks loudly every morning', the verb 'barks' agrees with the singular subject 'dog'.",
+        "answer": true,
         "_type": "benar_salah",
         "_difficulty": "mudah",
         "_sectionIndex": 1
       },
       {
         "no": 12,
-        "question": "In the sentence 'She go to school every day', the verb form agrees with the subject.",
-        "answer": false,
+        "question": "Does the sentence 'They go to school together every day' have correct subject-verb agreement?",
+        "answer": true,
         "_type": "benar_salah",
         "_difficulty": "mudah",
         "_sectionIndex": 1
       },
       {
         "no": 13,
-        "question": "In the sentence 'The dog barks loudly every morning', the subject 'dog' and the verb 'barks' are correctly formed in present simple tense.",
-        "answer": true,
+        "question": "Does the verb 'go' need to be in its base form when the subject is 'he' in present simple tense?",
+        "answer": false,
         "_type": "benar_salah",
         "_difficulty": "sedang",
         "_sectionIndex": 1
       },
       {
         "no": 14,
-        "question": "When using present simple tense with a third-person singular subject like 'she', the verb always needs to be followed by 's' or 'es'.",
+        "question": "In present simple tense, plural subjects like 'they' require verbs to end in '-s' or '-es'.",
         "answer": false,
         "_type": "benar_salah",
         "_difficulty": "sedang",
@@ -286,53 +286,58 @@
       },
       {
         "no": 15,
-        "question": "The sentence 'They goes to school together every day' has correct subject-verb agreement in present simple tense.",
-        "answer": false,
+        "question": "The sentence 'She doesn't play tennis every weekend' has correct subject-verb agreement in present simple tense.",
+        "answer": true,
         "_type": "benar_salah",
         "_difficulty": "sedang",
         "_sectionIndex": 1
       },
       {
         "no": 16,
-        "question": "Unscramble the words to form a correct sentence in present simple tense with proper subject-verb agreement",
-        "scrambledWords": "Dogs-bark-loudly-at-night",
-        "answer": "Dogs bark loudly at night",
+        "question": "Unscramble the letters to form the correct verb that agrees with the subject 'She' in present simple tense.",
+        "scrambledWord": "wlaaks",
+        "answer": "walks",
+        "hint": "This verb shows what she does regularly.",
         "_type": "acak_kata",
         "_difficulty": "mudah",
         "_sectionIndex": 2
       },
       {
         "no": 17,
-        "question": "Unscramble the words to form a correct sentence in present simple tense with proper subject-verb agreement",
-        "scrambledWords": "My-sister-plays-the-piano-every-weekend",
-        "answer": "My sister plays the piano every weekend",
+        "question": "Unscramble the letters to form the correct verb that agrees with the subject 'They' in present simple tense.",
+        "scrambledWord": "paly",
+        "answer": "play",
+        "hint": "This verb shows what they do regularly.",
         "_type": "acak_kata",
         "_difficulty": "mudah",
         "_sectionIndex": 2
       },
       {
         "no": 18,
-        "question": "Arrange the scrambled words to form a correct sentence with proper subject-verb agreement in present simple tense.",
-        "scrambledWords": "every-day-pupils-their-homework-do",
-        "answer": "pupils do their homework every day",
+        "question": "Unscramble the letters to form the correct verb that should complete this sentence: 'The dogs _____ loudly every night.'",
+        "scrambledWord": "rbak",
+        "answer": "bark",
+        "hint": "This verb describes what dogs do regularly in the present simple tense.",
         "_type": "acak_kata",
         "_difficulty": "sedang",
         "_sectionIndex": 2
       },
       {
         "no": 19,
-        "question": "Unscramble the words to create a correct sentence with proper subject-verb agreement in present simple tense.",
-        "scrambledWords": "water-boils-at-100-degrees-Celsius",
-        "answer": "water boils at 100 degrees Celsius",
+        "question": "Unscramble the letters to form the correct subject that should complete this sentence: '_____ study English every day.'",
+        "scrambledWord": "tdeusn",
+        "answer": "students",
+        "hint": "This is a plural noun that takes a verb without 's' in present simple tense.",
         "_type": "acak_kata",
         "_difficulty": "sedang",
         "_sectionIndex": 2
       },
       {
         "no": 20,
-        "question": "Arrange the scrambled words to form a correct sentence with proper subject-verb agreement in present simple tense.",
-        "scrambledWords": "my-parents-not-like-chocolate-ice-cream",
-        "answer": "my parents do not like chocolate ice cream",
+        "question": "Unscramble the letters to form the correct adverb that should complete this sentence: 'She _____ plays the piano.'",
+        "scrambledWord": "wloel",
+        "answer": "well",
+        "hint": "This adverb describes how someone performs an action and is often used with verbs like 'play' or 'sing'.",
         "_type": "acak_kata",
         "_difficulty": "sedang",
         "_sectionIndex": 2
@@ -1461,93 +1466,6 @@
     "createdAt": "2026-09-03T12:10:20.746Z"
   },
   {
-    "id": "cmtlio7vw000hn50awutlvupv",
-    "title": "Logaritma",
-    "subject": "Matematika",
-    "classLevel": "10",
-    "difficulty": "mudah",
-    "minScore": 70,
-    "questionType": "pilihan_ganda",
-    "questionTypes": [
-      {
-        "type": "pilihan_ganda",
-        "count": 4,
-        "point": 25,
-        "optionCount": 5
-      }
-    ],
-    "language": "id",
-    "questionCount": 4,
-    "promptText": "soal logaritma sederhana",
-    "questions": [
-      {
-        "no": 1,
-        "question": "Nilai dari log₂ 8 adalah...",
-        "options": {
-          "A": "2",
-          "B": "3",
-          "C": "4",
-          "D": "6",
-          "E": "8"
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 2,
-        "question": "Hasil dari log₁₀ 100 + log₁₀ 10 adalah...",
-        "options": {
-          "A": "1",
-          "B": "2",
-          "C": "3",
-          "D": "10",
-          "E": "100"
-        },
-        "answer": "C",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 3,
-        "question": "Jika log₃ x = 2, maka nilai x adalah...",
-        "options": {
-          "A": "1",
-          "B": "3",
-          "C": "6",
-          "D": "9",
-          "E": "27"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 4,
-        "question": "log₅ 25 = ...",
-        "options": {
-          "A": "1",
-          "B": "2",
-          "C": "3",
-          "D": "5",
-          "E": "25"
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      }
-    ],
-    "tableConfig": null,
-    "pin": "P8248Q",
-    "link": "P8248Q",
-    "paceMode": "student_pace",
-    "createdAt": "2026-09-03T12:44:10.604Z"
-  },
-  {
     "id": "cmtljjk3u000nn50adamgy14s",
     "title": "Logarithms",
     "subject": "Matematika",
@@ -1740,9 +1658,225 @@
       }
     ],
     "language": "en",
-    "questionCount": 10,
+    "questionCount": 5,
     "promptText": "Complete the sentence with correct form of the verb of present simple.\nrandomize the type of sentence (affirmative, negative, interrogative with do/does/is/am/are, and nominal sentences)",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Match the sentences with their correct verb forms",
+        "pairs": [
+          {
+            "left": "She _____ to school every day.",
+            "right": "goes"
+          },
+          {
+            "left": "They _____ not like coffee.",
+            "right": "do"
+          },
+          {
+            "left": "_____ he play football on weekends?",
+            "right": "Does"
+          },
+          {
+            "left": "I _____ a student at this school.",
+            "right": "am"
+          },
+          {
+            "left": "We _____ our homework in the evening.",
+            "right": "do"
+          }
+        ],
+        "shuffledRight": [
+          "do",
+          "am",
+          "goes",
+          "Does",
+          "do"
+        ],
+        "answer": {
+          "A": "3",
+          "B": "1",
+          "C": "4",
+          "D": "2",
+          "E": "5"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Match the sentences with their correct verb forms",
+        "pairs": [
+          {
+            "left": "The sun _____ in the east.",
+            "right": "rises"
+          },
+          {
+            "left": "_____ your sister speak Spanish?",
+            "right": "Does"
+          },
+          {
+            "left": "I _____ like chocolate ice cream.",
+            "right": "do not"
+          },
+          {
+            "left": "They _____ teachers at this school.",
+            "right": "are"
+          },
+          {
+            "left": "He _____ breakfast at 7 AM.",
+            "right": "has"
+          }
+        ],
+        "shuffledRight": [
+          "are",
+          "do not",
+          "rises",
+          "Does",
+          "has"
+        ],
+        "answer": {
+          "A": "3",
+          "B": "4",
+          "C": "2",
+          "D": "1",
+          "E": "5"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Match the sentences with their correct verb forms",
+        "pairs": [
+          {
+            "left": "We _____ football on Saturdays.",
+            "right": "play"
+          },
+          {
+            "left": "_____ you ready for the test?",
+            "right": "Are"
+          },
+          {
+            "left": "She _____ not watch TV in the morning.",
+            "right": "does"
+          },
+          {
+            "left": "The cat _____ on the sofa.",
+            "right": "sleeps"
+          },
+          {
+            "left": "I _____ my grandparents every Sunday.",
+            "right": "visit"
+          }
+        ],
+        "shuffledRight": [
+          "Are",
+          "does",
+          "sleeps",
+          "visit",
+          "play"
+        ],
+        "answer": {
+          "A": "5",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "E": "4"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Match the sentences with their correct verb forms",
+        "pairs": [
+          {
+            "left": "_____ he work in an office?",
+            "right": "Does"
+          },
+          {
+            "left": "They _____ to the library on Fridays.",
+            "right": "go"
+          },
+          {
+            "left": "I _____ a blue car.",
+            "right": "have"
+          },
+          {
+            "left": "We _____ not eat meat.",
+            "right": "do"
+          },
+          {
+            "left": "The birds _____ in the tree.",
+            "right": "sing"
+          }
+        ],
+        "shuffledRight": [
+          "have",
+          "sing",
+          "go",
+          "Does",
+          "do"
+        ],
+        "answer": {
+          "A": "4",
+          "B": "3",
+          "C": "1",
+          "D": "5",
+          "E": "2"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Match the sentences with their correct verb forms",
+        "pairs": [
+          {
+            "left": "She _____ her homework after dinner.",
+            "right": "does"
+          },
+          {
+            "left": "_____ your parents live in London?",
+            "right": "Do"
+          },
+          {
+            "left": "The water _____ at 100 degrees Celsius.",
+            "right": "boils"
+          },
+          {
+            "left": "I _____ not understand this lesson.",
+            "right": "do"
+          },
+          {
+            "left": "We _____ best friends since childhood.",
+            "right": "are"
+          }
+        ],
+        "shuffledRight": [
+          "are",
+          "Do",
+          "boils",
+          "does",
+          "do"
+        ],
+        "answer": {
+          "A": "4",
+          "B": "2",
+          "C": "3",
+          "D": "5",
+          "E": "1"
+        },
+        "_type": "menjodohkan",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "R8TYYW",
     "link": "R8TYYW",
