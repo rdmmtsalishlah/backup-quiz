@@ -2059,5 +2059,31 @@
     "link": "RP8QAT",
     "paceMode": "student_pace",
     "createdAt": "2026-09-05T11:40:47.265Z"
+  },
+  {
+    "id": "cmtoch6ra0003ne0ah7m0wxem",
+    "title": "logarithm (Hard)",
+    "subject": "Mateamtika",
+    "classLevel": "10",
+    "difficulty": "sulit",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "logaritma kelas 10.\npastikan semua soal dan jawaban yang dihasilkan benar/tidak ada salah kunci jawaban.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "U9NAVJ",
+    "link": "U9NAVJ",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-05T12:14:03.383Z"
   }
 ]
