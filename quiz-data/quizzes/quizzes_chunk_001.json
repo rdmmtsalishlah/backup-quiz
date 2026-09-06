@@ -1466,6 +1466,93 @@
     "createdAt": "2026-09-03T12:10:20.746Z"
   },
   {
+    "id": "cmtlio7vw000hn50awutlvupv",
+    "title": "Logaritma",
+    "subject": "Matematika",
+    "classLevel": "10",
+    "difficulty": "mudah",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 4,
+        "point": 25,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 4,
+    "promptText": "soal logaritma sederhana",
+    "questions": [
+      {
+        "no": 1,
+        "question": "Nilai dari log₂ 8 adalah...",
+        "options": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "6",
+          "E": "8"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Hasil dari log₁₀ 100 + log₁₀ 10 adalah...",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "10",
+          "E": "100"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Jika log₃ x = 2, maka nilai x adalah...",
+        "options": {
+          "A": "1",
+          "B": "3",
+          "C": "6",
+          "D": "9",
+          "E": "27"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "log₅ 25 = ...",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "5",
+          "E": "25"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
+    "tableConfig": null,
+    "pin": "P8248Q",
+    "link": "P8248Q",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-03T12:44:10.604Z"
+  },
+  {
     "id": "cmtljjk3u000nn50adamgy14s",
     "title": "Logarithms",
     "subject": "Matematika",
@@ -2085,5 +2172,41 @@
     "link": "U9NAVJ",
     "paceMode": "student_pace",
     "createdAt": "2026-09-05T12:14:03.383Z"
+  },
+  {
+    "id": "cmtpd0w580000rs0ah8nxq2ir",
+    "title": "Describing Animals",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 70,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 2,
+        "optionCount": 4
+      },
+      {
+        "type": "isian_singkat",
+        "count": 5,
+        "point": 4
+      },
+      {
+        "type": "uraian_panjang",
+        "count": 5,
+        "point": 8
+      }
+    ],
+    "language": "en",
+    "questionCount": 30,
+    "promptText": "Asking for Information to Describe Animals\n1. Asking and giving information to describe animals\n2. Understanding noun groups in relation to describing animals\nPhysical Features of Animals\n1. Describing physical features of animals\n2. Understanding the use of possessive adjective\nDescribing AnimalsUsing have/has to describe animal features\n1. Writing a text describing an animal\n\nuse daily vocabularies or common words for kids",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "T7X49C",
+    "link": "T7X49C",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-06T05:17:08.924Z"
   }
 ]
