@@ -1,15 +1,15 @@
 {
-  "quizLevel": 9,
-  "lastSyncAt": "2026-09-05T12:14:12.178Z",
+  "quizLevel": 11,
+  "lastSyncAt": "2026-09-06T05:17:20.240Z",
   "lastPullAt": "2026-09-06T04:57:22.637Z",
-  "totalQuizzes": 9,
-  "totalSessions": 8,
+  "totalQuizzes": 11,
+  "totalSessions": 12,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 8,
-      "count": 9,
+      "to": 10,
+      "count": 11,
       "sha": null
     }
   ],
@@ -41,9 +41,21 @@
       "quizTitle": "Tekanan Zat Padat",
       "sessionCount": 2,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtlio7vw000hn50awutlvupv.json",
+      "quizId": "cmtlio7vw000hn50awutlvupv",
+      "quizTitle": "Logaritma",
+      "sessionCount": 4,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-06T05:17:20.240Z",
+      "details": "Sync 11 quiz, 12 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-05T12:14:12.178Z",
