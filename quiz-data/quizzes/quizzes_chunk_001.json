@@ -2212,5 +2212,31 @@
     "link": "R6XUPR",
     "paceMode": "student_pace",
     "createdAt": "2026-09-07T05:59:40.328Z"
+  },
+  {
+    "id": "cmtr4gl710000rx0avws0ye9p",
+    "title": "Pecahan",
+    "subject": "Matematika",
+    "classLevel": "7",
+    "difficulty": "mudah,sedang,sulit",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 5,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 20,
+    "promptText": "Mengubah bentuk pecahan dari pecahan biasa, campuran dan desimal.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "AA59A8",
+    "link": "AA59A8",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-07T10:52:57.037Z"
   }
 ]
