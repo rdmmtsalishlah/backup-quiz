@@ -1487,18 +1487,19 @@
     "questions": [
       {
         "no": 1,
-        "question": "Nilai dari log₂ 8 adalah...",
+        "question": "Nilai dari log₂ (log₂ (log₂ 64)) adalah...",
         "options": {
-          "A": "2",
-          "B": "3",
-          "C": "4",
-          "D": "6",
-          "E": "8"
+          "A": "0",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "E": "4"
         },
         "answer": "B",
         "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
+        "_difficulty": "sedang",
+        "_sectionIndex": 0,
+        "hint": "Hitung dari dalam ke luar: pertama cari log₂ 64, kemudian cari log₂ dari hasil tersebut, dan terakhir cari log₂ lagi dari hasil tersebut"
       },
       {
         "no": 2,
@@ -1513,7 +1514,8 @@
         "answer": "C",
         "_type": "pilihan_ganda",
         "_difficulty": "mudah",
-        "_sectionIndex": 0
+        "_sectionIndex": 0,
+        "hint": "Gunakan sifat logaritma log a + log b = log (a × b)"
       },
       {
         "no": 3,
@@ -1528,7 +1530,8 @@
         "answer": "D",
         "_type": "pilihan_ganda",
         "_difficulty": "mudah",
-        "_sectionIndex": 0
+        "_sectionIndex": 0,
+        "hint": "Ingat bentuk eksponensial dari logaritma: logₐ b = c berarti a^c = b"
       },
       {
         "no": 4,
@@ -1543,7 +1546,8 @@
         "answer": "B",
         "_type": "pilihan_ganda",
         "_difficulty": "mudah",
-        "_sectionIndex": 0
+        "_sectionIndex": 0,
+        "hint": "Pertanyaan ini mencari pangkat berapa dari 5 yang menghasilkan 25"
       }
     ],
     "tableConfig": null,
@@ -2148,12 +2152,38 @@
     "createdAt": "2026-09-05T11:40:47.265Z"
   },
   {
-    "id": "cmtpd0w580000rs0ah8nxq2ir",
-    "title": "Describing Animals",
+    "id": "cmtoch6ra0003ne0ah7m0wxem",
+    "title": "logarithm (Hard)",
+    "subject": "Mateamtika",
+    "classLevel": "10",
+    "difficulty": "sulit",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "logaritma kelas 10.\npastikan semua soal dan jawaban yang dihasilkan benar/tidak ada salah kunci jawaban.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "U9NAVJ",
+    "link": "U9NAVJ",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-05T12:14:03.383Z"
+  },
+  {
+    "id": "cmtqtzfhk0000p00az4n8vc8b",
+    "title": "Report and Recount Text",
     "subject": "English",
     "classLevel": "9",
     "difficulty": "mudah",
-    "minScore": 70,
+    "minScore": 60,
     "questionType": "campuran",
     "questionTypes": [
       {
@@ -2175,373 +2205,12 @@
     ],
     "language": "en",
     "questionCount": 30,
-    "promptText": "Asking for Information to Describe Animals\n1. Asking and giving information to describe animals\n2. Understanding noun groups in relation to describing animals\nPhysical Features of Animals\n1. Describing physical features of animals\n2. Understanding the use of possessive adjective\nDescribing AnimalsUsing have/has to describe animal features\n1. Writing a text describing an animal\n\nuse daily vocabularies or common words for kids",
-    "questions": [
-      {
-        "no": 1,
-        "question": "Text: Lions are big cats with golden fur. Male lions have a thick mane around their neck. Lions live in groups called prides. They are strong animals that hunt other animals for food.\n\nBased on the text, what do you use to ask about an animal's color?",
-        "options": {
-          "A": "What color is it?",
-          "B": "How big is it?",
-          "C": "What does it eat?",
-          "D": "Where does it live?"
-        },
-        "answer": "A",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 2,
-        "question": "Which word describes the size of an animal?",
-        "options": {
-          "A": "Tall",
-          "B": "Fast",
-          "C": "Heavy",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 3,
-        "question": "How do you ask about an animal's habitat?",
-        "options": {
-          "A": "What does it look like?",
-          "B": "Where does it live?",
-          "C": "What does it eat?",
-          "D": "How does it move?"
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 4,
-        "question": "Which sentence correctly describes a lion's physical features?",
-        "options": {
-          "A": "A lion has long legs and a big mane.",
-          "B": "A lion has wings and feathers.",
-          "C": "A lion has scales and fins.",
-          "D": "A lion has a shell and four legs."
-        },
-        "answer": "A",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 5,
-        "question": "What is the possessive adjective for 'elephant'?",
-        "options": {
-          "A": "His",
-          "B": "Her",
-          "C": "Its",
-          "D": "Their"
-        },
-        "answer": "C",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 6,
-        "question": "Which animal has a long trunk?",
-        "options": {
-          "A": "Giraffe",
-          "B": "Elephant",
-          "C": "Kangaroo",
-          "D": "Snake"
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 7,
-        "question": "How do you ask about an animal's diet?",
-        "options": {
-          "A": "What does it drink?",
-          "B": "What does it eat?",
-          "C": "How often does it eat?",
-          "D": "Where does it find food?"
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 8,
-        "question": "Which animal has wings and can fly?",
-        "options": {
-          "A": "Fish",
-          "B": "Bird",
-          "C": "Dog",
-          "D": "Turtle"
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 9,
-        "question": "What do you use to describe an animal's fur?",
-        "options": {
-          "A": "Soft",
-          "B": "Hard",
-          "C": "Smooth",
-          "D": "A and C"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 10,
-        "question": "Which sentence correctly uses 'has'?",
-        "options": {
-          "A": "A dog have four legs.",
-          "B": "A cat has sharp claws.",
-          "C": "A bird have feathers.",
-          "D": "A fish have scales."
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 11,
-        "question": "What is the correct question to ask about an animal's legs?",
-        "options": {
-          "A": "How many legs does it have?",
-          "B": "What color are its legs?",
-          "C": "How long are its legs?",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 12,
-        "question": "Which animal has a shell on its back?",
-        "options": {
-          "A": "Snail",
-          "B": "Butterfly",
-          "C": "Frog",
-          "D": "Rabbit"
-        },
-        "answer": "A",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 13,
-        "question": "What is the possessive adjective for 'rabbit'?",
-        "options": {
-          "A": "His",
-          "B": "Her",
-          "C": "Its",
-          "D": "My"
-        },
-        "answer": "C",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 14,
-        "question": "How do you ask about an animal's movement?",
-        "options": {
-          "A": "How fast can it run?",
-          "B": "How does it move?",
-          "C": "How high can it jump?",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 15,
-        "question": "Which animal has stripes?",
-        "options": {
-          "A": "Zebra",
-          "B": "Leopard",
-          "C": "Tiger",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 16,
-        "question": "What do you use to describe an animal's sound?",
-        "options": {
-          "A": "Loud",
-          "B": "Quiet",
-          "C": "Soft",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 17,
-        "question": "Which sentence correctly describes a fish?",
-        "options": {
-          "A": "A fish has feathers and can fly.",
-          "B": "A fish has gills and lives in water.",
-          "C": "A fish has legs and walks on land.",
-          "D": "A fish has fur and lives in trees."
-        },
-        "answer": "B",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 18,
-        "question": "What is the correct question to ask about an animal's tail?",
-        "options": {
-          "A": "What color is its tail?",
-          "B": "How long is its tail?",
-          "C": "What shape is its tail?",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 19,
-        "question": "Which animal has a long neck?",
-        "options": {
-          "A": "Giraffe",
-          "B": "Elephant",
-          "C": "Snake",
-          "D": "Kangaroo"
-        },
-        "answer": "A",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 20,
-        "question": "How do you ask about an animal's skin texture?",
-        "options": {
-          "A": "Is its skin smooth?",
-          "B": "Is its skin rough?",
-          "C": "Is its skin soft?",
-          "D": "All of the above"
-        },
-        "answer": "D",
-        "_type": "pilihan_ganda",
-        "_difficulty": "mudah",
-        "_sectionIndex": 0
-      },
-      {
-        "no": 21,
-        "question": "What does a cat have on its face?",
-        "answer": "whiskers",
-        "_type": "isian_singkat",
-        "_difficulty": "mudah",
-        "_sectionIndex": 1
-      },
-      {
-        "no": 22,
-        "question": "Which animal has a long trunk?",
-        "answer": "elephant",
-        "_type": "isian_singkat",
-        "_difficulty": "mudah",
-        "_sectionIndex": 1
-      },
-      {
-        "no": 23,
-        "question": "What does a bird use to fly?",
-        "answer": "wings",
-        "_type": "isian_singkat",
-        "_difficulty": "mudah",
-        "_sectionIndex": 1
-      },
-      {
-        "no": 24,
-        "question": "What does a fish have instead of legs?",
-        "answer": "fins",
-        "_type": "isian_singkat",
-        "_difficulty": "mudah",
-        "_sectionIndex": 1
-      },
-      {
-        "no": 25,
-        "question": "What does a lion have on its head?",
-        "answer": "mane",
-        "_type": "isian_singkat",
-        "_difficulty": "mudah",
-        "_sectionIndex": 1
-      },
-      {
-        "no": 26,
-        "question": "Imagine you are at the zoo and you want to ask a zookeeper about the physical features of a lion. Write five questions you could ask to describe the lion's appearance. Then, write five sentences using 'has' or 'have' to describe what the lion looks like.",
-        "answer": "Questions could include:\n1. What color is the lion's fur?\n2. How big is a lion?\n3. Does a lion have a mane?\n4. What shape are a lion's ears?\n5. How long is a lion's tail?\n\nSentences using 'has' or 'have':\n1. A lion has a golden-colored fur.\n2. Lions have strong muscles.\n3. A male lion has a big mane around its neck.\n4. Lions have sharp claws.\n5. A lion has a long tail with a tuft at the end.",
-        "_type": "uraian_panjang",
-        "_difficulty": "mudah",
-        "_sectionIndex": 2
-      },
-      {
-        "no": 27,
-        "question": "Describe an elephant using possessive adjectives. Include at least five physical features of an elephant in your description. Make sure to use 'its' correctly when referring to the elephant's body parts.",
-        "answer": "Sample answer:\nAn elephant has a big trunk. Its trunk is very long and strong. The elephant has large ears. Its ears help the elephant stay cool. It has thick gray skin. Its skin has wrinkles. The elephant has strong legs. Its legs are like pillars. It also has a small tail. Its tail has hair at the end.",
-        "_type": "uraian_panjang",
-        "_difficulty": "mudah",
-        "_sectionIndex": 2
-      },
-      {
-        "no": 28,
-        "question": "You want to describe a giraffe to your friend who has never seen one. Write a paragraph describing what a giraffe looks like. Include information about its neck, spots, legs, and tongue. Use simple words that a 9-year-old would use.",
-        "answer": "A giraffe is a tall animal with a very long neck. Its neck is so long that it can eat leaves from tall trees. A giraffe has brown spots all over its body. These spots are like big patches that help the giraffe hide from other animals. The giraffe has long, thin legs that are very strong. Its legs help the giraffe run fast when it needs to escape from danger. The giraffe also has a long, blue tongue. Its tongue is very useful for pulling leaves from branches without getting pricked by thorns.",
-        "_type": "uraian_panjang",
-        "_difficulty": "mudah",
-        "_sectionIndex": 2
-      },
-      {
-        "no": 29,
-        "question": "You are interviewing a zookeeper about pandas. Write three questions you would ask to get information about pandas' physical features. Then, write three sentences using 'has' or 'have' to describe what pandas look like based on what you learned.",
-        "answer": "Questions:\n1. What color is a panda's fur?\n2. How big is a panda?\n3. Does a panda have a special thumb?\n\nSentences using 'has' or 'have':\n1. A panda has black and white fur.\n2. Pandas have round faces with black patches around their eyes.\n3. A panda has a special thumb that helps it hold bamboo.",
-        "_type": "uraian_panjang",
-        "_difficulty": "mudah",
-        "_sectionIndex": 2
-      },
-      {
-        "no": 30,
-        "question": "Describe your favorite animal using the verb 'have' or 'has'. Include at least five sentences about its physical features. Make sure to use correct possessive adjectives like 'its', 'my', or 'your' when needed.",
-        "answer": "Sample answer:\nMy favorite animal is a dog. Dogs have soft fur that can be many different colors. They have four strong legs that help them run and play. A dog has a wet nose that helps it smell things. Dogs have two big ears that can hear very well. My dog has a long tail that wags when it's happy. Dogs also have sharp teeth that help them eat their food.",
-        "_type": "uraian_panjang",
-        "_difficulty": "mudah",
-        "_sectionIndex": 2
-      }
-    ],
+    "promptText": "Asking for Information to Describe Animals\n1. Asking and giving information to describe animals\n2. Understanding noun groups in relation to describing animals\nPhysical Features of Animals\n1. Describing physical features of animals\n2. Understanding the use of possessive adjective\nDescribing AnimalsUsing have/has to describe animal features\n1. Writing a text describing an animal\n\nRecount text\n\nprovide short text for each question and questions related to the text.\nuse simple words for kids",
+    "questions": [],
     "tableConfig": null,
-    "pin": "T7X49C",
-    "link": "T7X49C",
+    "pin": "R6XUPR",
+    "link": "R6XUPR",
     "paceMode": "student_pace",
-    "createdAt": "2026-09-06T05:17:08.924Z"
+    "createdAt": "2026-09-07T05:59:40.328Z"
   }
 ]
