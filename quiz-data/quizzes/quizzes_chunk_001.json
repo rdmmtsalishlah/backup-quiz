@@ -2258,11 +2258,388 @@
     "language": "id",
     "questionCount": 25,
     "promptText": "Buatkan soal IPS kelas 9 tentang pengertian, ciri-ciri dan contoh dari Adaptasi, mitigasi, perubahan iklim, SDGs",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Apa yang dimaksud dengan adaptasi dalam konteks perubahan iklim?",
+        "options": {
+          "A": "Upaya untuk mencegah terjadinya perubahan iklim",
+          "B": "Penyesuaian diri terhadap dampak perubahan iklim yang sudah terjadi atau akan terjadi",
+          "C": "Pengurangan emisi gas rumah kaca",
+          "D": "Pembangunan infrastruktur baru"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Contoh mitigasi perubahan iklim adalah...",
+        "options": {
+          "A": "Membangun tanggul untuk mengatasi banjir",
+          "B": "Menggunakan transportasi umum untuk mengurangi emisi",
+          "C": "Menanam pohon di daerah yang kekeringan",
+          "D": "Menggunakan air secara efisien saat kekeringan"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Perubahan iklim disebabkan oleh...",
+        "options": {
+          "A": "Peningkatan gas rumah kaca akibat aktivitas manusia",
+          "B": "Siklus alami bumi yang terjadi setiap 100 tahun",
+          "C": "Penurunan suhu matahari",
+          "D": "Peningkatan populasi hewan"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "SDGs adalah singkatan dari...",
+        "options": {
+          "A": "Sustainable Development Goals",
+          "B": "Social Development Goals",
+          "C": "Systematic Development Goals",
+          "D": "Special Development Goals"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Tujuan SDGs yang berhubungan langsung dengan perubahan iklim adalah...",
+        "options": {
+          "A": "Tujuan 13: Aksi Iklim",
+          "B": "Tujuan 14: Kehidupan di Air",
+          "C": "Tujuan 15: Kehidupan di Darat",
+          "D": "Tujuan 7: Energi Bersih"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Ciri-ciri adaptasi perubahan iklim adalah...",
+        "options": {
+          "A": "Hanya dilakukan oleh pemerintah",
+          "B": "Dilakukan untuk mengurangi risiko bencana alam",
+          "C": "Selalu memerlukan biaya yang sangat mahal",
+          "D": "Hanya berlaku untuk daerah pesisir"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Contoh adaptasi perubahan iklim di daerah pesisir adalah...",
+        "options": {
+          "A": "Mengurangi penggunaan plastik",
+          "B": "Membangun mangrove sebagai pelindung pantai",
+          "C": "Mengurangi emisi kendaraan",
+          "D": "Menggunakan energi surya"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Tujuan utama dari mitigasi perubahan iklim adalah...",
+        "options": {
+          "A": "Mengurangi dampak negatif perubahan iklim",
+          "B": "Mengurangi emisi gas rumah kaca",
+          "C": "Menyesuaikan diri dengan perubahan iklim",
+          "D": "Meningkatkan suhu global"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Salah satu contoh mitigasi perubahan iklim di tingkat individu adalah...",
+        "options": {
+          "A": "Menggunakan air lebih efisien",
+          "B": "Menggunakan kendaraan pribadi setiap hari",
+          "C": "Membuang sampah sembarangan",
+          "D": "Menghemat energi dengan mematikan lampu yang tidak digunakan"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Dampak perubahan iklim yang terjadi di Indonesia antara lain...",
+        "options": {
+          "A": "Peningkatan curah hujan yang merata sepanjang tahun",
+          "B": "Menurunnya suhu udara di seluruh Indonesia",
+          "C": "Kenaikan permukaan air laut dan banjir di pesisir",
+          "D": "Semakin sejuknya udara di daerah pegunungan"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Salah satu tujuan SDGs yang berhubungan dengan adaptasi perubahan iklim adalah...",
+        "options": {
+          "A": "Tujuan 1: Tidak Ada Kemiskinan",
+          "B": "Tujuan 2: Lapar Nol",
+          "C": "Tujuan 11: Kota dan Permukiman Berkelanjutan",
+          "D": "Tujuan 12: Konsumsi dan Produksi Bertanggung Jawab"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "Upaya mitigasi perubahan iklim yang dilakukan pemerintah Indonesia adalah...",
+        "options": {
+          "A": "Membangun rumah susun untuk mengatasi banjir",
+          "B": "Mengurangi deforestasi dan menanam pohon",
+          "C": "Menggunakan air laut untuk irigasi",
+          "D": "Membuka lahan baru untuk perumahan"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Apa yang dimaksud dengan adaptasi dalam konteks perubahan iklim?",
+        "options": {
+          "A": "Upaya untuk mencegah terjadinya perubahan iklim",
+          "B": "Penyesuaian terhadap dampak perubahan iklim yang sudah terjadi atau akan terjadi",
+          "C": "Pengurangan emisi gas rumah kaca secara global",
+          "D": "Pembangunan infrastruktur tanpa mempertimbangkan dampak lingkungan"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "Contoh tindakan mitigasi perubahan iklim adalah...",
+        "options": {
+          "A": "Membangun tanggul untuk melindungi dari banjir",
+          "B": "Menggunakan transportasi umum untuk mengurangi emisi CO2",
+          "C": "Menanam pohon di daerah yang terkena kemarau",
+          "D": "Membuat rumah dengan atap yang tahan terhadap angin kencang"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Salah satu ciri-ciri perubahan iklim global adalah...",
+        "options": {
+          "A": "Penurunan suhu rata-rata bumi",
+          "B": "Peningkatan curah hujan secara merata di seluruh dunia",
+          "C": "Kenaikan permukaan air laut secara signifikan",
+          "D": "Stabilnya suhu udara di seluruh belahan bumi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "Tujuan Sustainable Development Goals (SDGs) yang berhubungan langsung dengan perubahan iklim adalah...",
+        "options": {
+          "A": "Merasa bahagia dan sejahtera",
+          "B": "Menciptakan perdamaian dan keadilan",
+          "C": "Mengambil tindakan segera untuk mengatasi perubahan iklim dan dampaknya",
+          "D": "Menjamin akses terhadap air minum bersih"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Contoh adaptasi perubahan iklim di bidang pertanian adalah...",
+        "options": {
+          "A": "Menggunakan pupuk kimia untuk meningkatkan produksi",
+          "B": "Menggunakan varietas tanaman yang tahan terhadap kekeringan",
+          "C": "Mengurangi luasan lahan pertanian",
+          "D": "Mengimpor hasil pertahan dari luar negeri"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "Perubahan iklim disebabkan oleh...",
+        "options": {
+          "A": "Hanya aktivitas alami seperti letusan gunung berapi",
+          "B": "Hanya aktivitas manusia seperti pembakaran fosil",
+          "C": "Kombinasi aktivitas alami dan aktivitas manusia",
+          "D": "Peningkatan populasi hewan di bumi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Apa yang dimaksud dengan mitigasi perubahan iklim?",
+        "options": {
+          "A": "Penerimaan terhadap dampak perubahan iklim",
+          "B": "Upaya untuk mengurangi atau mencegah emisi gas rumah kaca",
+          "C": "Penyesuaian cara hidup untuk menghadapi perubahan iklim",
+          "D": "Pengalihan tanggung jawab perubahan iklim kepada negara lain"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Tujuan SDGs yang berkaitan dengan pengelolaan sumber daya air adalah...",
+        "options": {
+          "A": "Menciptakan akses terhadap air minum bersih dan sanitasi yang aman",
+          "B": "Meningkatkan produksi perikanan secara masif",
+          "C": "Membangun bendungan di setiap daerah",
+          "D": "Mengurangi konsumsi air di rumah tangga"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "Contoh adaptasi perubahan iklim di bidang kesehatan adalah...",
+        "options": {
+          "A": "Membangun rumah sakit baru di daerah pegunungan",
+          "B": "Meningkatkan vaksinasi untuk penyakit menular",
+          "C": "Mengurangi populasi nyamuk di daerah rawan demam berdarah",
+          "D": "Membuat program kesehatan untuk lansia"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Dampak perubahan iklim yang sering terjadi di Indonesia adalah...",
+        "options": {
+          "A": "Penurunan suhu udara yang drastis",
+          "B": "Kekeringan yang melanda beberapa daerah",
+          "C": "Penurunan permukaan air laut",
+          "D": "Stabilnya curah hujan sepanjang tahun"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "Salah satu upaya mitigasi perubahan iklim yang dapat dilakukan oleh individu adalah...",
+        "options": {
+          "A": "Menggunakan kendaraan pribadi untuk perjalanan jarak jauh",
+          "B": "Membuang sampah sembarangan",
+          "C": "Mengurangi konsumsi daging dan produk hewani",
+          "D": "Membuka lahan baru untuk pertanian"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 24,
+        "question": "Tujuan SDGs yang berkaitan dengan energi bersih dan terjangkau adalah...",
+        "options": {
+          "A": "Meningkatkan konsumsi energi fosil",
+          "B": "Mengurangi akses terhadap listrik di pedesaan",
+          "C": "Memastikan akses terhadap energi bersih dan terjangkau",
+          "D": "Membangun pembangkit listrik tenaga nukir"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 25,
+        "question": "Contoh adaptasi perubahan iklim di bidang perikanan adalah...",
+        "options": {
+          "A": "Menggunakan jaring pancing yang lebih besar",
+          "B": "Membudidayakan jenis ikan yang tahan terhadap perubahan suhu",
+          "C": "Meningkatkan produksi ikan dengan pakan buatan",
+          "D": "Membangun pemancingan di laut dalam"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "CM4TAU",
     "link": "CM4TAU",
     "paceMode": "student_pace",
     "createdAt": "2026-09-08T12:03:16.454Z"
+  },
+  {
+    "id": "cmtsn7fhw0006mp0at0k585mc",
+    "title": "Teks prosedur",
+    "subject": "Bahasa Indonesia",
+    "classLevel": "9",
+    "difficulty": "HOTS",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Buatkan 25 soal teks prosedur. \nPengertian teks prosedur dan unsur kebahasaan teks prosedur. Berikan teks untuk beberapa nomor dan soal terkait teks.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "K6WCPC",
+    "link": "K6WCPC",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-08T12:25:28.629Z"
   }
 ]
