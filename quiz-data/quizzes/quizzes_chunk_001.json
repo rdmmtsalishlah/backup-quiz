@@ -2238,5 +2238,31 @@
     "link": "AA59A8",
     "paceMode": "student_pace",
     "createdAt": "2026-09-07T10:52:57.037Z"
+  },
+  {
+    "id": "cmtsmevl10003mp0a6o7ei6wu",
+    "title": "Adaptasi, mitigasi, perubahan iklim, SDGs",
+    "subject": "IPS",
+    "classLevel": "9",
+    "difficulty": "mudah,sedang",
+    "minScore": 75,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Buatkan soal IPS kelas 9 tentang pengertian, ciri-ciri dan contoh dari Adaptasi, mitigasi, perubahan iklim, SDGs",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "CM4TAU",
+    "link": "CM4TAU",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-08T12:03:16.454Z"
   }
 ]
