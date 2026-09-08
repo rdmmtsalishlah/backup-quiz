@@ -2238,5 +2238,31 @@
     "link": "AA59A8",
     "paceMode": "student_pace",
     "createdAt": "2026-09-07T10:52:57.037Z"
+  },
+  {
+    "id": "cmtsm7vxi0002mp0awpeaaoin",
+    "title": "Adaptasi, mitigasi, perubahan iklim, SDGs",
+    "subject": "IPS",
+    "classLevel": "9",
+    "difficulty": "mudah,sedang",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 20,
+    "promptText": "Pengertian dan ciri-ciri serta contoh dari Adaptasi, mitigasi, perubahan iklim, SDGs",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "776UYE",
+    "link": "776UYE",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-08T11:57:50.311Z"
   }
 ]
