@@ -1,15 +1,15 @@
 {
-  "quizLevel": 12,
-  "lastSyncAt": "2026-09-07T15:14:27.525Z",
+  "quizLevel": 13,
+  "lastSyncAt": "2026-09-08T11:58:05.253Z",
   "lastPullAt": "2026-09-08T04:52:14.374Z",
-  "totalQuizzes": 12,
-  "totalSessions": 12,
+  "totalQuizzes": 13,
+  "totalSessions": 17,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 11,
-      "count": 12,
+      "to": 12,
+      "count": 13,
       "sha": null
     }
   ],
@@ -39,7 +39,7 @@
       "file": "sessions/sessions_cmtlhgpmx000an50a1cbbyd5o.json",
       "quizId": "cmtlhgpmx000an50a1cbbyd5o",
       "quizTitle": "Tekanan Zat Padat",
-      "sessionCount": 2,
+      "sessionCount": 3,
       "sha": null
     },
     {
@@ -58,6 +58,11 @@
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-08T11:58:05.253Z",
+      "details": "Sync 13 quiz, 17 sesi"
+    },
     {
       "type": "session",
       "timestamp": "2026-09-07T15:14:27.525Z",
