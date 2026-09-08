@@ -43,7 +43,9 @@
     "quizId": "cmtlhgpmx000an50a1cbbyd5o",
     "studentName": "dara",
     "studentClass": "IX",
-    "answers": {},
+    "answers": {
+      "1": "C"
+    },
     "score": null,
     "totalCorrect": null,
     "totalQuestions": 10,
