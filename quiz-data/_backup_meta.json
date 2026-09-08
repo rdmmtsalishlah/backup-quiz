@@ -1,15 +1,15 @@
 {
-  "quizLevel": 13,
-  "lastSyncAt": "2026-09-08T12:03:29.014Z",
+  "quizLevel": 14,
+  "lastSyncAt": "2026-09-08T12:25:42.841Z",
   "lastPullAt": "2026-09-08T04:52:14.374Z",
-  "totalQuizzes": 13,
-  "totalSessions": 17,
+  "totalQuizzes": 14,
+  "totalSessions": 18,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 12,
-      "count": 13,
+      "to": 13,
+      "count": 14,
       "sha": null
     }
   ],
@@ -55,9 +55,21 @@
       "quizTitle": "Pecahan",
       "sessionCount": 4,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtsmevl10003mp0a6o7ei6wu.json",
+      "quizId": "cmtsmevl10003mp0a6o7ei6wu",
+      "quizTitle": "Adaptasi, mitigasi, perubahan iklim, SDGs",
+      "sessionCount": 1,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-08T12:25:42.841Z",
+      "details": "Sync 14 quiz, 18 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-08T12:03:29.014Z",
