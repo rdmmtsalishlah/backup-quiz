@@ -2641,5 +2641,31 @@
     "link": "K6WCPC",
     "paceMode": "student_pace",
     "createdAt": "2026-09-08T12:25:28.629Z"
+  },
+  {
+    "id": "cmttzgf8b0000t20a1ttvxokx",
+    "title": "Interaksi Sosial",
+    "subject": "IPS",
+    "classLevel": "7",
+    "difficulty": "mudah,sedang",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Interaksi sosial adalah hubungan timbal balik antara individu dengan individu, individu dengan kelompok, atau kelompok dengan kelompok yang saling memengaruhi satu sama lain.\n\n**Syarat Terjadinya Interaksi Sosial**\n\n* **Kontak Sosial:** Hubungan antarpihak yang dapat terjadi secara langsung (*primer*, seperti bertatap muka) maupun tidak langsung (*sekunder*, melalui surat, telepon, atau media sosial).\n* **Komunikasi:** Proses penyampaian pesan atau gagasan dari pengirim ke penerima sehingga timbul pemahaman bersama.\n\n**Faktor Pendorong Interaksi Sosial**\n\n* **Imitasi:** Tindakan meniru sikap, tingkah laku, atau penampilan orang lain.\n* **Sugesti:** Pengaruh atau pandangan yang diterima seseorang sehingga tergerak untuk mengikutinya tanpa berpikir kritis.\n* **Identifikasi:** Keinginan kuat dalam diri seseorang untuk menjadi sama persis dengan tokoh idola.\n* **Simpati & Empati:** Perasaan tertarik dan peduli terhadap pihak lain. Pada empati, rasa peduli tersebut disertai dengan aksi nyata untuk membantu.\n\n---\n\n---\n\n**Bentuk-Bentuk Interaksi Sosial**\n\n| Sifat Interaksi | Bentuk | Penjelasan & Contoh |\n| --- | --- | --- |\n| **Asosiatif** *(Mengarah pada persatuan)* | **Kerja Sama** | Usaha bersama mencapai tujuan kelompok (contoh: gotong royong membersihkan kelas). |\n|  | **Akomodasi** | Proses meredakan pertentangan atau konflik untuk mencapai kestabilan (contoh: musyawarah, mediasi). |\n|  | **Asimilasi** | Peleburan dua kebudayaan menjadi kebudayaan baru dan menghilangkan kebudayaan asli. |\n|  | **Akulturasi** | Perpaduan dua kebudayaan berbeda yang menghasilkan kebudayaan baru tanpa menghilangkan unsur asli. |\n| **Disosiatif** *(Mengarah pada perpecahan)* | **Kompetisi** | Persaingan antarpihak untuk mencapai prestasi atau kemenangan tanpa kekerasan (contoh: lomba cerdas cermat). |\n|  | **Kontravensi** | Sifat tersembunyi yang ditandai dengan keraguan, kecemburuan, atau penolakan yang tidak diungkapkan secara terbuka. |\n|  | **Konflik** | Pertentangan langsung yang disertai ancaman atau kekerasan untuk menyingkirkan pihak lawan. |",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "TJ4YFE",
+    "link": "TJ4YFE",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-09T10:56:09.755Z"
   }
 ]
