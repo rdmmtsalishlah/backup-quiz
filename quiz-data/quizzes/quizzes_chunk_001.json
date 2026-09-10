@@ -2667,5 +2667,31 @@
     "link": "TJ4YFE",
     "paceMode": "student_pace",
     "createdAt": "2026-09-09T10:56:09.755Z"
+  },
+  {
+    "id": "cmtvej1o20002pg0a0ajnibra",
+    "title": "Teks Deskripsi",
+    "subject": "Bahasa Indonesia",
+    "classLevel": "7",
+    "difficulty": "sulit",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Berikan teksdeskripsi panjang diikuti dengan 5 pertanyaan mengenai isi teks tersebut. sediakan 5 teks panjang diikuti 5 pertanyaan setiap teks. sehingga ada total soal ada 25 soal",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "BAWQRU",
+    "link": "BAWQRU",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-10T10:45:52.562Z"
   }
 ]
