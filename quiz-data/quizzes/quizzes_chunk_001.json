@@ -3137,5 +3137,31 @@
     "link": "9CTD2X",
     "paceMode": "student_pace",
     "createdAt": "2026-09-10T11:50:47.259Z"
+  },
+  {
+    "id": "cmtvil32r0000la0abxm6l2sr",
+    "title": "Sistem reproduksi manusia",
+    "subject": "IPA",
+    "classLevel": "9",
+    "difficulty": "mudah,sedang",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Sistem reproduksi kelas 9",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "E39KVV",
+    "link": "E39KVV",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-10T12:39:26.164Z"
   }
 ]
