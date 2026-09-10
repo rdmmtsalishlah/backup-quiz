@@ -2687,7 +2687,383 @@
     "language": "id",
     "questionCount": 25,
     "promptText": "Berikan teksdeskripsi panjang diikuti dengan 5 pertanyaan mengenai isi teks tersebut. sediakan 5 teks panjang diikuti 5 pertanyaan setiap teks. sehingga ada total soal ada 25 soal",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Teks pertama menggambarkan Gunung Bromo. Berdasarkan teks, mengapa Gunung Bromo menjadi salah satu gunung berapi paling ikonik di Indonesia?",
+        "options": {
+          "A": "Karena memiliki kawah yang sangat dalam dan luas",
+          "B": "Karena terletak di tengah lautan pasir yang luas dengan pemandangan spektakuler",
+          "C": "Karena merupakan gunung tertinggi di Jawa Timur",
+          "D": "Karena aktivitas erupsi yang sangat sering dan teratur",
+          "E": "Karena memiliki bentuk kerucut yang sempurna tanpa adanya puncak yang runtuh"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Apa yang membuat pemandangan di Gunung Bromo menjadi unik berdasarkan teks pertama?",
+        "options": {
+          "A": "Adanya flora langka yang tumb subur di sekitarnya",
+          "B": "Kehadiran danau yang terbentuk dari kawah gunung",
+          "C": "Lautan pasir yang mengelilingi kawah dengan luas mencapai 10 kilometer persegi",
+          "D": "Cuaca yang selalu cerah dan bersih tanpa awan",
+          "E": "Aktivitas fumarol yang terlihat jelas dari jauh"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Menurut teks pertama, bagaimana pengalaman berkunjung ke Gunung Bromo pada saat fajar?",
+        "options": {
+          "A": "Menyakitkan karena udara yang sangat dingin dan berangin",
+          "B": "Menyedihkan karena kabut tebal menghalangi pemandangan",
+          "C": "Mengesankan karena sinar matahari terbit yang menyinari kawah dengan warna oranye emas",
+          "D": "Menyebalkan karena banyak wisatawan yang berdesakan",
+          "E": "Membosankan karena tidak ada aktivitas yang bisa dilakukan"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Apa yang menjadi daya tarik utama selain pemandangan matahari terbit di Gunung Bromo?",
+        "options": {
+          "A": "Keanekaragaman flora endemis",
+          "B": "Adanya tarian tradisional yang disuguhkan setiap hari",
+          "C": "Kehidupan masyarakat Tengger yang masih memegang teguh tradisi dan ritual",
+          "D": "Ketersediaan fasilitas modern yang lengkap",
+          "E": "Keberadaan museum sejarah gunung berapi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Berdasarkan teks pertama, mengapa wisatawan disarankan untuk menggunakan transportasi kuda saat menjelajah area sekitar Gunung Bromo?",
+        "options": {
+          "A": "Karena kuda adalah satu-satunya kendaraan yang diperbolehkan masuk ke area tersebut",
+          "B": "Karena jalan setapak terlalu curam dan berbatu untuk ditempuh dengan berjalan kaki",
+          "C": "Karena pengendali kuda masyarakat Tengger memberikan penjelasan detail tentang sejarah gunung",
+          "D": "Karena penggunaan kuda merupakan bagian dari tradisi wisata di Bromo",
+          "E": "Karena jarak yang sangat jauh dari pintu masuk ke kawah"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Teks kedua menggambarkan Danau Toba. Apa yang membuat Danau Toba menjadi danau vulkanik terbesar di dunia?",
+        "options": {
+          "A": "Kedalamannya yang mencapai lebih dari 500 meter",
+          "B": "Luas permukaan air yang mencapai 1.145 kilometer persegi",
+          "C": "Ketinggiannya di atas permukaan laut yang mencapai 900 meter",
+          "D": "Suhu air yang sangat dingin sepanjang tahun",
+          "E": "Kekayaan flora dan fauna di dalamnya"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Berdasarkan teks kedua, apa yang menjadi ciri khas Pulau Samosir di tengah Danau Toba?",
+        "options": {
+          "A": "Pulau buatan yang dibangun untuk pariwisata",
+          "B": "Pulau vulkanik terbesar di dunia yang terbentang di tengah danau",
+          "C": "Pulau yang dihuni oleh satwa endemik langka",
+          "D": "Pulau dengan bentuk geometris yang sempurna",
+          "E": "Pulau yang terbuat dari batu permata berharga"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Mengapa Danau Toba dianggap memiliki nilai sejarah yang sangat penting menurut teks kedua?",
+        "options": {
+          "A": "Karena menjadi tempat lahirnya peradaban kuno di Indonesia",
+          "B": "Karena menjadi saksi letusan gunung berapi terbesar dalam sejarah manusia",
+          "C": "Karena menjadi tempat penemuan fosil manusia purba",
+          "D": "Karena menjadi pusat perdagangan maritim di masa lalu",
+          "E": "Karena menjadi tempat pertama kali orang Eropa mengunjungi Indonesia"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Apa yang menjadi kesan utama bagi wisatawan saat mengunjungi Danau Toba berdasarkan teks kedua?",
+        "options": {
+          "A": "Keterpencilan dan kedamaian yang luar biasa",
+          "B": "Kehidupan masyarakat modern yang pesat",
+          "C": "Keanekaragaman fauna yang langka",
+          "D": "Keberadaan gedung pencakar langit",
+          "E": "Kegiatan industri yang maju"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Menurut teks kedua, bagaimana pengaruh letusan gunung berapi purba terhadau kehidupan masyarakat Batak Toba?",
+        "options": {
+          "A": "Mendorong mereka untuk bermigrasi ke daerah lain",
+          "B": "Membentuk budaya dan mitos tentang asal usul mereka",
+          "C": "Mengubah sistem pertanian mereka secara drastis",
+          "D": "Menghancurkan seluruh peradaban mereka",
+          "E": "Membuat mereka menjadi pedagang maritim yang sukses"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Teks ketiga menggambarkan Raja Ampat. Apa yang membuat Raja Ampat menjadi surga bagi para penyelam dunia?",
+        "options": {
+          "A": "Kedalamannya yang mencapai 1000 meter",
+          "B": "Keberadaan gua bawah laut yang misterius",
+          "C": "Keanekaragaman hayati laut yang luar biasa dengan 75% spesies karang dunia",
+          "D": "Keberadaan pulau-pulau yang tidak dihuni manusia",
+          "E": "Arus laut yang sangat kuat dan menantang"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "Berdasarkan teks ketiga, apa yang menjadi ciri khas dari pemandangan bawah laut di Raja Ampat?",
+        "options": {
+          "A": "Keberadaan terumbu karang berwarna putih yang membentuk hamparan luas",
+          "B": "Laut yang sangat tenang dan jernis tanpa ombak",
+          "C": "Formasi batuan karst yang menonjol dari permukaan air",
+          "D": "Keanekaragaman ikan dan karang dengan warna-warna cerah yang memukau",
+          "E": "Kedalaman maksimum yang hanya mencapai 10 meter"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Menurut teks ketiga, mengapa Raja Ampat memiliki keanekaragaman hayati laut yang sangat tinggi?",
+        "options": {
+          "A": "Karena lokasinya yang terisolasi dari laut lain",
+          "B": "Karena perairannya sangat dangkal dan cahaya matahari mudah menembus",
+          "C": "Karena posisinya di pertemuan dua samudra besar yang kaya nutrisi",
+          "D": "Karena tidak ada aktivitas manusia di sekitarnya",
+          "E": "Karena suhu air yang stabil sepanjang tahun"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "Apa yang menjadi tantangan bagi wisatawan saat mengunjungi Raja Ampat berdasarkan teks ketiga?",
+        "options": {
+          "A": "Keterbatasan transportasi darat yang buruk",
+          "B": "Kurangnya akomodasi mewah",
+          "C": "Akses yang sulit dan biaya transportasi yang mahal",
+          "D": "Cuaca yang sangat tidak menentu",
+          "E": "Kurangnya restoran dengan berbagai masakan internasional"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Berdasarkan teks ketiga, apa yang menjadi upaya pelestarian lingkungan di Raja Ampat?",
+        "options": {
+          "A": "Melarang seluruh aktivitas wisata di sebagian besar wilayah",
+          "B": "Membatasi jumlah wisatawan yang datang setiap harinya",
+          "C": "Menerapkan sistem konservasi dan zonasi pengelolaan laut yang ketat",
+          "D": "Mengusir seluruh penduduk setempat dari pulau-pulau utama",
+          "E": "Menghentikan semua aktivitas perikanan di sekitar pulau"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "Teks keempat menggambarkan Candi Borobudur. Apa yang menjadi ciri arsitektur utama Candi Borobudur?",
+        "options": {
+          "A": "Bentuk piramida dengan lima tingkat",
+          "B": "Konsep mandala yang merepresentasikan alam semesta",
+          "C": "Adanya menara yang sangat tinggi di bagian tengah",
+          "D": "Penggunaan batu marmer putih seluruhnya",
+          "E": "Bentuk lingkaran dengan atap kubah"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Berdasarkan teks keempat, apa yang menjadi fungsi utama Candi Borobudur saat pertama kali dibangun?",
+        "options": {
+          "A": "Tempat penyimpanan harta karun kerajaan",
+          "B": "Istana raja untuk mengadapi sidang kerajaan",
+          "C": "Tempat ibadah dan pusat pengajaran agama Buddha",
+          "D": "Benteng pertahanan dari serangan musuh",
+          "E": "Tempat pemakaman raja-raja dinasti Syailendra"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "Menurut teks keempat, apa yang menjadi misteri utama seputar Candi Borobudur?",
+        "options": {
+          "A": "Siapa yang benar-benar membangunnya",
+          "B": "Mengapa candi tersebut ditinggalkan dan tertimbun abu vulkanik selama berabad-abad",
+          "C": "Apa yang terjadi dengan arca-arca asli yang hilang",
+          "D": "Bagaimana cara para arsitek kuno memindahkan batu-batu besar",
+          "E": "Apakah ada kamar rahasia di dalam dasar candi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Apa yang menjadi simbol utama dari relief-relief yang terdapat di Candi Borobudur berdasarkan teks keempat?",
+        "options": {
+          "A": "Kehidupan masyarakat Jawa kuno sehari-hari",
+          "B": "Sejarah kejayaan kerajaan Hindu-Budha di Indonesia",
+          "C": "Ajaran Buddha, terutama jalan menuka nirvana",
+          "D": "Legenda-legenda mitologis Jawa",
+          "E": "Peristiwa sejarah kolonialisme Belanda"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Berdasarkan teks keempat, mengapa Candi Borobudur dianggap sebagai monumen Buddha terbesar di dunia?",
+        "options": {
+          "A": "Karena memiliki jumlah arca Buddha terbanyak",
+          "B": "Karena luas bangunannya yang melebihi candi Buddha lainnya",
+          "C": "Karena menjadi satu-satunya candi Buddha di Indonesia",
+          "D": "Karena menggabungkan konsep filosofis Buddha dengan seni arsitektur yang luar biasa",
+          "E": "Karena tingginya mencapai lebih dari 100 meter"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "Teks kelima menggambarkan Taman Nasional Komodo. Apa yang menjadi spesies endemik utama di Taman Nasional Komodo?",
+        "options": {
+          "A": "Kura-kura raksasa",
+          "B": "Burung kasuari",
+          "C": "Komodo, kadal terbesar di dunia",
+          "D": "Badak bercula satu",
+          "E": "Harimau Sumatra"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Berdasarkan teks kelima, mengapa Pulau Komodo dianggap sebagai habitat yang ideal untuk komodo?",
+        "options": {
+          "A": "Karena iklimnya yang sangat panas dan kering",
+          "B": "Karena tidak ada pemangsa alami yang menjadi ancaman",
+          "C": "Karena adanya ekosistem yang unik dengan sumber daya alam yang memadai",
+          "D": "Karena populasi hewan lain yang sangat melimpah",
+          "E": "Karena tanahnya yang subur dan subur"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "Menurut teks kelima, apa yang menjadi ciri khas dari ekosistem laut di sekitar Pulau Komodo?",
+        "options": {
+          "A": "Keanekaragaman terumbu karang yang luar biasa",
+          "B": "Kedalaman maksimum yang mencapai 1000 meter",
+          "C": "Keberadaan ikan paus yang migrasi setiap tahun",
+          "D": "Arus laut yang sangat tenang dan stabil",
+          "E": "Suhu air yang sangat dingin sepanjang tahun"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 24,
+        "question": "Berdasarkan teks kelima, apa yang menjadi tantangan bagi para penjaga konservasi di Taman Nasional Komodo?",
+        "options": {
+          "A": "Perubahan iklim yang mengganggu habitat komodo",
+          "B": "Pencurian telur komodo oleh pemburu liar",
+          "C": "Peningkatan populasi manusia di sekitar taman nasional",
+          "D": "Semua pilihan di atas",
+          "E": "Hanya A dan B"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 25,
+        "question": "Apa yang menjadi tujuan utama pendirian Taman Nasional Komodo berdasarkan teks kelima?",
+        "options": {
+          "A": "Meningkatkan pariwisata di wilayah tersebut",
+          "B": "Melindungi habitat alam dan spesies langka, terutama komodo",
+          "C": "Mengembangkan riset ilmiah tentang spesies endemik",
+          "D": "Meningkatkan ekonomi masyarakat setempat",
+          "E": "Mencegah eksploitasi sumber daya alam oleh perusahaan asing"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sulit",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "BAWQRU",
     "link": "BAWQRU",
@@ -2713,11 +3089,53 @@
     "language": "id",
     "questionCount": 1,
     "promptText": "Operasi hitung bilangan bulat",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Hasil dari -12 + 8 - (-5) + 3 - 7 adalah",
+        "options": {
+          "A": "-13",
+          "B": "-3",
+          "C": "3",
+          "D": "13",
+          "E": "0"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "GVB997",
     "link": "GVB997",
     "paceMode": "student_pace",
     "createdAt": "2026-09-10T11:17:13.310Z"
+  },
+  {
+    "id": "cmtvguiu30001rjule56ly1dq",
+    "title": "Test Long Text",
+    "subject": "Bahasa Indonesia",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "Bacalah teks berikut dengan saksama: Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari lebih dari 17.000 pulau. Negara ini memiliki kekayaan alam yang melimpah, mulai dari hutan tropis, gunung berapi, dan laut yang kaya akan biota laut. Indonesia juga memiliki keragaman budaya yang luar biasa dengan lebih dari 300 suku bangsa dan 700 bahasa daerah. Sebagai negara dengan populasi terbesar keempat di dunia, Indonesia menghadapi berbagai tantangan dalam bidang pendidikan, kesehatan, dan ekonomi. Pemerintah Indonesia telah meluncurkan berbagai program untuk meningkatkan kualitas hidup masyarakat, termasuk program Indonesia Pintar, Indonesia Sehat, dan Indonesia Kerja. Teks prosedur tentang cara membuat nasi goreng: Pertama, siapkan bahan-bahan seperti nasi putih, minyak goreng, bawang merah, bawang putih, telur, kecap manis, dan garam. Kedua, panaskan minyak goreng dalam wajan. Ketiga, tumis bawang merah dan bawang putih hingga harum. Keempat, masukkan telur dan orak-arik. Kelima, tambahkan nasi putih dan aduk rata. Keenam, tambahkan kecap manis dan garam secukupnya. Ketujuh, aduk hingga semua bahan tercampur rata dan nasi goreng siap disajikan.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "9CTD2X",
+    "link": "9CTD2X",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-10T11:50:47.259Z"
   }
 ]
