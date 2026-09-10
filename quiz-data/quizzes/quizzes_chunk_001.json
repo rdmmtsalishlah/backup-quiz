@@ -2693,5 +2693,31 @@
     "link": "BAWQRU",
     "paceMode": "student_pace",
     "createdAt": "2026-09-10T10:45:52.562Z"
+  },
+  {
+    "id": "cmtvfncv10000rjulpvlcy1qb",
+    "title": "Test Multi-AI",
+    "subject": "Matematika",
+    "classLevel": "7",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 1,
+        "point": 10,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 1,
+    "promptText": "Operasi hitung bilangan bulat",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "GVB997",
+    "link": "GVB997",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-10T11:17:13.310Z"
   }
 ]
