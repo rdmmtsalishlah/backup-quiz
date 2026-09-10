@@ -3092,18 +3092,18 @@
     "questions": [
       {
         "no": 1,
-        "question": "Hasil dari -12 + 8 - (-5) + 3 - 7 adalah",
+        "question": "Hasil dari 12 + (-8) - 5 adalah",
         "options": {
-          "A": "-13",
-          "B": "-3",
-          "C": "3",
-          "D": "13",
-          "E": "0"
+          "A": "-1",
+          "B": "-25",
+          "C": "9",
+          "D": "15",
+          "E": "25"
         },
-        "answer": "B",
+        "answer": "A",
         "_type": "pilihan_ganda",
-        "_difficulty": "sedang",
-        "_sectionIndex": 0
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
       }
     ],
     "tableConfig": null,
@@ -3131,7 +3131,158 @@
     "language": "id",
     "questionCount": 10,
     "promptText": "Bacalah teks berikut dengan saksama: Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari lebih dari 17.000 pulau. Negara ini memiliki kekayaan alam yang melimpah, mulai dari hutan tropis, gunung berapi, dan laut yang kaya akan biota laut. Indonesia juga memiliki keragaman budaya yang luar biasa dengan lebih dari 300 suku bangsa dan 700 bahasa daerah. Sebagai negara dengan populasi terbesar keempat di dunia, Indonesia menghadapi berbagai tantangan dalam bidang pendidikan, kesehatan, dan ekonomi. Pemerintah Indonesia telah meluncurkan berbagai program untuk meningkatkan kualitas hidup masyarakat, termasuk program Indonesia Pintar, Indonesia Sehat, dan Indonesia Kerja. Teks prosedur tentang cara membuat nasi goreng: Pertama, siapkan bahan-bahan seperti nasi putih, minyak goreng, bawang merah, bawang putih, telur, kecap manis, dan garam. Kedua, panaskan minyak goreng dalam wajan. Ketiga, tumis bawang merah dan bawang putih hingga harum. Keempat, masukkan telur dan orak-arik. Kelima, tambahkan nasi putih dan aduk rata. Keenam, tambahkan kecap manis dan garam secukupnya. Ketujuh, aduk hingga semua bahan tercampur rata dan nasi goreng siap disajikan.",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Indonesia adalah negara kepulauan terbesar di dunia yang terdiri dari lebih dari berapa pulau?",
+        "options": {
+          "A": "10.000 pulau",
+          "B": "17.000 pulau",
+          "C": "25.000 pulau",
+          "D": "30.000 pulau",
+          "E": "50.000 pulau"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 2,
+        "question": "Berapa jumlah suku bangsa yang ada di Indonesia?",
+        "options": {
+          "A": "100 suku bangsa",
+          "B": "200 suku bangsa",
+          "C": "300 suku bangsa",
+          "D": "500 suku bangsa",
+          "E": "1.000 suku bangsa"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 3,
+        "question": "Indonesia menempati peringkat ke berapa sebagai negara dengan populasi terbesar di dunia?",
+        "options": {
+          "A": "kedua",
+          "B": "ketiga",
+          "C": "keempat",
+          "D": "kelima",
+          "E": "keenam"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 4,
+        "question": "Apa saja program yang telah diluncurkan pemerintah untuk meningkatkan kualitas hidup masyarakat?",
+        "options": {
+          "A": "Indonesia Cerdas, Indonesia Sehat, Indonesia Mandiri",
+          "B": "Indonesia Pintar, Indonesia Sehat, Indonesia Kerja",
+          "C": "Indonesia Berkualitas, Indonesia Sejahtera, Indonesia Produktif",
+          "D": "Indonesia Maju, Indonesia Sehat, Indonesia Sukses",
+          "E": "Indonesia Hebat, Indonesia Sehat, Indonesia Kaya"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 5,
+        "question": "Berapa langkah dalam prosedur membuat nasi goreng yang dijelaskan dalam teks?",
+        "options": {
+          "A": "lima langkah",
+          "B": "enam langkah",
+          "C": "tujuh langkah",
+          "D": "delapan langkah",
+          "E": "sembilan langkah"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 6,
+        "question": "Apa bahan yang pertama kali disiapkan dalam membuat nasi goreng?",
+        "options": {
+          "A": "minyak goreng",
+          "B": "telur",
+          "C": "nasi putih",
+          "D": "kecap manis",
+          "E": "bawang merah"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 7,
+        "question": "Setelah memanaskan minyak goreng, langkah selanjutnya dalam membuat nasi goreng adalah?",
+        "options": {
+          "A": "masukkan telur",
+          "B": "tumis bawang merah dan bawang putih",
+          "C": "tambahkan kecap manis",
+          "D": "aduk rata",
+          "E": "masukkan nasi putih"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 8,
+        "question": "Berapa jumlah bahasa daerah yang ada di Indonesia?",
+        "options": {
+          "A": "300 bahasa daerah",
+          "B": "500 bahasa daerah",
+          "C": "700 bahasa daerah",
+          "D": "1.000 bahasa daerah",
+          "E": "1.500 bahasa daerah"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 9,
+        "question": "Apa yang harus ditambahkan setelah nasi putih diaduk rata dalam prosedur membuat nasi goreng?",
+        "options": {
+          "A": "garam saja",
+          "B": "kecap manis saja",
+          "C": "telur",
+          "D": "kecap manis dan garam secukupnya",
+          "E": "bawang merah"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      },
+      {
+        "no": 10,
+        "question": "Apa yang terjadi pada langkah terakhir dalam prosedur membuat nasi goreng?",
+        "options": {
+          "A": "memanaskan wajan",
+          "B": "memotong bahan-bahan",
+          "C": "mengaduk hingga semua bahan tercampur rata",
+          "D": "menambahkan bumbu",
+          "E": "memasukkan telur"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
+      }
+    ],
     "tableConfig": null,
     "pin": "9CTD2X",
     "link": "9CTD2X",
@@ -3163,5 +3314,30 @@
     "link": "E39KVV",
     "paceMode": "student_pace",
     "createdAt": "2026-09-10T12:39:26.164Z"
+  },
+  {
+    "id": "cmtvkuzxb0002rjul9mly8s96",
+    "title": "Test Teks Panjang",
+    "subject": "Bahasa Indonesia",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 60,
+    "questionType": "uraian_panjang",
+    "questionTypes": [
+      {
+        "type": "uraian_panjang",
+        "count": 10,
+        "point": 10
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "Pemahaman bacaan teks narasi dan deskripsi. Siswa harus membaca teks panjang terlebih dahulu sebelum menjawab pertanyaan uraian.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "2UDTB8",
+    "link": "2UDTB8",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-10T13:43:07.871Z"
   }
 ]
