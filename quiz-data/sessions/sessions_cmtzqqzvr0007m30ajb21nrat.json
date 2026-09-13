@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cmtzrede30009m30aiz4anna8",
+    "quizId": "cmtzqqzvr0007m30ajb21nrat",
+    "studentName": "Ima",
+    "studentClass": "7e",
+    "answers": {
+      "1": "A"
+    },
+    "score": 10,
+    "totalCorrect": 1,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-13T11:57:14.187Z",
+    "completedAt": "2026-09-13T11:58:52.475Z",
+    "isActive": false
+  },
+  {
+    "id": "cmtzreffj000bm30a67jkg1yi",
+    "quizId": "cmtzqqzvr0007m30ajb21nrat",
+    "studentName": "Putri",
+    "studentClass": "7i",
+    "answers": {
+      "1": "A"
+    },
+    "score": null,
+    "totalCorrect": null,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-13T11:57:16.832Z",
+    "completedAt": null,
+    "isActive": true
+  }
+]
