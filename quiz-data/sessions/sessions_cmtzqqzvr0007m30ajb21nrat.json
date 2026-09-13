@@ -20,13 +20,94 @@
     "studentName": "Putri",
     "studentClass": "7i",
     "answers": {
-      "1": "A"
+      "1": "A",
+      "2": "D",
+      "3": "C",
+      "4": "C",
+      "5": "B",
+      "6": "B",
+      "7": "A",
+      "8": "B",
+      "9": "A",
+      "10": "C"
+    },
+    "score": 100,
+    "totalCorrect": 10,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-13T11:57:16.832Z",
+    "completedAt": "2026-09-13T12:26:04.569Z",
+    "isActive": false
+  },
+  {
+    "id": "cmtzrpkr1000em30awok0zwho",
+    "quizId": "cmtzqqzvr0007m30ajb21nrat",
+    "studentName": "Ima",
+    "studentClass": "7e",
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "C",
+      "4": "C",
+      "5": "B",
+      "6": "B",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "C"
+    },
+    "score": 80,
+    "totalCorrect": 8,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-13T12:05:56.941Z",
+    "completedAt": "2026-09-13T12:12:57.903Z",
+    "isActive": false
+  },
+  {
+    "id": "cmtzs0e22000im30at9c5y94y",
+    "quizId": "cmtzqqzvr0007m30ajb21nrat",
+    "studentName": "Ima",
+    "studentClass": "7E",
+    "answers": {
+      "1": "A",
+      "2": "D",
+      "3": "C",
+      "4": "C",
+      "5": "B",
+      "6": "B",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "C"
     },
     "score": null,
     "totalCorrect": null,
     "totalQuestions": 10,
-    "startedAt": "2026-09-13T11:57:16.832Z",
+    "startedAt": "2026-09-13T12:14:21.483Z",
     "completedAt": null,
     "isActive": true
+  },
+  {
+    "id": "cmtzs4563000km30au1xc0107",
+    "quizId": "cmtzqqzvr0007m30ajb21nrat",
+    "studentName": "Ima",
+    "studentClass": "7E",
+    "answers": {
+      "1": "A",
+      "2": "D",
+      "3": "C",
+      "4": "C",
+      "5": "B",
+      "6": "B",
+      "7": "A",
+      "8": "B",
+      "9": "A",
+      "10": "C"
+    },
+    "score": 100,
+    "totalCorrect": 10,
+    "totalQuestions": 10,
+    "startedAt": "2026-09-13T12:17:16.587Z",
+    "completedAt": "2026-09-13T12:19:32.342Z",
+    "isActive": false
   }
 ]
