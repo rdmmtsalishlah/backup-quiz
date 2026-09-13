@@ -1,15 +1,15 @@
 {
-  "quizLevel": 22,
-  "lastSyncAt": "2026-09-13T11:39:18.441Z",
+  "quizLevel": 23,
+  "lastSyncAt": "2026-09-13T12:01:18.634Z",
   "lastPullAt": "2026-09-13T09:52:52.354Z",
-  "totalQuizzes": 22,
-  "totalSessions": 21,
+  "totalQuizzes": 23,
+  "totalSessions": 23,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 21,
-      "count": 22,
+      "to": 22,
+      "count": 23,
       "sha": null
     }
   ],
@@ -69,9 +69,21 @@
       "quizTitle": "Zat dan Perubahannya",
       "sessionCount": 3,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtzqqzvr0007m30ajb21nrat.json",
+      "quizId": "cmtzqqzvr0007m30ajb21nrat",
+      "quizTitle": "Bilangan Bulat",
+      "sessionCount": 2,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-13T12:01:18.634Z",
+      "details": "Sync 23 quiz, 23 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-13T11:39:18.441Z",
