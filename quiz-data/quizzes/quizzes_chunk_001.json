@@ -4252,11 +4252,358 @@
     "language": "en",
     "questionCount": 5,
     "promptText": "the questions are about the following topics:\n1. Introduce Yourself and others\n2. hobbies\n3. describe people's physical and persoanlity traits\n4. describe daily activities\n\nuse simple daily vocabularies for kids",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "To introduce yourself, you should say your name and age.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Playing football is not a hobby.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "When introducing yourself, you should always mention your name, age, and where you live.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Playing computer games is a hobby that helps you develop strong social skills.",
+        "answer": false,
+        "_type": "benar_salah",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Waking up early in the morning and eating breakfast is part of a daily routine.",
+        "answer": true,
+        "_type": "benar_salah",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "What is the most important information you should share when introducing yourself?",
+        "options": [
+          "Your hobbies and interests",
+          "Your name and age",
+          "Your favorite food",
+          "Your favorite movie"
+        ],
+        "answer": "Your name and age",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Which of the following is NOT a common hobby?",
+        "options": [
+          "Reading books",
+          "Sleeping",
+          "Playing sports",
+          "Drawing"
+        ],
+        "answer": "Sleeping",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "How should you introduce yourself to your new teacher?",
+        "options": [
+          "Just say your name",
+          "Say your name and where you live",
+          "Say your name, age, and favorite subject",
+          "Say nothing and wait for the teacher to introduce you"
+        ],
+        "answer": "Say your name, age, and favorite subject",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Which activity helps develop social skills the most?",
+        "options": [
+          "Playing video games alone",
+          "Reading books",
+          "Playing team sports",
+          "Watching TV"
+        ],
+        "answer": "Playing team sports",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "What is the best time to wake up for school?",
+        "options": [
+          "After 9 AM",
+          "At midnight",
+          "Early in the morning",
+          "Whenever you want"
+        ],
+        "answer": "Early in the morning",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Which of these is NOT part of a healthy daily routine?",
+        "options": [
+          "Eating breakfast",
+          "Brushing teeth",
+          "Exercising",
+          "Skipping meals"
+        ],
+        "answer": "Skipping meals",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "When someone asks 'How old are you?', what should you reply?",
+        "options": [
+          "I'm fine, thank you",
+          "I'm 10 years old",
+          "None of your business",
+          "I don't know"
+        ],
+        "answer": "I'm 10 years old",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Which hobby is good for your health?",
+        "options": [
+          "Watching TV all day",
+          "Playing video games",
+          "Doing exercise",
+          "Sleeping too much"
+        ],
+        "answer": "Doing exercise",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "What should you do when meeting someone for the first time?",
+        "options": [
+          "Ignore them",
+          "Say hello and introduce yourself",
+          "Run away",
+          "Make fun of them"
+        ],
+        "answer": "Say hello and introduce yourself",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Which of these is a good daily habit?",
+        "options": [
+          "Brushing teeth twice a day",
+          "Washing hands before eating",
+          "Going to bed early",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "What is a good way to make new friends?",
+        "options": [
+          "Being unfriendly",
+          "Sharing your interests",
+          "Ignoring others",
+          "Being selfish"
+        ],
+        "answer": "Sharing your interests",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Which of these is NOT a daily routine activity?",
+        "options": [
+          "Brushing teeth",
+          "Going to school",
+          "Celebrating birthday",
+          "Eating meals"
+        ],
+        "answer": "Celebrating birthday",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "What should you say when introducing yourself?",
+        "options": [
+          "Hi, I'm [Your Name]",
+          "Goodbye",
+          "I don't know",
+          "Leave me alone"
+        ],
+        "answer": "Hi, I'm [Your Name]",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Which hobby helps you learn new things?",
+        "options": [
+          "Watching TV",
+          "Reading books",
+          "Sleeping",
+          "Playing video games"
+        ],
+        "answer": "Reading books",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Why is it important to have a daily routine?",
+        "options": [
+          "It makes you tired",
+          "It helps you stay organized and healthy",
+          "It's boring",
+          "It wastes time"
+        ],
+        "answer": "It helps you stay organized and healthy",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "What should you do when someone introduces themselves to you?",
+        "options": [
+          "Ignore them",
+          "Listen carefully and respond politely",
+          "Walk away",
+          "Make fun of their name"
+        ],
+        "answer": "Listen carefully and respond politely",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Which of these is a creative hobby?",
+        "options": [
+          "Playing football",
+          "Drawing",
+          "Watching movies",
+          "Sleeping"
+        ],
+        "answer": "Drawing",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "What is the first thing you should do in the morning?",
+        "options": [
+          "Go back to sleep",
+          "Brush your teeth",
+          "Get out of bed",
+          "Eat breakfast"
+        ],
+        "answer": "Get out of bed",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 24,
+        "question": "Why is it important to share your interests with others?",
+        "options": [
+          "So they can make fun of you",
+          "To find people with similar interests",
+          "To show off",
+          "To make others jealous"
+        ],
+        "answer": "To find people with similar interests",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 25,
+        "question": "What should you do before going to bed?",
+        "options": [
+          "Eat a big meal",
+          "Brush your teeth",
+          "Play loud music",
+          "Use electronic devices"
+        ],
+        "answer": "Brush your teeth",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "W87QN9",
     "link": "W87QN9",
     "paceMode": "student_pace",
     "createdAt": "2026-09-13T12:01:02.009Z"
+  },
+  {
+    "id": "cmu00xzbx000lm30awjd5xf23",
+    "title": "Past Simple (Affirmative, Negative, Interrogative, WH Question)",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "mudah,sedang",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Fill in the blank with correct form of the verb using past simple (Verbal Sentences)\n1. affirmative\n2. negative\n3. interrogative\n4. WH Questions",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "AFSJ7W",
+    "link": "AFSJ7W",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-13T16:24:25.629Z"
   }
 ]
