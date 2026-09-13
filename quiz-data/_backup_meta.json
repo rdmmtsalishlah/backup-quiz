@@ -1,15 +1,15 @@
 {
-  "quizLevel": 21,
-  "lastSyncAt": "2026-09-13T10:29:54.348Z",
+  "quizLevel": 22,
+  "lastSyncAt": "2026-09-13T11:39:18.441Z",
   "lastPullAt": "2026-09-13T09:52:52.354Z",
-  "totalQuizzes": 21,
-  "totalSessions": 18,
+  "totalQuizzes": 22,
+  "totalSessions": 21,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 20,
-      "count": 21,
+      "to": 21,
+      "count": 22,
       "sha": null
     }
   ],
@@ -62,9 +62,21 @@
       "quizTitle": "Adaptasi, mitigasi, perubahan iklim, SDGs",
       "sessionCount": 1,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtzo9sns0000m30atgn5bbu6.json",
+      "quizId": "cmtzo9sns0000m30atgn5bbu6",
+      "quizTitle": "Zat dan Perubahannya",
+      "sessionCount": 3,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-13T11:39:18.441Z",
+      "details": "Sync 22 quiz, 21 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-13T10:29:54.348Z",
