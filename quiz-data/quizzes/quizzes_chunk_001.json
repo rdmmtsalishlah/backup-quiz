@@ -3092,18 +3092,18 @@
     "questions": [
       {
         "no": 1,
-        "question": "Hasil dari 12 + (-8) - 5 adalah",
+        "question": "Hasil dari -12 + 8 - (-5) + 3 - 7 adalah",
         "options": {
-          "A": "-1",
-          "B": "-25",
-          "C": "9",
-          "D": "15",
-          "E": "25"
+          "A": "-13",
+          "B": "-3",
+          "C": "3",
+          "D": "13",
+          "E": "0"
         },
-        "answer": "A",
+        "answer": "B",
         "_type": "pilihan_ganda",
-        "_sectionIndex": 0,
-        "_difficulty": "mudah"
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
       }
     ],
     "tableConfig": null,
@@ -3339,5 +3339,31 @@
     "link": "2UDTB8",
     "paceMode": "student_pace",
     "createdAt": "2026-09-10T13:43:07.871Z"
+  },
+  {
+    "id": "cmtzo9sns0000m30atgn5bbu6",
+    "title": "Zat dan Perubahannya",
+    "subject": "IPA",
+    "classLevel": "7",
+    "difficulty": "mudah,sedang",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 50,
+        "point": 2,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 50,
+    "promptText": "IPA Kelas 7 tentang definisi, macam-macam, dan perubahan bentuk Zat.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "MGFG6U",
+    "link": "MGFG6U",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-13T10:29:41.849Z"
   }
 ]
