@@ -1,15 +1,15 @@
 {
-  "quizLevel": 23,
-  "lastSyncAt": "2026-09-13T12:01:18.634Z",
+  "quizLevel": 24,
+  "lastSyncAt": "2026-09-13T16:24:43.937Z",
   "lastPullAt": "2026-09-13T09:52:52.354Z",
-  "totalQuizzes": 23,
-  "totalSessions": 23,
+  "totalQuizzes": 24,
+  "totalSessions": 27,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 22,
-      "count": 23,
+      "to": 23,
+      "count": 24,
       "sha": null
     }
   ],
@@ -74,11 +74,23 @@
       "file": "sessions/sessions_cmtzqqzvr0007m30ajb21nrat.json",
       "quizId": "cmtzqqzvr0007m30ajb21nrat",
       "quizTitle": "Bilangan Bulat",
-      "sessionCount": 2,
+      "sessionCount": 5,
+      "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmtzrj96h000cm30al7ug9sle.json",
+      "quizId": "cmtzrj96h000cm30al7ug9sle",
+      "quizTitle": "About Me",
+      "sessionCount": 1,
       "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-13T16:24:43.937Z",
+      "details": "Sync 24 quiz, 27 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-13T12:01:18.634Z",
@@ -323,11 +335,6 @@
       "type": "full",
       "timestamp": "2026-08-29T22:41:00.869Z",
       "details": "Sync 2 quiz, 0 sesi"
-    },
-    {
-      "type": "full",
-      "timestamp": "2026-08-29T13:26:16.806Z",
-      "details": "Sync 1 quiz, 0 sesi"
     }
   ],
   "pullHistory": [
