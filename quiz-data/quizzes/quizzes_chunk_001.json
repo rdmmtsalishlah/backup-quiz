@@ -3359,11 +3359,738 @@
     "language": "id",
     "questionCount": 50,
     "promptText": "IPA Kelas 7 tentang definisi, macam-macam, dan perubahan bentuk Zat.",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Apa yang dimaksud dengan zat dalam ilmu pengetahuan alam?",
+        "options": {
+          "A": "Segala sesuatu yang memiliki massa dan menempati ruang",
+          "B": "Segala sesuatu yang bergerak dan berubah",
+          "C": "Segala sesuatu yang terlihat oleh mata",
+          "D": "Segala sesuatu yang memiliki panas"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Zat yang tidak dapat dibagi menjadi zat yang lebih sederhana melalui reaksi kimia disebut...",
+        "options": {
+          "A": "Unsur",
+          "B": "Senyawa",
+          "C": "Campuran",
+          "D": "Molekul"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Contoh zat padat di bawah ini adalah...",
+        "options": {
+          "A": "Uap air",
+          "B": "Batu",
+          "C": "Oksigen",
+          "D": "Gas butana"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Zat yang bentuknya menyesuaikan wadahnya dan dapat mengalir disebut...",
+        "options": {
+          "A": "Padat",
+          "B": "Cair",
+          "C": "Gas",
+          "D": "Plasma"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Perubahan zat yang tidak menghasilkan zat baru disebut...",
+        "options": {
+          "A": "Perubahan kimia",
+          "B": "Perubahan fisika",
+          "C": "Reaksi kimia",
+          "D": "Reaksi nuklir"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Contoh perubahan fisika adalah...",
+        "options": {
+          "A": "Membakar kayu",
+          "B": "Membeku air",
+          "C": "Menyembuhkan luka",
+          "D": "Memfermentasi buah"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Zat yang terdiri dari lebih dari satu unsur yang terikat kimia disebut...",
+        "options": {
+          "A": "Unsur",
+          "B": "Senyawa",
+          "C": "Campuran",
+          "D": "Molekul"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Contoh zat gas adalah...",
+        "options": {
+          "A": "Es batu",
+          "B": "Uap air",
+          "C": "Minyak goreng",
+          "D": "Pasir"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Perubahan zat yang menghasilkan zat baru disebut...",
+        "options": {
+          "A": "Perubahan fisika",
+          "B": "Perubahan kimia",
+          "C": "Perubahan wujud",
+          "D": "Perubahan sifat"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Campuran yang komposisinya seragam disebut...",
+        "options": {
+          "A": "Heterogen",
+          "B": "Homogen",
+          "C": "Unsur",
+          "D": "Senyawa"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Contoh perubahan kimia adalah...",
+        "options": {
+          "A": "Membeku air",
+          "B": "Menguap air",
+          "C": "Membakakan kertas",
+          "D": "Melelehkan es"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "Zat yang dapat dibagi lagi menjadi zat yang lebih sederhana melalui reaksi kimia disebut...",
+        "options": {
+          "A": "Unsur",
+          "B": "Senyawa",
+          "C": "Campuran",
+          "D": "Molekul"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Contoh campuran homogen adalah...",
+        "options": {
+          "A": "Pasir dan kerikil",
+          "B": "Air garam",
+          "C": "Minyak dan air",
+          "D": "Sayur goreng"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "Perubahan wujud zat dari padat menjadi cair disebut...",
+        "options": {
+          "A": "Menguap",
+          "B": "Membeku",
+          "C": "Meleleh",
+          "D": "Menyublim"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Contoh zat cair adalah...",
+        "options": {
+          "A": "Uap air",
+          "B": "Oksigen",
+          "C": "Minuman soda",
+          "D": "Gas karbon dioksida"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "Campuran yang komposisinya tidak seragam disebut...",
+        "options": {
+          "A": "Heterogen",
+          "B": "Homogen",
+          "C": "Unsur",
+          "D": "Senyawa"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Perubahan wujud zat dari cair menjadi gas disebut...",
+        "options": {
+          "A": "Menguap",
+          "B": "Membeku",
+          "C": "Meleleh",
+          "D": "Menyublim"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "Contoh unsur adalah...",
+        "options": {
+          "A": "Air",
+          "B": "Garam",
+          "C": "Oksigen",
+          "D": "Gula"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Perubahan wujud zat dari gas menjadi padat disebut...",
+        "options": {
+          "A": "Menguap",
+          "B": "Membeku",
+          "C": "Meleleh",
+          "D": "Menyublim"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Contoh senyawa adalah...",
+        "options": {
+          "A": "Uap air",
+          "B": "Oksigen",
+          "C": "Karbondioksida",
+          "D": "Gas nitrogen"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "Perubahan wujud zat dari padat menjadi gas disebut...",
+        "options": {
+          "A": "Menguap",
+          "B": "Membeku",
+          "C": "Meleleh",
+          "D": "Menyublim"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Contoh campuran heterogen adalah...",
+        "options": {
+          "A": "Air garam",
+          "B": "Udara",
+          "C": "Pasir dan air",
+          "D": "Minyak goreng"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "Perubahan wujud zat dari gas menjadi cair disebut...",
+        "options": {
+          "A": "Menguap",
+          "B": "Membeku",
+          "C": "Kondensasi",
+          "D": "Meleleh"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 24,
+        "question": "Contoh zat padat yang berbentuk kristal adalah...",
+        "options": {
+          "A": "Kertas",
+          "B": "Gula",
+          "C": "Karet",
+          "D": "Plastik"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 25,
+        "question": "Perubahan wujud zat dari cair menjadi padat disebut...",
+        "options": {
+          "A": "Menguap",
+          "B": "Membeku",
+          "C": "Meleleh",
+          "D": "Menyublim"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 26,
+        "question": "Perubahan bentuk zat yang tidak menghasilkan zat baru disebut...",
+        "options": {
+          "A": "Perubahan kimia",
+          "B": "Perubahan fisika",
+          "C": "Reaksi kimia",
+          "D": "Transformasi zat"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 27,
+        "question": "Zat yang memiliki komposisi kimia dan sifat yang sama disebut...",
+        "options": {
+          "A": "Campuran",
+          "B": "Unsur",
+          "C": "Senyawa",
+          "D": "Molekul"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 28,
+        "question": "Berikut ini yang termasuk perubahan fisika adalah...",
+        "options": {
+          "A": "Membakar kayu",
+          "B": "Membeku air",
+          "C": "Membesi besi",
+          "D": "Memfermentasi buah"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 29,
+        "question": "Zat yang terdiri dari satu jenis atom disebut...",
+        "options": {
+          "A": "Senyawa",
+          "B": "Unsur",
+          "C": "Molekul",
+          "D": "Campuran"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 30,
+        "question": "Perubahan zat yang menghasilkan zat baru dengan sifat yang berbeda disebut...",
+        "options": {
+          "A": "Perubahan fisika",
+          "B": "Reaksi kimia",
+          "C": "Sublimasi",
+          "D": "Kristalisasi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 31,
+        "question": "Zat yang terdiri dari lebih dari satu jenis atom yang terikat secara kimia disebut...",
+        "options": {
+          "A": "Unsur",
+          "B": "Molekul",
+          "C": "Senyawa",
+          "D": "Campuran"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 32,
+        "question": "Proses perubahan zat dari padat menjadi gas melalui fase cair disebut...",
+        "options": {
+          "A": "Sublimasi",
+          "B": "Evaporasi",
+          "C": "Penguapan",
+          "D": "Fusi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 33,
+        "question": "Contoh perubahan kimia yang terjadi dalam kehidupan sehari-hari adalah...",
+        "options": {
+          "A": "Membeku air",
+          "B": "Menguap air",
+          "C": "Memfermentasi tape",
+          "D": "Mencair es"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 34,
+        "question": "Zat yang dapat dibagi menjadi partikel-partikel lebih kecil tanpa mengubah sifat dasarnya disebut...",
+        "options": {
+          "A": "Zat murni",
+          "B": "Zat campuran",
+          "C": "Unsur",
+          "D": "Senyawa"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 35,
+        "question": "Perubahan bentuk zat dari gas menjadi padat tanpa melalui cair disebut...",
+        "options": {
+          "A": "Sublimasi",
+          "B": "Deposisi",
+          "C": "Kondensasi",
+          "D": "Kristalisasi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 36,
+        "question": "Campuran yang komponennya seragam dan tidak dapat dibedakan mata telanjang disebut...",
+        "options": {
+          "A": "Suspensi",
+          "B": "Koloid",
+          "C": "Larutan",
+          "D": "Emulsi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 37,
+        "question": "Perubahan bentuk zat yang disertai pelepasan atau penyerapan panas disebut...",
+        "options": {
+          "A": "Reaksi endoterm",
+          "B": "Reaksi eksoterm",
+          "C": "Reaksi kimia",
+          "D": "Reaksi fisika"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 38,
+        "question": "Zat yang terdiri dari dua atau lebih unsur yang terikat secara kimia dengan perbandingan tetap disebut...",
+        "options": {
+          "A": "Campuran",
+          "B": "Unsur",
+          "C": "Senyawa",
+          "D": "Molekul"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 39,
+        "question": "Contoh perubahan fisika yang terjadi pada benda di sekitar kita adalah...",
+        "options": {
+          "A": "Membesi besi",
+          "B": "Memakan makanan",
+          "C": "Menyuling minyak",
+          "D": "Menyanyi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 40,
+        "question": "Perubahan zat dari cair menjadi padat disebut...",
+        "options": {
+          "A": "Penguapan",
+          "B": "Kondensasi",
+          "C": "Pembekuan",
+          "D": "Sublimasi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 41,
+        "question": "Zat yang dapat diubah menjadi zat baru melalui reaksi kimia disebut...",
+        "options": {
+          "A": "Reaktan",
+          "B": "Produk",
+          "C": "Katalis",
+          "D": "Pelarut"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 42,
+        "question": "Campuran yang komponennya tidak seragam dan dapat diamati dengan mata telanjang disebut...",
+        "options": {
+          "A": "Larutan",
+          "B": "Suspensi",
+          "C": "Koloid",
+          "D": "Emulsi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 43,
+        "question": "Perubahan bentuk zat dari padat menjadi gas tanpa melalui cair disebut...",
+        "options": {
+          "A": "Sublimasi",
+          "B": "Evaporasi",
+          "C": "Penguapan",
+          "D": "Fusi"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 44,
+        "question": "Zat yang tidak dapat dipecah menjadi zat lebih sederhana melalui reaksi kimia disebut...",
+        "options": {
+          "A": "Unsur",
+          "B": "Senyawa",
+          "C": "Molekul",
+          "D": "Campuran"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 45,
+        "question": "Perubahan zat yang disertai perubahan warna, terbentuknya gas, atau endapan merupakan ciri-ciri...",
+        "options": {
+          "A": "Perubahan fisika",
+          "B": "Perubahan kimia",
+          "C": "Sublimasi",
+          "D": "Kristalisasi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 46,
+        "question": "Campuran yang partikel-partikelnya terdispersi dalam medium cair dan tidak mengendap disebut...",
+        "options": {
+          "A": "Suspensi",
+          "B": "Koloid",
+          "C": "Larutan",
+          "D": "Emulsi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 47,
+        "question": "Perubahan bentuk zat dari cair menjadi gas disebut...",
+        "options": {
+          "A": "Pembekuan",
+          "B": "Kondensasi",
+          "C": "Penguapan",
+          "D": "Sublimasi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 48,
+        "question": "Zat yang terdiri dari lebih dari satu unsur yang tidak terikat secara kimia disebut...",
+        "options": {
+          "A": "Unsur",
+          "B": "Senyawa",
+          "C": "Molekul",
+          "D": "Campuran"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 49,
+        "question": "Proses perubahan zat dari gas menjadi cair disebut...",
+        "options": {
+          "A": "Sublimasi",
+          "B": "Evaporasi",
+          "C": "Kondensasi",
+          "D": "Kristalisasi"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 50,
+        "question": "Perubahan yang terjadi pada air menjadi es termasuk perubahan...",
+        "options": {
+          "A": "Kimia karena terjadi perubahan sifat",
+          "B": "Fisika karena hanya perubahan bentuk",
+          "C": "Kimia karena terbentuk zat baru",
+          "D": "Fisika karena terjadi perubahan warna"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "MGFG6U",
     "link": "MGFG6U",
     "paceMode": "student_pace",
     "createdAt": "2026-09-13T10:29:41.849Z"
+  },
+  {
+    "id": "cmtzqqzvr0007m30ajb21nrat",
+    "title": "Bilangan Bulat",
+    "subject": "Matematika",
+    "classLevel": "7",
+    "difficulty": "mudah,sedang",
+    "minScore": 60,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 10,
+        "point": 10,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "Operasi hitung bilangan bulat positif dan negatif (perkalian, pembagian, penjumlahan, pengurangan) tunggal dan campuran.\nberikan beberapa soal cerita tentang bilanagan bulat.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "XY9ADH",
+    "link": "XY9ADH",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-13T11:39:03.591Z"
   }
 ]
