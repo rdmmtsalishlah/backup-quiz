@@ -1,15 +1,15 @@
 {
-  "quizLevel": 20,
-  "lastSyncAt": "2026-09-10T13:43:22.674Z",
+  "quizLevel": 21,
+  "lastSyncAt": "2026-09-13T10:29:54.348Z",
   "lastPullAt": "2026-09-13T09:52:52.354Z",
-  "totalQuizzes": 20,
+  "totalQuizzes": 21,
   "totalSessions": 18,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 19,
-      "count": 20,
+      "to": 20,
+      "count": 21,
       "sha": null
     }
   ],
@@ -65,6 +65,11 @@
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-09-13T10:29:54.348Z",
+      "details": "Sync 21 quiz, 18 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-09-10T13:43:22.674Z",
