@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cmtzryipu000gm30aopvbensx",
+    "quizId": "cmtzrj96h000cm30al7ug9sle",
+    "studentName": "Aisha Rida Afy",
+    "studentClass": "7D",
+    "answers": {
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": false,
+      "6": "B",
+      "7": "D",
+      "8": "B",
+      "9": "C",
+      "10": "C",
+      "11": "D",
+      "12": "B",
+      "13": "C",
+      "14": "D",
+      "15": "B",
+      "16": "C",
+      "17": "C",
+      "18": "A",
+      "19": "B",
+      "20": "B",
+      "21": "D",
+      "22": "B",
+      "23": "C",
+      "24": "D",
+      "25": "B"
+    },
+    "score": 8,
+    "totalCorrect": 2,
+    "totalQuestions": 5,
+    "startedAt": "2026-09-13T12:12:54.211Z",
+    "completedAt": "2026-09-13T12:26:34.343Z",
+    "isActive": false
+  }
+]
