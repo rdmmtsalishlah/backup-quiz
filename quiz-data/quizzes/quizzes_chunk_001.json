@@ -4086,11 +4086,177 @@
     "language": "id",
     "questionCount": 10,
     "promptText": "Operasi hitung bilangan bulat positif dan negatif (perkalian, pembagian, penjumlahan, pengurangan) tunggal dan campuran.\nberikan beberapa soal cerita tentang bilanagan bulat.",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "Sebuah toko elektronik mengalami kerugian sebesar Rp2.000.000 dalam sebulan. Jika kerugian ini terjadi selama 4 bulan berturut-turut, berapa total kerugian yang dialami toko tersebut?",
+        "options": {
+          "A": "Rp8.000.000",
+          "B": "Rp6.000.000",
+          "C": "Rp4.000.000",
+          "D": "Rp2.000.000"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Suhu udara di kota A adalah -5°C di pagi hari. Siang hari, suhu naik 8°C. Berapa suhu udara di siang hari?",
+        "options": {
+          "A": "3°C",
+          "B": "13°C",
+          "C": "-13°C",
+          "D": "-3°C"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Sebuah pesawat terbang berada pada ketinggian 3.000 meter di atas permukaan laut. Kemudian pesawat tersebut turun sejauh 1.500 meter. Setelah itu, pesawat naik lagi sejauh 2.000 meter. Di ketinggian berapa pesawat tersebut sekarang?",
+        "options": {
+          "A": "1.500 meter",
+          "B": "2.500 meter",
+          "C": "3.500 meter",
+          "D": "4.500 meter"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Seorang petani memiliki 12 pohon apel. Setiap pohon menghasilkan 15 buah apel. Jika petani tersebut menjual 3 buah apel per pohon dengan harga Rp5.000 per buah, berapa total uang yang diperoleh petani tersebut?",
+        "options": {
+          "A": "Rp180.000",
+          "B": "Rp200.000",
+          "C": "Rp270.000",
+          "D": "Rp300.000"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Sebuah permainan video memberikan poin untuk setiapt kemenangan dan mengurangi poin untuk setiap kekalahan. Seorang pemain memenangkan 3 pertandingan dan kalah 2 pertandingan. Jika setiap kemenangan memberikan 10 poin dan setiap kekalahan mengurangi 5 poin, berapa total poin yang dimiliki pemain tersebut?",
+        "options": {
+          "A": "10 poin",
+          "B": "20 poin",
+          "C": "30 poin",
+          "D": "40 poin"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Hitunglah hasil dari -45 + 72 ÷ (-9) - 40",
+        "options": {
+          "A": "-49",
+          "B": "-29",
+          "C": "1",
+          "D": "49"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Hitunglah hasil dari 8 × (-12) + 60 ÷ (-6) - 15",
+        "options": {
+          "A": "-111",
+          "B": "-91",
+          "C": "-71",
+          "D": "-51"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Hitunglah hasil dari (-36 + 24) ÷ (-3) + 5 × (-2)",
+        "options": {
+          "A": "-12",
+          "B": "-6",
+          "C": "6",
+          "D": "12"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Hitunglah hasil dari 100 ÷ (-5) + (-15) × 3 - 20",
+        "options": {
+          "A": "-95",
+          "B": "-75",
+          "C": "-55",
+          "D": "-35"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Hitunglah hasil dari (-48 + 32) × (-2) ÷ 4 + 10",
+        "options": {
+          "A": "-12",
+          "B": "-2",
+          "C": "8",
+          "D": "18"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "XY9ADH",
     "link": "XY9ADH",
     "paceMode": "student_pace",
     "createdAt": "2026-09-13T11:39:03.591Z"
+  },
+  {
+    "id": "cmtzrj96h000cm30al7ug9sle",
+    "title": "About Me",
+    "subject": "English",
+    "classLevel": "6",
+    "difficulty": "mudah,sedang",
+    "minScore": 60,
+    "questionType": "benar_salah",
+    "questionTypes": [
+      {
+        "type": "benar_salah",
+        "count": 5,
+        "point": 4
+      }
+    ],
+    "language": "en",
+    "questionCount": 5,
+    "promptText": "the questions are about the following topics:\n1. Introduce Yourself and others\n2. hobbies\n3. describe people's physical and persoanlity traits\n4. describe daily activities\n\nuse simple daily vocabularies for kids",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "W87QN9",
+    "link": "W87QN9",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-13T12:01:02.009Z"
   }
 ]
