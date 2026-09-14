@@ -4605,5 +4605,31 @@
     "link": "AFSJ7W",
     "paceMode": "student_pace",
     "createdAt": "2026-09-13T16:24:25.629Z"
+  },
+  {
+    "id": "cmu142x430000l30aci8wc2ac",
+    "title": "Kehidupan Sosial dan Kondisi Lingkungan Sekitar",
+    "subject": "IPS",
+    "classLevel": "7",
+    "difficulty": "mudah,sedang",
+    "minScore": 70,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 50,
+        "point": 2,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 50,
+    "promptText": "Definisi dan contoh dari \n1. Lokasi, garis lintang, garis bujur, lokasi absolut, lokasi relatif\n2. Manfaat peta digital\n3. Konektivitas antarruang (interaksi)\n4. Faktor utama memengaruhi terjadinya interaksi wilayah\n5. Perbandingan karakteristik wilayah perkotaan dan pedesaan\n6. Pengertian dan contoh dari cuaca dan iklim\n7. Pengaruh unsur iklim terhadap tanaman\n8. Pengaruh cuaca dan iklim teehadap kehidupan manusia dalam bidang : pertanian, perhubungan, industri, dan kesehatan.\n9. Dampak perubahan iklim dalam bidang ekonomi, sosial dan budaya.\n10. Potensi bencana alam di indonesia (kondisi geologis indonesia: dampak positif dan negatif): gempa bumi, tsunami, gunung meletus.\n11. Kegiatan ekonomi: definisi, contoh, jenis, tujuan, faktor dari produksi, konsumsi, distribusi\n12. Interaksi Sosial: definisi, syarat, bentuk\n13. Interaksi sosial disosiatif : definisi, macam macam, dan contoh\n14. Unsur-unsur, sumber dari sejarah (definisi dan ciri-ciri, serta contoh cerita rakyat)",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "S6NUZZ",
+    "link": "S6NUZZ",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-14T10:40:01.060Z"
   }
 ]
