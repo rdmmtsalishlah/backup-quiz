@@ -4631,5 +4631,31 @@
     "link": "S6NUZZ",
     "paceMode": "student_pace",
     "createdAt": "2026-09-14T10:40:01.060Z"
+  },
+  {
+    "id": "cmu1u7thk0001rs0ajehwuzek",
+    "title": "Preent Simple",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "sedang",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "en",
+    "questionCount": 20,
+    "promptText": "Complete the sentences with the correct form of the verb of present simple.\nthe question should be mixed for affirmative, negative, and interrogative with the details as follows : affirmative = 7 questions, negative = 7 questions and interrogative = 6 questions (shuffle the question order of the three types).",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "CY6DB8",
+    "link": "CY6DB8",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-14T22:51:39.656Z"
   }
 ]
