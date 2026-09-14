@@ -4651,11 +4651,296 @@
     "language": "en",
     "questionCount": 20,
     "promptText": "Complete the sentences with the correct form of the verb of present simple.\nthe question should be mixed for affirmative, negative, and interrogative with the details as follows : affirmative = 7 questions, negative = 7 questions and interrogative = 6 questions (shuffle the question order of the three types).",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "question": "She _____ to school every day.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "go",
+          "B": "goes",
+          "C": "going",
+          "D": "went"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 2,
+        "question": "_____ they play tennis on weekends?",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "Do",
+          "B": "Does",
+          "C": "Are",
+          "D": "Is"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 3,
+        "question": "He _____ not like broccoli.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "are",
+          "B": "is",
+          "C": "does",
+          "D": "do"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 4,
+        "question": "We _____ our homework in the evening.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "do",
+          "B": "does",
+          "C": "doing",
+          "D": "does"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 5,
+        "question": "_____ your father work at the hospital?",
+        "options": {
+          "A": "Does",
+          "B": "Do",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "They _____ not understand the lesson.",
+        "options": {
+          "A": "does",
+          "B": "do",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "The sun _____ in the east.",
+        "options": {
+          "A": "rises",
+          "B": "rise",
+          "C": "rising",
+          "D": "rose"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "_____ you often visit your grandparents?",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "Do",
+          "B": "Is",
+          "C": "Does",
+          "D": "Are"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 9,
+        "question": "She _____ not speak Spanish fluently.",
+        "options": {
+          "A": "does",
+          "B": "do",
+          "C": "is",
+          "D": "are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "My brother _____ a new car.",
+        "options": {
+          "A": "has",
+          "B": "have",
+          "C": "having",
+          "D": "haves"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "_____ the cat like water?",
+        "options": {
+          "A": "Does",
+          "B": "Do",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "We _____ not watch TV on weekdays.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "do",
+          "B": "is",
+          "C": "does",
+          "D": "are"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 13,
+        "question": "They _____ to music every night.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "listen",
+          "B": "listened",
+          "C": "listens",
+          "D": "listening"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 14,
+        "question": "_____ your mother cook dinner?",
+        "options": {
+          "A": "Does",
+          "B": "Do",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "He _____ not play video games too much.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "is",
+          "B": "do",
+          "C": "does",
+          "D": "are"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 16,
+        "question": "The birds _____ in the tree.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "sing",
+          "B": "sings",
+          "C": "sang",
+          "D": "singing"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 17,
+        "question": "_____ you believe in ghosts?",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "Do",
+          "B": "Is",
+          "C": "Does",
+          "D": "Are"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 18,
+        "question": "She _____ not like coffee.",
+        "_type": "pilihan_ganda",
+        "options": {
+          "A": "are",
+          "B": "is",
+          "C": "do",
+          "D": "does"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 19,
+        "question": "My friends _____ football on Saturdays.",
+        "options": {
+          "A": "plays",
+          "B": "play",
+          "C": "playing",
+          "D": "played"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "_____ he work late today?",
+        "options": {
+          "A": "Does",
+          "B": "Do",
+          "C": "Is",
+          "D": "Are"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "sedang",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "CY6DB8",
     "link": "CY6DB8",
     "paceMode": "student_pace",
     "createdAt": "2026-09-14T22:51:39.656Z"
+  },
+  {
+    "id": "cmu1vj11d0002rs0aw23fx21o",
+    "title": "Present Continuous",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "sedang",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "en",
+    "questionCount": 20,
+    "promptText": "Complete the sentences with the correct form of the verb of present continuous.\nthe question should be mixed for affirmative, negative, and interrogative with the details as follows : affirmative = 7 questions, negative = 7 questions and interrogative = 6 questions (shuffle the question order of the three types).\nadd the time signal for each question.\ndistribute the answer key equally and randomly\na = 5 questions\nb = 5 questions\nc = 5 questions\nd = 5 questions",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "49SNPG",
+    "link": "49SNPG",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-14T23:28:22.273Z"
   }
 ]
