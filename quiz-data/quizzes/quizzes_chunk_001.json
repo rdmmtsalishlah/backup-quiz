@@ -4942,5 +4942,31 @@
     "link": "49SNPG",
     "paceMode": "student_pace",
     "createdAt": "2026-09-14T23:28:22.273Z"
+  },
+  {
+    "id": "cmu41uj910000s90a96q58iw4",
+    "title": "Teks Prosedur",
+    "subject": "Bahasa Indonesia",
+    "classLevel": "9",
+    "difficulty": "HOTS",
+    "minScore": 70,
+    "questionType": "pilihan_ganda_kompleks",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda_kompleks",
+        "count": 25,
+        "point": 4,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Disajikan teks prosedur untuk kelas 9 dengan panjang sedang/tidak terlalu panjang diikuti oleh 5 soal.\nTeks 1 untuk soal 1-5\nTeks 2 untuk 6-10\nTeks 3 untik 11-15\nTeks 4 untuk 16-20\nTeks 5 untuk 21-25",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "N6YFKX",
+    "link": "N6YFKX",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-16T12:00:49.141Z"
   }
 ]
