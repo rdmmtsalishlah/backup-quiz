@@ -4968,5 +4968,31 @@
     "link": "N6YFKX",
     "paceMode": "student_pace",
     "createdAt": "2026-09-16T12:00:49.141Z"
+  },
+  {
+    "id": "cmub6ruhg0000jb0arxpbrey5",
+    "title": "Perkembangan Ekonomi Digital",
+    "subject": "IPS",
+    "classLevel": "9",
+    "difficulty": "sulit,sedang",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 50,
+        "point": 2,
+        "optionCount": 4
+      }
+    ],
+    "language": "id",
+    "questionCount": 50,
+    "promptText": "Buatkan soal pilihan ganda tentang materi berikut:\n1. Peran uang dan lembaga keuangan \n2. Ciri-ciri interaksi masyarakat di dunia nyata dan digital \n3. Penerapan prinsip \"Respect\", \"Educate\", dan \"Protect\" dalam menggunakan media internet\n4. Bentuk-bentuk kegiatan ekonomi berbasis perkembangan teknologi digital\n5. Kemampuan dasar literasi finansial\n6. Upaya penguatan literasi finansial di kalangan remaja.",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "5YZRG7",
+    "link": "5YZRG7",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-21T11:53:05.045Z"
   }
 ]
