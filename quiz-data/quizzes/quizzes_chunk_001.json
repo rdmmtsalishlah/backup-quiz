@@ -4994,5 +4994,35 @@
     "link": "5YZRG7",
     "paceMode": "student_pace",
     "createdAt": "2026-09-21T11:53:05.045Z"
+  },
+  {
+    "id": "cmul8936i0000og0amc1aw6o3",
+    "title": "Passive Voice (Present Simple)",
+    "subject": "English",
+    "classLevel": "9",
+    "difficulty": "sedang",
+    "minScore": 60,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "uraian_panjang",
+        "count": 5,
+        "point": 10
+      },
+      {
+        "type": "benar_salah",
+        "count": 5,
+        "point": 10
+      }
+    ],
+    "language": "id",
+    "questionCount": 10,
+    "promptText": "A. Change the sentence into Passive voice using present simple\nB. State wether the sentence is using correct active and passive voice of present simple",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "PTXNGH",
+    "link": "PTXNGH",
+    "paceMode": "student_pace",
+    "createdAt": "2026-09-28T12:32:10.843Z"
   }
 ]
