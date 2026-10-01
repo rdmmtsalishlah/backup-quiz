@@ -3092,18 +3092,18 @@
     "questions": [
       {
         "no": 1,
-        "question": "Hasil dari -12 + 8 - (-5) + 3 - 7 adalah",
+        "question": "Hasil dari 12 + (-8) - 5 adalah",
         "options": {
-          "A": "-13",
-          "B": "-3",
-          "C": "3",
-          "D": "13",
-          "E": "0"
+          "A": "-1",
+          "B": "-25",
+          "C": "9",
+          "D": "15",
+          "E": "25"
         },
-        "answer": "B",
+        "answer": "A",
         "_type": "pilihan_ganda",
-        "_difficulty": "sedang",
-        "_sectionIndex": 0
+        "_sectionIndex": 0,
+        "_difficulty": "mudah"
       }
     ],
     "tableConfig": null,
@@ -3333,7 +3333,98 @@
     "language": "id",
     "questionCount": 10,
     "promptText": "Pemahaman bacaan teks narasi dan deskripsi. Siswa harus membaca teks panjang terlebih dahulu sebelum menjawab pertanyaan uraian.",
-    "questions": [],
+    "questions": [
+      {
+        "no": 1,
+        "teksPanjang": "Pagi itu, langit biru cerah tanpa awan. Surya baru saja terbit di ufuk timur, menerangi seluruh desa dengan cahaya hangatnya. Beberapa burung terbang melintasi langit sambil berkicau riang. Di kebun Pak Hasan, tanaman-tanaman hijau bergetar lembut ditiup angin pagi. Suara gemerisik daun dan teriakan ayam jantan terdengar jelas di udara segar.",
+        "question": "Berdasarkan teks di atas, deskripsikan suasana pagi yang tergambar dalam cerita tersebut.",
+        "answer": "Suasana pagi yang tergambar dalam cerita adalah suasana yang cerah, segar, dan hidup. Suasana ini ditunjukkan melalui beberapa ciri: 1) Langit biru cerah tanpa awan, 2) Surya yang baru terbit di ufuk timur menerangi desa, 3) Cahaya matahari yang hangat, 4) Adanya burung yang terbang sambil berkicau riang, 5) Tanaman-tanaman hijau yang bergetar lembut ditiup angin, dan 6) Suara gemerisik daun serta teriakan ayam yang terdengar di udara. Semua ciri ini menciptakan gambaran pagi yang indah dan penuh kehidupan.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "teksPanjang": "Rudi berjalan menuju sekolah dengan tas ransel di pundaknya. Dia melewati jalan yang rindang dengan pohon-pohon besar yang meneduhinya. Di sepanjang jalan, beberapa teman sekelasnya sudah berdatangan dengan berbagai ekspresi wajah. Beberapa tampak ceria, ada yang terlihat lelah, dan ada pula yang sedang asyik berbincang-bincang. Rudi tersenyum melihat mereka dan mempercepat langkahnya untuk bergabung.",
+        "question": "Siapa tokoh utama dalam teks di atas dan apa yang sedang dilakukannya?",
+        "answer": "Tokoh utama dalam teks di atas adalah Rudi. Rudi sedang melakukan kegiatan perjalanan menuju sekolah. Hal ini dapat dilihat dari kalimat 'Rudi berjalan menuju sekolah dengan tas ransel di pundaknya'. Selain itu, teks juga menyebutkan bahwa Rudi melewati jalan yang rindang, melihat teman-teman sekelasnya yang sudah berdatangan, dan akhirnya mempercepat langkahnya untuk bergabung dengan mereka. Semua kegiatan ini menunjukkan bahwa Rudi sedang dalam perjalanan menuju sekolah.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "teksPanjang": "Rumah Pak Suroto terletak di pinggiran desa. Rumahnya yang lama memiliki atap sirap yang sudah agak keropos. Dindingnya terbuat dari kayu yang warnanya sudah memudar. Di depan rumah terdapat kecil yang tertutupi rumput liar. Di samping rumah, tumbuh pohon mangga yang rindang dan buahnya mulai masak. Suara nyanyian burung hantu sering terdengar di malam hari dari pohon itu.",
+        "question": "Deskripsikanlah penampakan rumah Pak Suroto berdasarkan teks di atas.",
+        "answer": "Rumah Pak Suroto memiliki beberapa ciri khas yang terdeskripsikan dalam teks. Pertama, rumahnya terletak di pinggiran desa. Kedua, rumahnya yang lama memiliki atap sirap yang sudah agak keropos. Ketiga, dindingnya terbuat dari kayu yang warnanya sudah memudar. Keempat, di depan rumah terdapat kecil yang tertutupi rumput liar. Kelima, di samping rumah tumbuh pohon mangga yang rindang dan buahnya mulai masak. Keenam, di malam hari sering terdengar suara nyanyian burung hantu dari pohon itu. Semua ciri ini membuat rumah Pak Suroto terlihat tua dan agak terabaikan namun masih memiliki pohon mangga yang menjadi ciri khasnya.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "teksPanjang": "Hari Minggu lalu, keluarga saya pergi ke pantai. Kita berangkat pagi-pagi sekali menggunakan mobil pribadi. Di perjalanan, langit cerah dan matahari belum terlalu panas. Setiba di pantai, langsung kita lihat ombak yang datang dengan tenang. Pasir putih bersih menutupi sepanjang pantai. Air laut yang biru jernih memantulkan cahaya matahari. Anak-anak bermain air sementara orang dewasa duduk di payung untuk beristirahat.",
+        "question": "Apa saja kegiatan yang dilakukan oleh keluarga penulis saat di pantai? Jelaskan secara rinci.",
+        "answer": "Berdasarkan teks, keluarga penulis melakukan beberapa kegiatan saat di pantai. Pertama, mereka berangkat pagi-pagi sekali menggunakan mobil pribadi. Kedua, selama perjalanan mereka menikmati pemandangan langit yang cerah dan matahari yang belum terlalu panas. Ketiga, setiba di pantai, mereka langsung melihat ombak yang datang dengan tenang. Keempat, mereka menikmati pemandangan pasir putih bersih dan air laut yang biru jernih yang memantulkan cahaya matahari. Kelima, anak-anak bermain air sementara orang dewasa duduk di payung untuk beristirahat. Semua kegiatan ini menunjukkan bahwa mereka menikmati waktu berkualitas bersama keluarga di pantai.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "teksPanjang": "Sekolahku memiliki gedung utama yang luas. Di depan gedung terdapat taman yang indah dengan berbagai macam bunga. Di sebelah kanan gedung terdapat perpustakaan yang selalu ramai dikunjungi siswa. Di samping kiri terdapat lapangan olahraga yang luas. Lapangan itu digunakan untuk berbagai kegiatan seperti upacara bendera, olahraga, dan pertandingan antar kelas. Di belakang sekolah terdapat kebun sekolah yang ditanami sayur-sayuran dan tanaman hias.",
+        "question": "Sebutkan dan jelaskanlah letak serta fungsi dari beberapa bangunan yang ada di sekitar sekolah penulis berdasarkan teks di atas.",
+        "answer": "Berdasarkan teks, terdapat beberapa bangunan di sekitar sekolah penulis dengan letak dan fungsi masing-masing. Pertama, taman yang terletak di depan gedung utama dengan fungsi sebagai tempat yang indah dengan berbagai macam bunga. Kedua, perpustakaan yang terletak di sebelah kanan gedung dengan fungsi sebagai tempat yang selalu ramai dikunjungi siswa untuk membaca atau meminjam buku. Ketiga, lapangan olahraga yang terletak di sisi kiri gedung dengan fungsi untuk berbagai kegiatan seperti upacara bendera, olahraga, dan pertandingan antar kelas. Keempat, kebun sekolah yang terletak di belakang gedung dengan fungsi ditanami sayur-sayuran dan tanaman hias. Semua bangunan ini memiliki peran penting dalam kehidupan sekolah dan memberikan manfaat bagi siswa dan guru.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "teksPanjang": "Pagi itu, langit biru cerah tanpa awan. Burung-burung berkicau riang di pohon-pohon yang rindang. Di kebun Pak Rahman, sayur-sayuran segar tumbuh subur. Wortel berwarna oranye, bayam hijau segar, dan tomat merah menggugah selera. Pak Rahman tersenyum puas melihat hasil kerja kerasnya selama ini.",
+        "question": "Jelaskan jenis teks yang terdapat pada bacaan di atas dan berikan 3 ciri-ciri teks tersebut!",
+        "answer": "Jenis teks yang terdapat pada bacaan di atas adalah teks deskripsi. Ciri-ciri teks deskripsi yang terdapat dalam bacaan tersebut adalah:\n1. Menggunakan kata sifat untuk menjelaskan ciri-ciri objek, seperti 'biru cerah', 'rindang', 'segar', 'subur', 'oranye', 'hijau segar', 'merah', 'riang', dan 'puas'.\n2. Menggambarkan objek dengan detail, seperti burung-burung, pohon-pohon, sayur-sayuran, dan wajah Pak Rahman.\n3. Menggunakan kalimat deskriptif yang menggambarkan suasana, seperti 'Pagi itu, langit biru cerah tanpa awan' dan 'Burung-burung berkicau riang di pohon-pohon yang rindang'.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "teksPanjang": "Hari Minggu lalu, Ana pergi ke perpustakaan sekolah. Dia membawa buku novel yang sudah lama ingin dibacanya. Di perpustakaan, Ana duduk di kursi jendela yang nyaman. Dia membuka novel itu dan mulai membacanya dengan santai. Suasana perpustakaan yang tenang membuat Ana bisa fokus membaca. Setelah selesai membaca, Ana mengembalikan buku ke meja pustakawan dan pulang ke rumah dengan hati yang senang.",
+        "question": "Tentukan jenis teks yang terdapat pada bacaan di atas dan sebutkan 3 kejadian utama yang terjadi dalam cerita tersebut!",
+        "answer": "Jenis teks yang terdapat pada bacaan di atas adalah teks narasi. Kejadian utama dalam cerita tersebut adalah:\n1. Ana pergi ke perpustakaan sekolah pada hari Minggu lalu membawa buku novel yang sudah lama ingin dibacanya.\n2. Ana duduk di kursi jendela yang nyaman di perpustakaan dan mulai membaca novel itu dengan santai.\n3. Setelah selesai membaca, Ana mengembalikan buku ke meja pustakawan dan pulang ke rumah dengan hati yang senang.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "teksPanjang": "Gunung Bromo di Jawa Timur adalah salah satu gunung berapi yang masih aktif. Gunung ini memiliki kawah berwarna putih keabu-abuan yang indah. Di sekelilingnya terdapat lautan pasir yang luas. Wisatawan sering datang untuk melihat matahari terbit dari puncak Bromo. Banyak orang mengatakan bahwa pemandangan matahari terbit di Bromo adalah yang terindah di dunia.",
+        "question": "Sebutkan 3 ciri-ciri teks deskripsi yang terdapat dalam bacaan di atas dan berikan contohnya!",
+        "answer": "Ciri-ciri teks deskripsi yang terdapat dalam bacaan di beserta contohnya adalah:\n1. Menggunakan kata sifat untuk menjelaskan objek, contohnya: 'gunung berapi yang masih aktif', 'kawah berwarna putih keabu-abuan yang indah', 'lautan pasir yang luas', dan 'pemandangan matahari terbit yang terindah'.\n2. Menggambarkan objek dengan detail, contohnya: 'Gunung Bromo di Jawa Timur', 'di sekelilingnya terdapat lautan pasir yang luas', dan 'wisatawan sering datang untuk melihat matahari terbit dari puncak Bromo'.\n3. Menggunakan kalimat yang menggambarkan kualitas atau keindahan objek, contohnya: 'Gunung ini memiliki kawah berwarna putih keabu-abuan yang indah' dan 'Banyak orang mengatakan bahwa pemandangan matahari terbit di Bromo adalah yang terindah di dunia'.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "teksPanjang": "Pak Joko seorang petani yang telaten. Setiap pagi, ia selalu berangkat ke sawah sebelum matahari terbit. Ia menanam padi dengan hati-hati. Setelah panen, padi yang ditanamnya menghasilkan biji-biji padi yang bulat dan berisi. Ia menjual hasil panennya di pasar desa. Dengan hasil tersebut, ia dapat memenuhi kebutuhan keluarganya. Anak-anaknya selalu bangga memiliki ayah yang pekerja keras.",
+        "question": "Jelaskan struktur teks narasi yang terdapat dalam bacaan di atas dan sebutkan unsur-unsur yang terdapat di dalamnya!",
+        "answer": "Struktur teks narasi yang terdapat dalam bacaan di atas adalah struktur narasi sederhana dengan unsur-unsur sebagai berikut:\n1. Tokoh: Pak Joko sebagai petani yang telaten, dan anak-anaknya.\n2. Latar: Sawah, pasar desa, dan rumah tangga Pak Joko.\n3. Peristiwa: Pak Joko menanam padi, menuai padi, dan menjual hasil panennya.\n4. Waktu: Setiap pagi sebelum matahari terbit.\n5. Alur: Urutan kejadian dari menanam padi, menuai, menjual, hingga memenuhi kebutuhan keluarga.\n6. Tema: Kerja keras dan ketekunan dalam menghidupi keluarga.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "teksPanjang": "Pantai Kuta di Bali terkenal dengan pasir putihnya yang lembut dan air laut yang jernih. Pohon-pohon kelapa rindang menaiki bibir pantai. Wisatawan dapat menikmati matahari terbit dan terbenam di pantai ini. Banyak orang berkata bahwa pemandangan di Pantai Kuta sangat memukau. Beberapa wisatawan bahkan berkata bahwa Pantai Kuta adalah pantai terindah yang pernah mereka lihat.",
+        "question": "Bandingkan teks deskripsi dan teks narasi dengan memberikan contoh dari bacaan di atas!",
+        "answer": "Teks deskripsi dan teks narasi memiliki perbedaan sebagai berikut:\n\nTeks deskripsi:\n- Fokus pada penggambaran objek, tempat, atau suasana dengan detail.\n- Menggunakan kata sifat dan kata kerja deskriptif.\n- Contoh dari bacaan: 'Pantai Kuta di Bali terkenal dengan pasir putihnya yang lembut dan air laut yang jernih', 'Pohon-pohon kelapa rindang menaiki bibir pantai', dan 'Banyak orang berkata bahwa pemandangan di Pantai Kuta sangat memukau'.\n\nTeks narasi:\n- Menceritakan peristiwa atau kejadian dengan alur kronologis.\n- Menggunakan kata kerja yang menunjukkan aksi atau peristiwa.\n- Contoh dari bacaan: Wisatawan dapat menikmati matahari terbit dan terbenam di pantai ini (ini adalah aktivitas yang dilakukan wisatawan).\n\nDalam bacaan ini, terdapat lebih banyak unsur teks deskripsi karena fokusnya adalah menggambarkan Pantai Kuta dengan detail, bukan menceritakan peristiwa berurutan.",
+        "_type": "uraian_panjang",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "2UDTB8",
     "link": "2UDTB8",
@@ -5024,5 +5115,36 @@
     "link": "FZANY5",
     "paceMode": "student_pace",
     "createdAt": "2026-09-28T12:42:02.784Z"
+  },
+  {
+    "id": "cmupgd23k0000lh0apjdtavjk",
+    "title": "Informatika Bab 1 - 5",
+    "subject": "Informatika",
+    "classLevel": "7",
+    "difficulty": "sedang,mudah",
+    "minScore": 65,
+    "questionType": "campuran",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 30,
+        "point": 2,
+        "optionCount": 4
+      },
+      {
+        "type": "benar_salah",
+        "count": 20,
+        "point": 2
+      }
+    ],
+    "language": "id",
+    "questionCount": 50,
+    "promptText": "A. informatika dan alasan belajar informatika\nB. Apa saja yang akan dipelajari pada pelajaran informatika\nC. Informatika dan Profil Pelajar Pancasila\nD. Berpikir Komputasional (algoritma, optimasi penjadwalan, struktur data, representasi data)\nE. Antarmuka Pengguna\nF. Folder dan File (Ekstensi file, pengelolaan folder, pengelolaan file dengam sistem operasi windows\nG. Peramban dan Serach Engine\nH. Surel (Email)\nI. Aplikasi Perkantoran\nJ. Perangkat Keras\nK. Perangkat Lunak\nL. Interaksi Antarperangkat (CCTV)\nM. Permasalahan dan spesifikasi perangkat keras\nN. Bilangan biner\nO. Jaringan Komputer dan Internet (www)\nP. Koneksi Internet (Wi-Fi dan Tethering)",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "BMQ33W",
+    "link": "BMQ33W",
+    "paceMode": "student_pace",
+    "createdAt": "2026-10-01T11:30:17.697Z"
   }
 ]
