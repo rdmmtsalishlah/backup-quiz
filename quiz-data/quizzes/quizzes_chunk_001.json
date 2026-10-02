@@ -5146,5 +5146,31 @@
     "link": "BMQ33W",
     "paceMode": "student_pace",
     "createdAt": "2026-10-01T11:30:17.697Z"
+  },
+  {
+    "id": "cmuqy9zoq0000oh0aqo299bmk",
+    "title": "LOGARITMA",
+    "subject": "Matematika",
+    "classLevel": "10",
+    "difficulty": "sedang,sulit",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 20,
+        "point": 5,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 20,
+    "promptText": "soal logaritma kelas 10 dengan standart penulisan indonesia",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "THNJ4H",
+    "link": "THNJ4H",
+    "paceMode": "student_pace",
+    "createdAt": "2026-10-02T12:39:33.867Z"
   }
 ]
