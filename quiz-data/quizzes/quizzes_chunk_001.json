@@ -5556,7 +5556,7 @@
     "subject": "IPA",
     "classLevel": "9",
     "difficulty": "mudah",
-    "minScore": 65,
+    "minScore": 60,
     "questionType": "pilihan_ganda",
     "questionTypes": [
       {
@@ -5568,8 +5568,331 @@
     ],
     "language": "id",
     "questionCount": 25,
-    "promptText": "Buatkan soal ipa kelas 9 dengan materi Sistem Reproduksi Manusia dan Homeostasis dengan kunci jawaban yang merata antara a,b,c dan d. dan pastikan kunci jawaban serta pilihan jawabannya relevan dan benar.",
-    "questions": [],
+    "promptText": "Buatkan 25 soal ipa kelas 9 dengan materi Sistem Reproduksi Manusia dan Homeostasis dengan kunci jawaban yang merata antara a,b,c dan d. dan pastikan kunci jawaban serta pilihan jawabannya relevan dan benar.",
+    "questions": [
+      {
+        "no": 1,
+        "question": "Organ reproduksi pria yang menghasilkan spermatozoid disebut?",
+        "options": {
+          "A": "Epididimis",
+          "B": "Testis",
+          "C": "Vesikula seminalis",
+          "D": "Prostat"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Fungsi utama rahim pada sistem reproduksi wanita adalah?",
+        "options": {
+          "A": "Menghasilkan sel telur",
+          "B": "Menyimpan sel telur",
+          "C": "Tempat pertumbuhan janin",
+          "D": "Menghasilkan hormon progesteron"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Hormon yang memicu terjadiah ovulasi pada wanita adalah?",
+        "options": {
+          "A": "Progesteron",
+          "B": "Estrogen",
+          "C": "FSH",
+          "D": "LH"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Bagian reproduksi wanita yang berfungsi sebagai tempum pertemuan sel telur dan spermatozoid adalah?",
+        "options": {
+          "A": "Vagina",
+          "B": "Tubal falopi",
+          "C": "Rahim",
+          "D": "Ovarium"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Sistem yang mengatur suhu tubuh manusia agar tetap stabil disebut sistem homeostasis?",
+        "options": {
+          "A": "Sistem saraf",
+          "B": "Sistem endokrin",
+          "C": "Sistem integumen",
+          "D": "Sistem pernapasan"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Hormon yang berperan dalam pengaturan gula darah pada manusia adalah?",
+        "options": {
+          "A": "Insulin",
+          "B": "Glukagon",
+          "C": "Adrenalin",
+          "D": "Kortisol"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Proses pelepasan sel telur dari ovarium disebut?",
+        "options": {
+          "A": "Menstruasi",
+          "B": "Ovulasi",
+          "C": "Fertilisasi",
+          "D": "Implantasi"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Organ reproduksi wanita yang menghasilkan hormon estrogen dan progesteron adalah?",
+        "options": {
+          "A": "Vagina",
+          "B": "Tubal falopi",
+          "C": "Rahim",
+          "D": "Ovarium"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Sistem tubuh yang berperan dalam pengaturan tekanan darah adalah?",
+        "options": {
+          "A": "Sistem ekskresi",
+          "B": "Sistem kardiovaskular",
+          "C": "Sistem pencernaan",
+          "D": "Sistem saraf"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Hormon yang dihasilkan oleh kelenjar hipotalamus dan merangsang kelenjar pituitari adalah?",
+        "options": {
+          "A": "TSH",
+          "B": "ADH",
+          "C": "GnRH",
+          "D": "Prolaktin"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Organ reproduksi pria yang berfungsi untuk menghasilkan sperma adalah?",
+        "options": {
+          "A": "Testis",
+          "B": "Epididimis",
+          "C": "Vesikula seminalis",
+          "D": "Prostat"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "Sistem reproduksi wanita yang berfungsi sebagai tempat pertumbuhan dan perkembangan janin adalah?",
+        "options": {
+          "A": "Ovarium",
+          "B": "Tuba fallopi",
+          "C": "Rahim",
+          "D": "Vagina"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Hormon yang berperan dalam menstimulasi ovulasi pada wanita adalah?",
+        "options": {
+          "A": "Progesteron",
+          "B": "Estrogen",
+          "C": "LH",
+          "D": "FSH"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "Sistem yang mengatur suhu tubuh manusia agar tetap stabil disebut?",
+        "options": {
+          "A": "Sistem pernapasan",
+          "B": "Sistem ekskresi",
+          "C": "Sistem saraf",
+          "D": "Sistem termoregulasi"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Sel telur yang telah dibuahi oleh sperma disebut?",
+        "options": {
+          "A": "Ovum",
+          "B": "Zigot",
+          "C": "Embrio",
+          "D": "Fetus"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "Organ berikut yang bukan bagian dari sistem reproduksi pria adalah?",
+        "options": {
+          "A": "Penis",
+          "B": "Skrotum",
+          "C": "Prostat",
+          "D": "Uretra"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Proses dimana tubuh mengatur kadar gula darah disebut?",
+        "options": {
+          "A": "Homeostasis glukosa",
+          "B": "Regulasi insulin",
+          "C": "Metabolisme karbohidrat",
+          "D": "Glikogenesis"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "Hormon yang dihasilkan oleh pankreas untuk menurunkan kadar gula darah adalah?",
+        "options": {
+          "A": "Glukagon",
+          "B": "Adrenalin",
+          "C": "Insulin",
+          "D": "Kortisol"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Organ reproduksi wanita yang berfungsi sebagai tempat terjadinya pembuahan adalah?",
+        "options": {
+          "A": "Rahim",
+          "B": "Indung telur",
+          "C": "Vagina",
+          "D": "Serviks"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Hormon yang memproduksi testosteron pada pria disekresi oleh?",
+        "options": {
+          "A": "Kelenjar tiroid",
+          "B": "Pankreas",
+          "C": "Kelenjar pituitari",
+          "D": "Testis"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "Sistem reproduksi manusia terlibat dalam homeostasis melalui pengaturan?",
+        "options": {
+          "A": "Tekanan darah",
+          "B": "Suhu tubuh",
+          "C": "Keseimbangan hormon seks",
+          "D": "Tinggi badan"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Fungsi utama vagina dalam sistem reproduksi wanita adalah?",
+        "options": {
+          "A": "Menciptakan sel telur",
+          "B": "Menyampaikan sperma ke rahim",
+          "C": "Melindungi janin dalam kandungan",
+          "D": "Mencerna makanan"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "Hormon yang memicu terjadinya ovulasi pada wanita adalah?",
+        "options": {
+          "A": "Progesteron",
+          "B": "Estrogen",
+          "C": "FSH",
+          "D": "LH"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "SENV4V",
     "link": "SENV4V",
