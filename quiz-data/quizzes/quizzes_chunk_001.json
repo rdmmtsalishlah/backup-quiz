@@ -5179,20 +5179,396 @@
     "subject": "IPA",
     "classLevel": "9",
     "difficulty": "mudah",
-    "minScore": 65,
+    "minScore": 60,
     "questionType": "pilihan_ganda",
     "questionTypes": [
       {
         "type": "pilihan_ganda",
         "count": 25,
         "point": 4,
-        "optionCount": 5
+        "optionCount": 4
       }
     ],
     "language": "id",
     "questionCount": 25,
-    "promptText": "Buatkan soal tentang materi saraf tepi IPA Kelas 9",
-    "questions": [],
+    "promptText": "Buatkan soal tentang materi saraf tepi IPA Kelas 9. Patikan kunci jawabannya bervariasi antara a,b,c, dan d dengan jumlah sama.",
+    "questions": [
+      {
+        "no": 1,
+        "question": "Sistem saraf tepi terbagi menjadi dua bagian utama, yaitu...",
+        "options": {
+          "A": "Sistem saraf pusat dan sistem saraf otonom",
+          "B": "Sistem saraf somatik dan sistem saraf otonom",
+          "C": "Sistem saraf otonom dan sistem saraf vegetatif",
+          "D": "Sistem saraf aferen dan sistem saraf eferen",
+          "E": "Sistem saraf sensorik dan sistem saraf motorik"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 2,
+        "question": "Sistem saraf somatik mengatur...",
+        "options": {
+          "A": "Aktivitas organ dalam tubuh secara sadar",
+          "B": "Aktivitas jantung dan pernapasan",
+          "C": "Gerakan otot-otot tubuh secara sadar",
+          "D": "Respon terhadap stres dan emosi",
+          "E": "Pencernaan dan metabolisme"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 3,
+        "question": "Bagian sistem saraf otonom yang bertanggung jawab untuk kondisi tubuh saat tenang disebut...",
+        "options": {
+          "A": "Sistem saraf simpatik",
+          "B": "Sistem saraf parasimpatik",
+          "C": "Sistem saraf somatik",
+          "D": "Sistem saraf sensorik",
+          "E": "Sistem saraf aferen"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 4,
+        "question": "Neuron yang menghantarkan impuls dari reseptor ke sistem saraf pusat disebut...",
+        "options": {
+          "A": "Neuron motor",
+          "B": "Neuron asosiasi",
+          "C": "Neuron sensor",
+          "D": "Neuron efector",
+          "E": "Neuron ganglion"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 5,
+        "question": "Sistem saraf simpatik berfungsi untuk...",
+        "options": {
+          "A": "Menghemat energi tubuh",
+          "B": "Mengatur aktivitas tidur",
+          "C": "Mempersiapkan tubuh untuk bertindak dalam situasi darurat",
+          "D": "Mengatur proses pencernaan",
+          "E": "Mengendalikan gerakan otot voluntary"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 6,
+        "question": "Contoh refleks yang diatur oleh sistem saraf tepi adalah...",
+        "options": {
+          "A": "Menggerakkan jari mengetik",
+          "B": "Memutuskan makanan",
+          "C": "Menepuk tangan saat melihat buru-buru",
+          "D": "Mengangkat kaki menyentuh benda panas",
+          "E": "Mengingat wajah teman"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 7,
+        "question": "Ganglion dalam sistem saraf tepi terletak pada...",
+        "options": {
+          "A": "Sumsum tulang belakang",
+          "B": "Otak",
+          "C": "Reseptor",
+          "D": "Di luar sistem saraf pusat",
+          "E": "Dalam organ dalam"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 8,
+        "question": "Sistem saraf otonom terdiri dari...",
+        "options": {
+          "A": "Sistem saraf simpatik dan sistem saraf somatik",
+          "B": "Sistem saraf parasimpatik dan sistem saraf somatik",
+          "C": "Sistem saraf simpatik dan sistem saraf parasimpatik",
+          "D": "Sistem saraf sensorik dan sistem saraf motorik",
+          "E": "Sistem saraf aferen dan sistem saraf eferen"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 9,
+        "question": "Neuron yang menghubungkan neuron sensor dengan neuron motor disebut...",
+        "options": {
+          "A": "Neuron ganglion",
+          "B": "Neuron motor",
+          "C": "Neuron asosiasi",
+          "D": "Neuron sensor",
+          "E": "Neuron efector"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 10,
+        "question": "Fungsi utama sistem saraf tepi adalah...",
+        "options": {
+          "A": "Mengatur pikiran dan kesadaran",
+          "B": "Menghubungkan otak dengan seluruh tubuh",
+          "C": "Menghantarkan impuls dari dan ke sistem saraf pusat",
+          "D": "Membuat hormon untuk mengatur tubuh",
+          "E": "Melindungi otak dari cedera"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 11,
+        "question": "Apa fungsi utama sistem saraf tepi?",
+        "options": {
+          "A": "Mengatur pernapasan",
+          "B": "Menghubungkan otak dengan bagian tubuh",
+          "C": "Mengendalikan gerakan sadar",
+          "D": "Mengatur detak jantung",
+          "E": "Mengendalikan keringat"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 12,
+        "question": "Bagian sistem saraf tepi yang terdiri dari saraf otak dan saraf tulang belakang adalah?",
+        "options": {
+          "A": "Sistem saraf pusat",
+          "B": "Sistem saraf otonom",
+          "C": "Sistem saraf somatik",
+          "D": "Sistem saraf aferen",
+          "E": "Sistem saraf eferen"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 13,
+        "question": "Saraf yang mengendalikan gerakan sadar disebut?",
+        "options": {
+          "A": "Saraf otonom",
+          "B": "Saraf somatik",
+          "C": "Saraf sensorik",
+          "D": "Saraf motorik",
+          "E": "Saraf vegetatif"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 14,
+        "question": "Sistem saraf yang mengatur fungsi organ dalam secara otomatis disebut?",
+        "options": {
+          "A": "Sistem saraf somatik",
+          "B": "Sistem saraf otonom",
+          "C": "Sistem saraf pusat",
+          "D": "Sistem saraf sensorik",
+          "E": "Sistem saraf motorik"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 15,
+        "question": "Sistem saraf otonom terbagi menjadi?",
+        "options": {
+          "A": "Sistem saraf simpatis dan parasimpatis",
+          "B": "Sistem saraf sensorik dan motorik",
+          "C": "Sistem saraf aferen dan eferen",
+          "D": "Sistem saraf pusat dan tepi",
+          "E": "Sistem saraf korteks dan medula"
+        },
+        "answer": "A",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 16,
+        "question": "Saraf yang membawa informasi dari organ indera ke saraf pusat disebut?",
+        "options": {
+          "A": "Saraf motorik",
+          "B": "Saraf eferen",
+          "C": "Saraf aferen",
+          "D": "Saraf otonom",
+          "E": "Saraf somatik"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 17,
+        "question": "Sistem saraf yang bertanggung jawab untuk respon 'bertarung atau melarikan diri' adalah?",
+        "options": {
+          "A": "Sistem saraf parasimpatis",
+          "B": "Sistem saraf simpatis",
+          "C": "Sistem saraf somatik",
+          "D": "Sistem saraf sensorik",
+          "E": "Sistem saraf motorik"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 18,
+        "question": "Saraf yang membawa pesan dari sistem saraf pusat ke otot disebut?",
+        "options": {
+          "A": "Saraf aferen",
+          "B": "Saraf eferen",
+          "C": "Saraf otonom",
+          "D": "Saraf sensorik",
+          "E": "Saraf vegetatif"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 19,
+        "question": "Sistem saraf yang mengatur aktivitas istirahat dan pencernaan adalah?",
+        "options": {
+          "A": "Sistem saraf simpatis",
+          "B": "Sistem saraf somatik",
+          "C": "Sistem saraf parasimpatis",
+          "D": "Sistem saraf motorik",
+          "E": "Sistem saraf sensorik"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 20,
+        "question": "Contoh saraf tepi yang mengendalikan gerakan kaki adalah?",
+        "options": {
+          "A": "Saraf wajah",
+          "B": "Saraf optik",
+          "C": "Saraf vagus",
+          "D": "Saraf skiatik",
+          "E": "Saraf trigeminal"
+        },
+        "answer": "D",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 21,
+        "question": "Bagian sistem saraf yang terdiri dari saraf-saraf di luar otak dan sumsum tulang belakang disebut...",
+        "options": {
+          "A": "Sistem saraf pusat",
+          "B": "Sistem saraf tepi",
+          "C": "Sistem saraf otonom",
+          "D": "Sistem saraf somatik",
+          "E": "Sistem saraf simpatik"
+        },
+        "answer": "B",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 22,
+        "question": "Saraf tepi terdiri dari dua jenis, yaitu...",
+        "options": {
+          "A": "Saraf aferens dan eferens",
+          "B": "Saraf motorik dan sensorik",
+          "C": "Saraf otonom dan somatik",
+          "D": "Saraf simpatik dan parasimpatik",
+          "E": "Saraf aferens dan otonom"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 23,
+        "question": "Sistem saraf somatik mengatur aktivitas...",
+        "options": {
+          "A": "Organ dalam tubuh",
+          "B": "Jantung dan paru-paru",
+          "C": "Gerakan otot voluntary",
+          "D": "Pencernaan makanan",
+          "E": "Kelenjar keringat"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 24,
+        "question": "Sistem saraf otonom terdiri dari dua divisi, yaitu...",
+        "options": {
+          "A": "Saraf sensorik dan motorik",
+          "B": "Sistem saraf pusat dan tepi",
+          "C": "Sistem saraf simpatik dan parasimpatik",
+          "D": "Sistem saraf aferens dan eferens",
+          "E": "Sistem saraf korteks dan medulla"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      },
+      {
+        "no": 25,
+        "question": "Sistem saraf yang mengatur respons tubuh dalam situasi darurat atau stres adalah...",
+        "options": {
+          "A": "Sistem saraf parasimpatik",
+          "B": "Sistem saraf somatik",
+          "C": "Sistem saraf simpatik",
+          "D": "Sistem saraf aferens",
+          "E": "Sistem saraf otonom"
+        },
+        "answer": "C",
+        "_type": "pilihan_ganda",
+        "_difficulty": "mudah",
+        "_sectionIndex": 0
+      }
+    ],
     "tableConfig": null,
     "pin": "K2S782",
     "link": "K2S782",
