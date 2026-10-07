@@ -1,6 +1,6 @@
 {
   "quizLevel": 33,
-  "lastSyncAt": "2026-10-07T12:14:16.822Z",
+  "lastSyncAt": "2026-10-07T12:16:59.714Z",
   "lastPullAt": "2026-10-07T12:12:10.987Z",
   "totalQuizzes": 33,
   "totalSessions": 27,
@@ -86,6 +86,11 @@
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-10-07T12:16:59.714Z",
+      "details": "Sync 33 quiz, 27 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-10-07T12:14:16.822Z",
@@ -330,11 +335,6 @@
       "type": "full",
       "timestamp": "2026-09-03T12:17:05.837Z",
       "details": "Sync 5 quiz, 6 sesi"
-    },
-    {
-      "type": "auto",
-      "timestamp": "2026-09-03T12:10:30.333Z",
-      "details": "Sync 5 quiz, 5 sesi"
     }
   ],
   "pullHistory": [
