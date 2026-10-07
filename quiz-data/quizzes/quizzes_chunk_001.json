@@ -5172,5 +5172,31 @@
     "link": "THNJ4H",
     "paceMode": "student_pace",
     "createdAt": "2026-10-02T12:39:33.867Z"
+  },
+  {
+    "id": "cmuy2kb4n0000km0aba47nc9c",
+    "title": "SARAF TEPI",
+    "subject": "IPA",
+    "classLevel": "9",
+    "difficulty": "mudah",
+    "minScore": 65,
+    "questionType": "pilihan_ganda",
+    "questionTypes": [
+      {
+        "type": "pilihan_ganda",
+        "count": 25,
+        "point": 4,
+        "optionCount": 5
+      }
+    ],
+    "language": "id",
+    "questionCount": 25,
+    "promptText": "Buatkan soal tentang materi saraf tepi IPA Kelas 9",
+    "questions": [],
+    "tableConfig": null,
+    "pin": "K2S782",
+    "link": "K2S782",
+    "paceMode": "student_pace",
+    "createdAt": "2026-10-07T12:13:56.951Z"
   }
 ]
