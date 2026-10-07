@@ -1,15 +1,15 @@
 {
-  "quizLevel": 33,
-  "lastSyncAt": "2026-10-07T12:16:59.714Z",
+  "quizLevel": 34,
+  "lastSyncAt": "2026-10-07T12:56:35.336Z",
   "lastPullAt": "2026-10-07T12:12:10.987Z",
-  "totalQuizzes": 33,
-  "totalSessions": 27,
+  "totalQuizzes": 34,
+  "totalSessions": 28,
   "chunks": [
     {
       "file": "quizzes/quizzes_chunk_001.json",
       "from": 0,
-      "to": 32,
-      "count": 33,
+      "to": 33,
+      "count": 34,
       "sha": null
     }
   ],
@@ -83,9 +83,21 @@
       "quizTitle": "About Me",
       "sessionCount": 1,
       "sha": null
+    },
+    {
+      "file": "sessions/sessions_cmuy2kb4n0000km0aba47nc9c.json",
+      "quizId": "cmuy2kb4n0000km0aba47nc9c",
+      "quizTitle": "SARAF TEPI",
+      "sessionCount": 1,
+      "sha": null
     }
   ],
   "syncHistory": [
+    {
+      "type": "auto",
+      "timestamp": "2026-10-07T12:56:35.336Z",
+      "details": "Sync 34 quiz, 28 sesi"
+    },
     {
       "type": "auto",
       "timestamp": "2026-10-07T12:16:59.714Z",
@@ -330,11 +342,6 @@
       "type": "session",
       "timestamp": "2026-09-03T12:22:31.031Z",
       "details": "Sync 4 sesi untuk Present Simple : Verbal Sentence (Subject-Verb Agreement)"
-    },
-    {
-      "type": "full",
-      "timestamp": "2026-09-03T12:17:05.837Z",
-      "details": "Sync 5 quiz, 6 sesi"
     }
   ],
   "pullHistory": [
